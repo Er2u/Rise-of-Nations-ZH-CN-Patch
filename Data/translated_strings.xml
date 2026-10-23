@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ROOT internal="0" xml:space="preserve">
 	<STRING hash="45636240" needed="1">找不到 PID。</STRING>
 	<STRING hash="37616765" needed="1">产品识别码: </STRING>
@@ -3628,7 +3628,7 @@
 	<STRING hash="221266954" needed="1">我玩得很开心，我想要继续玩下去。</STRING>
 	<STRING hash="388973017" needed="1">我需要知道更多基本信息，请将我带回教学游戏画面。</STRING>
 	<STRING hash="232529216" needed="1">游戏太慢了。我要开始进行﹝快速上手战斗﹞。</STRING>
-	<STRING hash="55124490" needed="1">游戏尾段</STRING>
+	<STRING hash="55124490" needed="1">结束游戏</STRING>
 	<STRING hash="422839588" needed="1">您决定在游戏结束之前就退出。下一步您想要做什么?</STRING>
 	<STRING hash="258403171" needed="1">学习更多基本信息，进行教学游戏。</STRING>
 	<STRING hash="228678639" needed="1">准备就绪，开始进行﹝快速上手战斗﹞。</STRING>

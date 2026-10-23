@@ -1,4 +1,4 @@
-**License: CC BY-NC-SA 4.0**
+**文本许可：CC BY-NC-SA 4.0；Noto 字体许可：SIL OFL 1.1（见 Data/Fonts/OFL.txt）**
 ---
 # Rise-of-Nations-ZH-CN-Patch
 本项目为《Rise of Nations: Extended Edition》的非官方简体中文汉化补丁。

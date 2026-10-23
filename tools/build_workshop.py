@@ -24,4 +24,4 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('output', type=Path)
     args = parser.parse_args()
-    print(f'{build_workshop(args.output)} local candidate files; unpublished, font distribution unresolved')
+    print(f'{build_workshop(args.output)} local candidate files; unpublished, includes Noto OFL notices')

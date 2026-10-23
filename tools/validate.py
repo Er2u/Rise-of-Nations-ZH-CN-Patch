@@ -126,7 +126,8 @@ def validate(root=ROOT, game=None):
             errors.append(f'Unpaired mod Data file: {path.name}')
     for folder in (root / 'Data', root / 'mods'):
         for path in folder.rglob('*'):
-            if path.is_file() and path.suffix.lower() not in ('.xml', '.ini', '.ttf', '.ttc'):
+            font_notice = path.parent.name == 'Fonts' and path.name in ('OFL.txt', 'SOURCES.txt')
+            if path.is_file() and not font_notice and path.suffix.lower() not in ('.xml', '.ini', '.ttf', '.ttc', '.otf'):
                 errors.append(f'Unexpected payload: {path.relative_to(root)}')
             if path.name.lower() == 'rise2.ini':
                 errors.append('Display preferences must never be shipped')
