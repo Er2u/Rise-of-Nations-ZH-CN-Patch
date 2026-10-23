@@ -1,0 +1,567 @@
+﻿file,key,before,after
+Data/alternatenames.XML,ROOT/ALTERNATENAMES[1]/EPOCHTYPE[@name=Assembly Line][1]/STRING[8],Internet,互联网
+Data/help.xml,ROOT/TRIBES[1]/ENTRY[@name=TRIBE17][1]/STRING[1]/BULLET[3]/@#tail,每多控制 $NUMBER4% 的世界大陆，所额外获得的食物量是所有民族食物量的一半。,每控制世界陆地面积的 $NUMBER4%，食物收入增加 1（再乘以国家数量的一半）。
+Data/help.xml,ROOT/TRIBES[1]/ENTRY[@name=TRIBE20CTW][1]/STRING[1]/BULLET[3]/@#tail,军事单位的升级成本便宜 20%。每个军营单位可获得食物、木材、金属和财富各 +2 单位 (这些单位处于驻守状态时例外) 。,军事单位的升级成本便宜 20%。每个军营单位可获得食物、木材、金属和财富各 +3 单位 (这些单位处于驻守状态时例外) 。
+Data/help.xml,ROOT/SETUPWIN[1]/SETUPCHECKS[1]/ENTRY[@name=SETUPCHECK0][1]/STRING[1],{储存至设定档}: 选取此方块来储存您的设定档。目前的设定值将会成为下次游戏的默认值。,{储存至玩家档案}: 选取此方块来储存您的玩家档案。目前的设定值将会成为下次游戏的默认值。
+Data/help.xml,ROOT/SETUPWIN[1]/POPWINS[1]/ENTRY[@name=POPWIN0][1]/STRING[1],最先控制世界领域 30% 的玩家或团队获胜。这个设定只适用于 2 个玩家或团队以上的游戏。,最先控制世界领域 30% 的玩家或团队获胜。这个设定只适用于 玩家或队伍数量超过 2 个的游戏。
+Data/help.xml,ROOT/SETUPWIN[1]/POPWINS[1]/ENTRY[@name=POPWIN1][1]/STRING[1],最先控制世界领域 35% 的玩家或团队获胜。这个设定只适用于 2 个玩家或团队以上的游戏。,最先控制世界领域 35% 的玩家或团队获胜。这个设定只适用于 玩家或队伍数量超过 2 个的游戏。
+Data/help.xml,ROOT/SETUPWIN[1]/POPWINS[1]/ENTRY[@name=POPWIN2][1]/STRING[1],最先控制世界领域 40% 的玩家或团队获胜。这个设定只适用于 2 个玩家或团队以上的游戏。,最先控制世界领域 40% 的玩家或团队获胜。这个设定只适用于 玩家或队伍数量超过 2 个的游戏。
+Data/help.xml,ROOT/SETUPWIN[1]/POPWINS[1]/ENTRY[@name=POPWIN3][1]/STRING[1],最先控制世界领域 45% 的玩家或团队获胜。这个设定只适用于 2 个玩家或团队以上的游戏。,最先控制世界领域 45% 的玩家或团队获胜。这个设定只适用于 玩家或队伍数量超过 2 个的游戏。
+Data/help.xml,ROOT/SETUPWIN[1]/BUTTON[1]/ENTRY[@name=CANCEL][1]/STRING[1],按一下放弃此游戏并返回上一个功能表。,按一下放弃此游戏并返回上一个菜单。
+Data/help.xml,ROOT/SETUPWIN[1]/BUTTON[1]/ENTRY[@name=OPTIONS][1]/STRING[1],按一下可修改您的玩家设定档与选项。,按一下可修改您的玩家档案与选项。
+Data/help.xml,ROOT/SETUPWIN[1]/BUTTON[1]/ENTRY[@name=OPTIONS_SOLO][1]/STRING[1],按一下可修改您的玩家设定档与选项。,按一下可修改您的玩家档案与选项。
+Data/help.xml,ROOT/SETUPWIN[1]/BUTTON[1]/ENTRY[@name=APPLY][1]/STRING[1],[缺失],按一下应用尚未生效的游戏及玩家设置。待应用的更改以透明背景标记；没有待应用的更改时，此按钮不可用。
+Data/help.xml,ROOT/JOINWIN[1]/BUTTONS[1]/ENTRY[@name=BACK][1]/STRING[1],按一下可返回上一个功能表。,按一下可返回上一个菜单。
+Data/help.xml,ROOT/UNITS[1]/ENTRY[@name=CONQUISTADOR][1]/STRING[1]/BULLET[1]/@#tail,西班牙的独特 {射击骑兵}，火药时代 #ICON31 - 快速的火药武装突击兵，能在移动时射击; 攻击力比其他射击骑兵强大。,西班牙的独特 {射击骑兵}，火药时代 #ICON30 - 快速的火药武装突击兵，能在移动时射击; 攻击力比其他射击骑兵强大。
+Data/help.xml,ROOT/STATS[1]/ENTRY[@name=STATRANGE][1]/STRING[1],射程显示一个单位或建筑能够射击武器的距离。在这个图示上按住滑鼠键，就可以在主要地图看见选择的单位或建筑射程的影像表示。,射程显示一个单位或建筑能够射击武器的距离。在这个图示上按住鼠标键，就可以在主要地图看见选择的单位或建筑射程的影像表示。
+Data/help.xml,ROOT/STATS[1]/ENTRY[@name=STATSUPPLIES][1]/STRING[1],补给单位携带有限的补给物资; 每次因为受到损害而修复 1 点生命点数，都会耗费携带的补给物资。当补给物资耗尽以后，补给单位就会被消灭。,补给单位携带的补给物资有限，每修复 1 点生命值就会消耗补给。补给耗尽后，该单位就会消失。
+Data/help.xml,ROOT/MAIN_IFACE_BUTTONS[1]/ENTRY[@name=MENU][1]/STRING[1],在游戏功能表，您可以{储存}和{载入}游戏、{放弃}或{退出}游戏，或者调整您的喜好设定。,在游戏菜单，您可以{储存}和{载入}游戏、{放弃}或{退出}游戏，或者调整您的喜好设定。
+Data/help.xml,ROOT/TIPS[1]/ENTRY[@name=T0][1]/STRING[1],按一下﹝下个提示﹞可以切换可用的提示。按一下﹝上个提示﹞可以回到之前的提示。您也可以先选择﹝功能表﹞，再选择﹝显示提示﹞来启动这项功能。,按一下﹝下个提示﹞可以切换可用的提示。按一下﹝上个提示﹞可以回到之前的提示。您也可以先选择﹝菜单﹞，再选择﹝显示提示﹞来启动这项功能。
+Data/help.xml,ROOT/TIPS[1]/ENTRY[@name=T1][1]/STRING[1],用滑鼠左键，拖曳方块包围单位群，就可选取一群单位。按右键可以移动选取单位，按住右键的状况下，再按左键则可设定其阵型。,用鼠标左键，拖曳方块包围单位群，就可选取一群单位。按右键可以移动选取单位，按住右键的状况下，再按左键则可设定其阵型。
+Data/help.xml,ROOT/TIPS[1]/ENTRY[@name=T10][1]/STRING[1],如果您想调整游戏选项及喜好设定，请按一下位于画面右上角的{功能表}按钮 (或按一下 {F10}) 再选择{选项}。您也可以调整音乐、音效及视讯设定。,如果您想调整游戏选项及喜好设定，请按一下位于画面右上角的{菜单}按钮 (或按一下 {F10}) 再选择{选项}。您也可以调整音乐、音效及视讯设定。
+Data/help.xml,ROOT/TIPS[1]/ENTRY[@name=T19][1]/STRING[1],若要利用不同等级的细节，请转动滑鼠滚轮来缩放视野。使用 PAGE UP 及 PAGE DOWN 键也可以缩放视野。,若要利用不同等级的细节，请转动鼠标滚轮来缩放视野。使用 PAGE UP 及 PAGE DOWN 键也可以缩放视野。
+Data/help.xml,ROOT/TIPS[1]/ENTRY[@name=T54][1]/STRING[1],按一下默认快速键 {L} 可以选择一座图书馆。快速按两下会使图书馆置中，快速按三下会放大。重复按 {L} 而不快速按两下会在所有图书馆之间切换。其他建筑也有类似的快速键，例如大学用 {U}、市场用 {N}，而城市用 {C}。,按一下默认快捷键 {L} 可以选择一座图书馆。快速按两下会使图书馆置中，快速按三下会放大。重复按 {L} 而不快速按两下会在所有图书馆之间切换。其他建筑也有类似的快捷键，例如大学用 {U}、市场用 {N}，而城市用 {C}。
+Data/help.xml,ROOT/TIPS[1]/ENTRY[@name=T57][1]/STRING[1],若要控制您所选取部队的阵式，请在指定前往的位置按住右键不放，然后在仍然按住滑鼠右键时，按左键选择阵式。您也可以在按住滑鼠右键时拖曳，改变阵式面对的方向。在此时转动滑鼠滚轮，会伸长或压缩阵式; 使用方向键则可以微调阵式的位置。,若要控制您所选取部队的阵式，请在指定前往的位置按住右键不放，然后在仍然按住鼠标右键时，按左键选择阵式。您也可以在按住鼠标右键时拖曳，改变阵式面对的方向。在此时转动鼠标滚轮，会伸长或压缩阵式; 使用方向键则可以微调阵式的位置。
+Data/help.xml,ROOT/TOPMENU[1]/ENTRY[@name=options][1]/STRING[1],按一下可以使用玩家设定档及选项。,按一下可以使用玩家档案及选项。
+Data/help.xml,ROOT/TOPMENU[1]/ENTRY[@name=back][1]/STRING[1],按一下可以返回主功能表。,按一下可以返回主菜单。
+Data/help.xml,ROOT/TOPMENU[1]/ENTRY[@name=back][2]/STRING[1],按一下可以返回主功能表。,按一下可以返回主菜单。
+Data/help.xml,ROOT/TOPMENU[1]/ENTRY[@name=options][2]/STRING[1],按一下可以设定喜好设定、重新对应快速键，并管理您的玩家设定档。,按一下可以设定喜好设定、重新对应快捷键，并管理您的玩家档案。
+Data/help.xml,ROOT/TOPMENU[1]/ENTRY[@name=back][3]/STRING[1],按一下可以返回主功能表。,按一下可以返回主菜单。
+Data/help.xml,ROOT/ENTRY[@name=DRAGEDITOR2][1]/STRING[1],按滑鼠右键可以设定起始顺序。按 SHIFT 同时按右键，可以增加其他传送点。按 CTRL 同时按右键，可以将单位移动到新位置。当按住滑鼠右键不放，同时按一下左键可以设定阵式，滚动滑鼠可以设定阵式的宽度。,按鼠标右键可以设定起始顺序。按 SHIFT 同时按右键，可以增加其他传送点。按 CTRL 同时按右键，可以将单位移动到新位置。当按住鼠标右键不放，同时按一下左键可以设定阵式，滚动鼠标可以设定阵式的宽度。
+Data/help.xml,ROOT/ENTRY[@name=PING][1]/STRING[1]/BULLET[3]/@#tail,您也可以用滑鼠拖曳以画出一个箭头。,您也可以用鼠标拖曳以画出一个箭头。
+Data/help.xml,ROOT/OPTIONSWIN[1]/BUTTON[1]/ENTRY[@name=ASSIGN][1]/STRING[1],按一下可以将上面方块里列出的快速键，指定给左边清单里所选择的功能。,按一下可以将上面方块里列出的快捷键，指定给左边清单里所选择的功能。
+Data/help.xml,ROOT/OPTIONSWIN[1]/BUTTON[1]/ENTRY[@name=REMOVE][1]/STRING[1],按一下可以删除这个键盘快速键。,按一下可以删除这个键盘快捷键。
+Data/help.xml,ROOT/OPTIONSWIN[1]/BUTTON[1]/ENTRY[@name=IMPORT][1]/STRING[1],汇入键盘快速键清单。,汇入键盘快捷键清单。
+Data/help.xml,ROOT/OPTIONSWIN[1]/BUTTON[1]/ENTRY[@name=EXPORT][1]/STRING[1],汇出键盘快速键，如此您便可以将它们转移到另一部机器。,汇出键盘快捷键，如此您便可以将它们转移到另一部机器。
+Data/help.xml,ROOT/OPTIONSWIN[1]/BUTTON[1]/ENTRY[@name=ALL_HIGH][1]/STRING[1],按一下可以让所有图形元件皆使用的高效能特色。,点击将所有画面效果设为高质量。
+Data/help.xml,ROOT/OPTIONSWIN[1]/BUTTON[1]/ENTRY[@name=ALL_LOW][1]/STRING[1],按一下可以让所有图形元件皆使用低效能特色。,点击将所有画面效果设为低质量。
+Data/help.xml,ROOT/OPTIONSWIN[1]/BUTTON[1]/ENTRY[@name=ALL_ON][1]/STRING[1],按一下可以开启所有图形元件。,点击开启所有画面效果。
+Data/help.xml,ROOT/OPTIONSWIN[1]/BUTTON[1]/ENTRY[@name=DELETE][1]/STRING[1],按一下可以删除选择的玩家设定档。,按一下可以删除选择的玩家档案。
+Data/help.xml,ROOT/OPTIONSWIN[1]/BUTTON[1]/ENTRY[@name=NEW][1]/STRING[1],按一下可以建立新的玩家设定档。,按一下可以建立新的玩家档案。
+Data/help.xml,ROOT/OPTIONSWIN[1]/BUTTON[1]/ENTRY[@name=RENAME][1]/STRING[1],按一下可以重新命名选择的玩家设定档。,按一下可以重新命名选择的玩家档案。
+Data/help.xml,ROOT/OPTIONSWIN[1]/BUTTON[1]/ENTRY[@name=ADD_NAME][1]/STRING[1],按一下可以增加新的玩家昵称。您可以使用多个昵称来进行游戏，同时仍保持同一个玩家设定档。,按一下可以增加新的玩家昵称。您可以使用多个昵称来进行游戏，同时仍保持同一个玩家档案。
+Data/help.xml,ROOT/OPTIONSWIN[1]/BUTTON[1]/ENTRY[@name=ACCEPT][1]/STRING[1],按一下可以接受解析度变更。,按一下可以接受分辨率变更。
+Data/help.xml,ROOT/OPTIONSWIN[1]/BUTTON[1]/ENTRY[@name=RENDER_OFF][1]/STRING[1],[缺失],按一下关闭所有图形组件。
+Data/help.xml,ROOT/OPTIONSWIN[1]/BUTTON[1]/ENTRY[@name=RENDER_ON][1]/STRING[1],Text needed for OPTIONSWIN/BUTTON/RENDER_ON in help.xml!,点击开启所有画面效果。
+Data/help.xml,ROOT/OPTIONSWIN[1]/CHECKBOX[1]/ENTRY[@name=CRAFT_AS_GROUP][1]/STRING[1],选取此方块后，当特殊能力用户 (如间谍) 的群组被指定目标时，整个群组都会使用特殊能力 (如收买)。尽管整个群组都要执行这项任务，只有一个单位能在任务成功后使用特殊能力。如果未选取此方块，则每次群组被指定目标时，只有一名特殊功能用户会试图使用特殊能力。,勾选后，指定目标时，编组中的技能单位（如间谍）会一起尝试使用特殊能力（如贿赂），成功时只消耗其中一个单位的技能值。不勾选时，每次指定目标只由编组中的一个单位尝试使用技能。
+Data/help.xml,ROOT/OPTIONSWIN[1]/CHECKBOX[1]/ENTRY[@name=AUTO_CAST][1]/STRING[1],选取此方块可以使特殊功能用户 (如间谍与斥候) ，在闲散时自动使用一些特殊能力。,勾选后，间谍、斥候等拥有特殊能力的单位会在空闲时自动使用部分技能。
+Data/help.xml,ROOT/OPTIONSWIN[1]/CHECKBOX[1]/ENTRY[@name=LOW][1]/STRING[1],设定为低效能的画面元件会使用低效能图样来加快图形转换。,设为低质量时，会减少画面细节以提高渲染速度。
+Data/help.xml,ROOT/OPTIONSWIN[1]/CHECKBOX[1]/ENTRY[@name=HIGH][1]/STRING[1],设定为高效能的画面元件会使用高效能图样来呈现最佳图形细节。,设为高质量时，会显示更多画面细节。
+Data/help.xml,ROOT/OPTIONSWIN[1]/CHECKBOX[1]/ENTRY[@name=ALLOW_IN_GAME_MUSIC][1]/STRING[1],选取此方块就可在游戏进行时听到音乐。若未选取此方块，则音乐只会在主功能表中播放。玩家的系统若不够快，不选取此方块则会有较快的游戏效能。,勾选后，将在游戏过程中播放音乐。配置较低的电脑可取消勾选以提高运行速度。
+Data/help.xml,ROOT/OPTIONSWIN[1]/CHECKBOX[1]/ENTRY[@name=BUILDING_STANCES][1]/STRING[1],按一下可以设定所有建筑所生产单位的默认建造态势。请注意: 您也可以针对个别建筑来作不同的默认态势。,设置所有建筑新训练单位的默认姿态。您也可以为单座建筑设置不同的默认姿态。
+Data/help.xml,ROOT/OPTIONSWIN[1]/CHECKBOX[1]/ENTRY[@name=ALWAYS_COMBINE][1]/STRING[1],选取此方块，将在众多单位无法同时以全形显示时，同类单位的单位图示，合并成单一图示 (并用一个号码表示单位数量)。如果没有选取此方块，单位图示只在必须配合有限画面空间时才会合并。,勾选后，当单位图标无法以原始大小全部显示时，同类单位会合并为一个图标，并用数字标示数量。不勾选时，图标会缩小以适应可用空间。
+Data/help.xml,ROOT/OPTIONSWIN[1]/CHECKBOX[1]/ENTRY[@name=RECORD_GAMES][1]/STRING[1],选取此方块可记录游戏，并能在稍后播放。若要在稍后播放游戏，请在单人或多人游戏功能表选择「记录游戏」。,选取此方块可记录游戏，并能在稍后播放。若要在稍后播放游戏，请在单人或多人游戏菜单选择「记录游戏」。
+Data/help.xml,ROOT/OPTIONSWIN[1]/CHECKBOX[1]/ENTRY[@name=ALLOW_MAIN_MENU_MUSIC][1]/STRING[1],选取此方块可在主功能表中听到音乐。,选取此方块可在主菜单中听到音乐。
+Data/help.xml,ROOT/OPTIONSWIN[1]/CHECKBOX[1]/ENTRY[@name=DISABLE_AUDIO_DUCKING][1]/STRING[1],选取此方块可关闭windows音效。,勾选后，禁止 Windows 在检测到通信活动时自动降低游戏音量。
+Data/help.xml,ROOT/OPTIONSWIN[1]/CHECKBOX[1]/ENTRY[@name=LOW_ONOFF][1]/STRING[1],选取此方块可使用低效能图样来加快图形转换。,设为关闭时，将禁用这项画面效果，提高渲染速度。
+Data/help.xml,ROOT/OPTIONSWIN[1]/CHECKBOX[1]/ENTRY[@name=HIGH_ONOFF][1]/STRING[1],选取此方块可用高效能图样来呈现最佳图形细节。,设为开启时，将启用这项画面效果，增加画面细节。
+Data/help.xml,ROOT/OPTIONSWIN[1]/SPOT[1]/ENTRY[@name=HOTKEYS][1]/STRING[1],﹝快速键﹞索引标签可让您为多数的游戏命令指定键盘快速键。,﹝快捷键﹞索引标签可让您为多数的游戏命令指定键盘快捷键。
+Data/help.xml,ROOT/OPTIONSWIN[1]/SPOT[1]/ENTRY[@name=MOUSE][1]/STRING[1],﹝滑鼠﹞索引标签可让您控制滑鼠的表现。,﹝鼠标﹞索引标签可让您控制鼠标的表现。
+Data/help.xml,ROOT/OPTIONSWIN[1]/SPOT[1]/ENTRY[@name=GRAPHICS][1]/STRING[1],﹝画面﹞索引标签可让您选择显示解析度，并最佳化视讯效能。,﹝画面﹞索引标签可让您选择显示分辨率，并最佳化视讯效能。
+Data/help.xml,ROOT/OPTIONSWIN[1]/SPOT[1]/ENTRY[@name=PLAYER][1]/STRING[1],﹝玩家﹞索引标签可让您管理玩家设定档与昵称。,﹝玩家﹞索引标签可让您管理玩家档案与昵称。
+Data/help.xml,ROOT/OPTIONSWIN[1]/SPOT[1]/ENTRY[@name=PLAYER_DISABLED][1]/STRING[1],﹝玩家﹞索引标签可让您管理玩家设定档及昵称。这项索引标签在游戏或剧情进行时无法使用。,﹝玩家﹞索引标签可让您管理玩家档案及昵称。这项索引标签在游戏或剧情进行时无法使用。
+Data/help.xml,ROOT/OPTIONSWIN[1]/LISTBOX[1]/ENTRY[@name=PROFILE][1]/STRING[1],这个方块列出所有可用的玩家设定档，您可以按一下其中之一，再使用显示在右边的按钮。,这个方块列出所有可用的玩家档案，您可以按一下其中之一，再使用显示在右边的按钮。
+Data/help.xml,ROOT/OPTIONSWIN[1]/LISTBOX[1]/ENTRY[@name=NICKNAME][1]/STRING[1],这个方块列出所有可用于此设定档的玩家昵称。您可以使用昵称在不同的「控制代码」下进行游戏，同时依然使用相同的喜好设定。,这里列出当前玩家档案中的昵称。您可以使用不同昵称进行游戏，同时保留同一套偏好设置。
+Data/help.xml,ROOT/OPTIONSWIN[1]/LISTBOX[1]/ENTRY[@name=HOTKEYS][1]/STRING[1],这个方块列出所有可用的快速键设定。您在一项快速键设定上按一下，便可以改变或检查它。,这个方块列出所有可用的快捷键设定。您在一项快捷键设定上按一下，便可以改变或检查它。
+Data/help.xml,ROOT/OPTIONSWIN[1]/LISTBOX[1]/ENTRY[@name=KEY][1]/STRING[1],这个方块列出所有可用的快速键设定。您在一项快速键设定上按一下，便可以改变或检查它。,这个方块列出所有可用的快捷键设定。您在一项快捷键设定上按一下，便可以改变或检查它。
+Data/help.xml,ROOT/OPTIONSWIN[1]/LISTBOX[1]/ENTRY[@name=ASSIGNED][1]/STRING[1],此项显示目前指派给快速键顺序的命令。,此项显示目前指派给快捷键顺序的命令。
+Data/help.xml,ROOT/OPTIONSWIN[1]/LISTBOX[1]/ENTRY[@name=NAME][1]/STRING[1],这个方块列出所有可用于此设定档的玩家昵称。您可以使用昵称在不同的「控制代码」下进行游戏，同时依然使用相同的喜好设定。,这里列出当前玩家档案中的昵称。您可以使用不同昵称进行游戏，同时保留同一套偏好设置。
+Data/help.xml,ROOT/OPTIONSWIN[1]/COMBOBOX[1]/ENTRY[@name=GROUPS][1]/STRING[1],按一下可以筛选出那些键盘快速键会显示在清单上。,按一下可以筛选出那些键盘快捷键会显示在清单上。
+Data/help.xml,ROOT/OPTIONSWIN[1]/COMBOBOX[1]/ENTRY[@name=RESOLUTION][1]/STRING[1],按一下可设定显示解析度。,按一下可设定显示分辨率。
+Data/help.xml,ROOT/OPTIONSWIN[1]/EDITBOX[1]/ENTRY[@name=EDIT][1]/STRING[1],在方块里按一下，再为选择的功能按一下想要配合使用的键盘快速键。您也可以按滑鼠中间键，转动滑鼠滚轮，或按一下任何「扩充」的滑鼠键。在这里无法重新对应主要的滑鼠左、右键。,在方块里按一下，再为选择的功能按一下想要配合使用的键盘快捷键。您也可以按鼠标中间键，转动鼠标滚轮，或按一下任何「扩充」的鼠标键。在这里无法重新对应主要的鼠标左、右键。
+Data/help.xml,ROOT/NETSEARCHWIN[1]/BUTTON[1]/ENTRY[@name=CANCEL][1]/STRING[1],按一下可以取消并返回上一个功能表。,按一下可以取消并返回上一个菜单。
+Data/help.xml,ROOT/GAMESPYLOGIN[1]/BUTTON[1]/ENTRY[@name=CREATE][1]/STRING[1],按一下可以建立新的 GameSpy 设定档。,按一下可以建立新的 GameSpy 玩家档案。
+Data/help.xml,ROOT/GAMESPYLOGIN[1]/BUTTON[1]/ENTRY[@name=CANCEL][1]/STRING[1],按一下可以取消并返回上一个功能表。,按一下可以取消并返回上一个菜单。
+Data/help.xml,ROOT/GAMESPYLOGIN[1]/BUTTON[1]/ENTRY[@name=CREATE_NEW][1]/STRING[1],按一下可建立新的 GameSpy 设定档。您将需要输入您的电子邮件地址，并在上面的方块选择昵称及密码。,按一下可建立新的 GameSpy 玩家档案。您将需要输入您的电子邮件地址，并在上面的方块选择昵称及密码。
+Data/help.xml,ROOT/GAMESPYLOGIN[1]/BUTTON[1]/ENTRY[@name=CANCEL_NEW][1]/STRING[1],按一下可以取消并返回上一个功能表。,按一下可以取消并返回上一个菜单。
+Data/help.xml,ROOT/GAMESPYTITLE[1]/BUTTON[1]/ENTRY[@name=QUIT][1]/STRING[1],按一下可以取消并返回上一个功能表。,按一下可以取消并返回上一个菜单。
+Data/help.xml,ROOT/GAMESPYTITLE[1]/BUTTON[1]/ENTRY[@name=INVITE][1]/STRING[1],[缺失],您收到了一位好友的游戏邀请！按一下查看。
+Data/help.xml,ROOT/GAMESPYTITLE[1]/BUTTON[1]/ENTRY[@name=PLAYERDETAILSBLOCKUSER][1]/STRING[1],[缺失],按一下屏蔽此玩家。
+Data/help.xml,ROOT/GAMESPYTITLE[1]/BUTTON[1]/ENTRY[@name=PLAYERDETAILSUNBLOCKUSER][1]/STRING[1],[缺失],按一下取消屏蔽此玩家。
+Data/help.xml,ROOT/GAMESPYTITLE[1]/COMBOBOX[1]/ENTRY[@name=REGION][1]/STRING[1],Text needed for GAMESPYTITLE/COMBOBOX/REGION in help.xml!,点击选择地区。
+Data/help.xml,ROOT/GAMESPYCREATE[1]/BUTTON[1]/ENTRY[@name=CANCEL][1]/STRING[1],按一下可以取消并返回上一个功能表。,按一下可以取消并返回上一个菜单。
+Data/help.xml,ROOT/TUTORIALWIN[1]/BUTTON[1]/ENTRY[@name=CANCEL][1]/STRING[1],按一下可以返回主功能表。,按一下可以返回主菜单。
+Data/help.xml,ROOT/SKILLTESTWIN[1]/BUTTON[1]/ENTRY[@name=BACK][1]/STRING[1],按一下可返回﹝工具与其他功能﹞功能表。,按一下可返回﹝工具与其他功能﹞菜单。
+Data/help.xml,ROOT/CONQUESTSETUPWIN[1]/BUTTON[1]/ENTRY[@name=CANCEL][1]/STRING[1],按一下可返回上一个功能表。,按一下可返回上一个菜单。
+Data/help.xml,ROOT/ACHIEVEWIN[1]/BUTTON[1]/ENTRY[@name=MAIN_MENU][1]/STRING[1],按一下可进入主功能表。,按一下可进入主菜单。
+Data/help.xml,ROOT/ACHIEVECHART[1]/SPOT[1]/ENTRY[@name=MOUSE_CLICKS][1]/STRING[1],玩家按过滑鼠键的次数。,玩家按过鼠标键的次数。
+Data/help.xml,ROOT/ACHIEVECHART[1]/SPOT[1]/ENTRY[@name=PLAYER_SPEED][1]/STRING[1],玩家每分钟按滑鼠键或使用快速键的次数。,玩家每分钟按鼠标键或使用快捷键的次数。
+Data/help.xml,ROOT/ACHIEVECHART[1]/SPOT[1]/ENTRY[@name=HOTKEYS_PRESSED][1]/STRING[1],玩家使用快速键的次数。,玩家使用快捷键的次数。
+Data/help.xml,ROOT/ACHIEVECHART[1]/SPOT[1]/ENTRY[@name=INTERFACE_CLICKS][1]/STRING[1],玩家在介面中按滑鼠键的次数。,玩家在介面中按鼠标键的次数。
+Data/help.xml,ROOT/ACHIEVECHART[1]/SPOT[1]/ENTRY[@name=MINIMAP_CLICKS][1]/STRING[1],玩家在迷你地图中按滑鼠键的次数。,玩家在迷你地图中按鼠标键的次数。
+Data/help.xml,ROOT/ACHIEVECHART[1]/SPOT[1]/ENTRY[@name=MAINMAP_CLICKS][1]/STRING[1],玩家在主要地图上按滑鼠键的次数。,玩家在主要地图上按鼠标键的次数。
+Data/help.xml,ROOT/CONQUESTDIPLOWIN[1]/BUTTON[1]/ENTRY[@name=NEGOTIATE][1]/STRING[1],Text needed for CONQUESTDIPLOWIN/BUTTON/NEGOTIATE in help.xml!,点击进行谈判。
+Data/help.xml,ROOT/CONQUESTFINALWIN[1]/BUTTON[1]/ENTRY[@name=MENU][1]/STRING[1],按一下可退出到主功能表。,按一下可退出到主菜单。
+Data/help.xml,ROOT/MAINMENUCONQUEST[1]/BUTTON[1]/ENTRY[@name=GAME_OPTIONS][1]/STRING[1],按一下可修改您的玩家设定档与选项。,按一下可修改您的玩家档案与选项。
+Data/help.xml,ROOT/ENDGAMEWIN[1]/BUTTON[1]/ENTRY[@name=EXAMINE_MAP][1]/STRING[1],按一下可以隐藏结束游戏功能表，并检视整个地图。,按一下可以隐藏结束游戏菜单，并检视整个地图。
+Data/help.xml,ROOT/ENDGAMEWIN[1]/BUTTON[1]/ENTRY[@name=QUIT][1]/STRING[1],按一下可以返回主功能表。,按一下可以返回主菜单。
+Data/help.xml,ROOT/ENDGAMEWIN[1]/BUTTON[1]/ENTRY[@name=GAME_REPORT][1]/STRING[1],Text needed for ENDGAMEWIN/BUTTON/GAME_REPORT in help.xml!,点击查看游戏报告。
+Data/help.xml,ROOT/CONQUESTNEGOTIATEWIN[1]/LISTBOX[1]/ENTRY[@name=STANCE][1]/STRING[1],Text needed for CONQUESTNEGOTIATEWIN/LISTBOX/STANCE in help.xml!,选择谈判时的外交立场。
+Data/help.xml,ROOT/CONQUESTNEGOTIATEWIN[1]/COMBOBOX[1]/ENTRY[@name=STANCE][1]/STRING[1],Text needed for CONQUESTNEGOTIATEWIN/COMBOBOX/STANCE in help.xml!,选择谈判时的外交立场。
+Data/help.xml,ROOT/TWITCHWIN[1]/CHECKBOX[1]/ENTRY[@name=ENABLE_CAMERA][1]/STRING[1],显示在线串流媒体的解析度。,显示在线串流媒体的分辨率。
+Data/help.xml,ROOT/TWITCHWIN[1]/COMBOBOX[1]/ENTRY[@name=RESOLUTIONS][1]/STRING[1],设定Twitch解析度。,设定Twitch分辨率。
+Data/help.xml,ROOT/WORKSHOPWIN[1]/BUTTON[1]/ENTRY[@name=BTN-BACK][1]/STRING[1],按一下可返回﹝工具与其他功能﹞功能表。,按一下可返回﹝工具与其他功能﹞菜单。
+Data/help.xml,ROOT/PUBLISHWIN[1]/COMBOBOX[1]/ENTRY[@name=COMBO-VISIBILITY][1]/STRING[1],Text needed for PUBLISHWIN/COMBOBOX/COMBO-VISIBILITY in help.xml!,选择发布到创意工坊后，哪些人可以查看此项目。
+Data/options.xml,ROOT/OPTION[19]/NAME[1],后退态势,上一个姿态
+Data/options.xml,ROOT/OPTION[21]/NAME[1],后退阵式,上一个阵形
+Data/options.xml,ROOT/OPTION[28]/NAME[1],警告平民,让市民避难
+Data/options.xml,ROOT/OPTION[52]/DESC[1],按一下将建筑设为集结点。,点击为该建筑设置集结点。
+Data/options.xml,ROOT/OPTION[64]/NAME[1],建筑态势,新建单位姿态
+Data/options.xml,ROOT/OPTION[81]/DESC[1],按一下返回﹝主要外交﹞功能表。,按一下返回﹝主要外交﹞菜单。
+Data/options.xml,ROOT/OPTION[89]/NAME[1],退出,撤出
+Data/options.xml,ROOT/OPTION[90]/NAME[1],游戏功能表,游戏菜单
+Data/options.xml,ROOT/OPTION[90]/DESC[1],按一下可开启游戏功能表。,按一下可开启游戏菜单。
+Data/options.xml,ROOT/OPTION[127]/NAME[1],说明文字细节,提示详细程度
+Data/options.xml,ROOT/OPTION[128]/NAME[1],上个说明细节,降低提示详细程度
+Data/options.xml,ROOT/OPTION[129]/DESC[1],按一下可切换进阶功能表。,按一下可切换进阶菜单。
+Data/options.xml,ROOT/OPTION[133]/NAME[1],切换后方单位,显示被遮挡单位
+Data/options.xml,ROOT/OPTION[166]/NAME[1],"好""","资源"""
+Data/options.xml,ROOT/OPTION[169]/NAME[1],托曳,拖动
+Data/options.xml,ROOT/OPTION[170]/NAME[1],将滑鼠指标移至物体上方,将鼠标指标移至物体上方
+Data/options.xml,ROOT/OPTION[171]/NAME[1],退出,撤出
+Data/options.xml,ROOT/OPTION[171]/DESC[1],按一下来退出此一单位。,点击让该单位撤出。
+Data/options.xml,ROOT/OPTION[172]/NAME[1],退出空中加油,起飞（正在加油）
+Data/options.xml,ROOT/OPTION[173]/NAME[1],退出空中整备,起飞（已就绪）
+Data/options.xml,ROOT/OPTION[185]/DESC[1],按右键产生单位。按左键进行选择。(快速键: CTRL+# 产生; # 选择; SHIFT+# 消除)。,右键创建编组，左键选择编组。（快捷键：CTRL+# 创建；# 选择；SHIFT+# 删除。）
+Data/options.xml,ROOT/OPTION[209]/DESC[1],按一下可建立、编辑或报错此剧情的指令码。,点击创建、编辑或调试此剧情的脚本。
+Data/options.xml,ROOT/OPTION[217]/DESC[1],按一下显示﹝剧情编辑器﹞的选项功能表。,按一下显示﹝剧情编辑器﹞的选项菜单。
+Data/options.xml,ROOT/OPTION[218]/NAME[1],退出,撤出
+Data/options.xml,ROOT/OPTION[228]/DESC[1],按一下可增加选择物体的生命点数。按住 SHIFT 再按滑鼠左键可快速增加，按住 ALT 再按滑鼠左键可以最快速度增加，按住 CTRL 再按滑鼠左键则是以非常慢的速度增加。,按一下可增加选择物体的生命点数。按住 SHIFT 再按鼠标左键可快速增加，按住 ALT 再按鼠标左键可以最快速度增加，按住 CTRL 再按鼠标左键则是以非常慢的速度增加。
+Data/options.xml,ROOT/OPTION[229]/DESC[1],按一下可减少选择物体的生命点数。按住 SHIFT 再按滑鼠左键可快速减少，按住 ALT 再按滑鼠左键可以最快速度减少，按住 CTRL 再按滑鼠左键则是以非常慢的速度减少。,按一下可减少选择物体的生命点数。按住 SHIFT 再按鼠标左键可快速减少，按住 ALT 再按鼠标左键可以最快速度减少，按住 CTRL 再按鼠标左键则是以非常慢的速度减少。
+Data/options.xml,ROOT/OPTION[230]/NAME[1],增加特殊功能,增加技能值
+Data/options.xml,ROOT/OPTION[230]/DESC[1],按一下可增加选择物体的特殊功能。按住 SHIFT 再按滑鼠左键可快速增加，按住 ALT 再按滑鼠左键可以最快速度增加，按住 CTRL 再按滑鼠左键则是以非常慢的速度增加。,按一下可增加选择物体的特殊功能。按住 SHIFT 再按鼠标左键可快速增加，按住 ALT 再按鼠标左键可以最快速度增加，按住 CTRL 再按鼠标左键则是以非常慢的速度增加。
+Data/options.xml,ROOT/OPTION[231]/NAME[1],减少特殊功能,减少技能值
+Data/options.xml,ROOT/OPTION[231]/DESC[1],按一下可减少选择物体的特殊功能。按住 SHIFT 再按滑鼠左键可快速减少，按住 ALT 再按滑鼠左键可以最快速度减少，按住 CTRL 再按滑鼠左键则是以非常慢的速度减少。,按一下可减少选择物体的特殊功能。按住 SHIFT 再按鼠标左键可快速减少，按住 ALT 再按鼠标左键可以最快速度减少，按住 CTRL 再按鼠标左键则是以非常慢的速度减少。
+Data/options.xml,ROOT/OPTION[237]/NAME[1],变更地图识别值种子,更改地图随机种子
+Data/options.xml,ROOT/OPTION[237]/DESC[1],按一下变更地图的识别值种子。,点击更改地图的随机种子。
+Data/options.xml,ROOT/OPTION[243]/NAME[1],随机选取民族,切换民族
+Data/options.xml,ROOT/OPTION[257]/NAME[1],新增特色,添加地表装饰
+Data/options.xml,ROOT/OPTION[267]/DESC[1],按一下可增加这项资源 $NUMBER0 单位。按住 CTRL 再按滑鼠左键可得 100 单位，按住 SHIFT 再按滑鼠左键可得 500 单位，按住 ALT 再按滑鼠左键可得 10000 单位，同时按住 CTRL 及 SHIFT 再按滑鼠左键可得 1 单位。,按一下可增加这项资源 $NUMBER0 单位。按住 CTRL 再按鼠标左键可得 100 单位，按住 SHIFT 再按鼠标左键可得 500 单位，按住 ALT 再按鼠标左键可得 10000 单位，同时按住 CTRL 及 SHIFT 再按鼠标左键可得 1 单位。
+Data/options.xml,ROOT/OPTION[268]/DESC[1],按一下可减少这项资源 $NUMBER0 单位。按住 CTRL 再按滑鼠左键减少 100 单位，按住 SHIFT 再按滑鼠左键减少 500 单位，按住 ALT 再按滑鼠左键减少 10000 单位，同时按住 CTRL 及 SHIFT 再按滑鼠左键减少 1 单位。,按一下可减少这项资源 $NUMBER0 单位。按住 CTRL 再按鼠标左键减少 100 单位，按住 SHIFT 再按鼠标左键减少 500 单位，按住 ALT 再按鼠标左键减少 10000 单位，同时按住 CTRL 及 SHIFT 再按鼠标左键减少 1 单位。
+Data/options.xml,ROOT/OPTION[272]/DESC[1],按一下可增加每项资源 $NUMBER0 单位。按住 CTRL 再按滑鼠左键可得 100 单位，按住 SHIFT 再按滑鼠左键可得 500 单位，按住 ALT 再按滑鼠左键可得 10000 单位，同时按住 CTRL 及 SHIFT 再按滑鼠左键可得 1 单位。,按一下可增加每项资源 $NUMBER0 单位。按住 CTRL 再按鼠标左键可得 100 单位，按住 SHIFT 再按鼠标左键可得 500 单位，按住 ALT 再按鼠标左键可得 10000 单位，同时按住 CTRL 及 SHIFT 再按鼠标左键可得 1 单位。
+Data/options.xml,ROOT/OPTION[274]/DESC[1],按一下可减少每项资源 $NUMBER0 单位。按住 CTRL 再按滑鼠左键减少 100 单位，按住 SHIFT 再按滑鼠左键减少 500 单位，按住 ALT 再按滑鼠左键减少 10000 单位，同时按住 CTRL 及 SHIFT 再按滑鼠左键减少 1 单位。,按一下可减少每项资源 $NUMBER0 单位。按住 CTRL 再按鼠标左键减少 100 单位，按住 SHIFT 再按鼠标左键减少 500 单位，按住 ALT 再按鼠标左键减少 10000 单位，同时按住 CTRL 及 SHIFT 再按鼠标左键减少 1 单位。
+Data/options.xml,ROOT/OPTION[286]/NAME[1],新增随机特色,添加随机地表装饰
+Data/options.xml,ROOT/OPTION[287]/NAME[1],移除一个特色,移除一处地表装饰
+Data/options.xml,ROOT/OPTION[288]/NAME[1],清除所有特色,清除所有地表装饰
+Data/options.xml,ROOT/OPTION[291]/DESC[1],选取这个按钮并往左拖曳来提升地形高度。选取这个按钮并往右拖曳来降低地形高度。,选择此按钮后，按住鼠标左键拖动可升高地形，按住鼠标右键拖动可降低地形。
+Data/options.xml,ROOT/OPTION[294]/NAME[1],套用变更,应用更改
+Data/options.xml,ROOT/OPTION[296]/NAME[1],移除特色,移除地表装饰
+Data/options.xml,ROOT/OPTION[327]/DESC[1],按一下不用放大就可选择爱国者。,点击选择爱国者，不移动或缩放视角。
+Data/options.xml,ROOT/OPTION[329]/NAME[1],受损单位的选择筛选器,仅保留选中的受损单位
+Data/options.xml,ROOT/OPTION[330]/NAME[1],画面单位的选择筛选器,仅保留屏幕内的选中单位
+Data/playerprofile.XML,ROOT/KEYS[1]/KEY[20]/STRING[1],显示设定档,显示玩家档案
+Data/playerprofile.XML,ROOT/KEYS[1]/KEY[20]/SHORT_STRING[1],显示设定档,显示玩家档案
+Data/playerprofile.XML,ROOT/KEYS[1]/KEY[21]/STRING[1],切换执行设定档,切换执行玩家档案
+Data/playerprofile.XML,ROOT/KEYS[1]/KEY[21]/SHORT_STRING[1],设定档执行中,玩家档案执行中
+Data/playerprofile.XML,ROOT/KEYS[1]/KEY[49]/STRING[1],清除设定档,清除玩家档案
+Data/playerprofile.XML,ROOT/KEYS[1]/KEY[49]/SHORT_STRING[1],清除设定档,清除玩家档案
+Data/playerprofile.XML,ROOT/KEYS[1]/KEY[50]/STRING[1],删除设定档,删除玩家档案
+Data/playerprofile.XML,ROOT/KEYS[1]/KEY[50]/SHORT_STRING[1],删除设定档,删除玩家档案
+Data/playerprofile.XML,ROOT/KEYS[1]/KEY[51]/STRING[1],删除记忆体设定档,删除记忆体玩家档案
+Data/playerprofile.XML,ROOT/KEYS[1]/KEY[51]/SHORT_STRING[1],删除记忆体设定档,删除记忆体玩家档案
+Data/playerprofile.XML,ROOT/KEYS[1]/KEY[52]/STRING[1],退出,撤出
+Data/playerprofile.XML,ROOT/KEYS[1]/KEY[52]/SHORT_STRING[1],退出,撤出
+Data/playerprofile.XML,ROOT/KEYS[1]/KEY[247]/STRING[1],退出,撤出
+Data/playerprofile.XML,ROOT/KEYS[1]/KEY[247]/SHORT_STRING[1],退出,撤出
+Data/playerprofile.XML,ROOT/KEYS[1]/KEY[344]/STRING[1],切换进阶功能表,切换进阶菜单
+Data/playerprofile.XML,ROOT/KEYS[1]/KEY[344]/SHORT_STRING[1],进阶功能表,进阶菜单
+Data/playerprofile.XML,ROOT/KEYS[1]/KEY[350]/STRING[1],游戏功能表,游戏菜单
+Data/playerprofile.XML,ROOT/KEYS[1]/KEY[350]/SHORT_STRING[1],游戏功能表,游戏菜单
+Data/playerprofile.XML,ROOT/KEYS[1]/KEY[492]/STRING[1],受损单位的选择筛选器,仅保留选中的受损单位
+Data/playerprofile.XML,ROOT/KEYS[1]/KEY[492]/SHORT_STRING[1],受损单位的选择筛选器,仅保留选中的受损单位
+Data/playerprofile.XML,ROOT/KEYS[1]/KEY[493]/STRING[1],画面单位的选择筛选器,仅保留屏幕内的选中单位
+Data/playerprofile.XML,ROOT/KEYS[1]/KEY[493]/SHORT_STRING[1],画面单位的选择筛选器,仅保留屏幕内的选中单位
+Data/resourcerules_strings.XML,ROOT/CAT[@hash=587613][1]/STRING[@hash=147467286][1],减少研究与升级次数 $NUMBER0%。,研究和升级所需时间减少 $NUMBER0%。
+Data/resourcerules_strings.XML,ROOT/CAT[@hash=587613][1]/STRING[@hash=177991301][1],弓兵、塔楼、堡垒和城市受到 +$NUMBER1 攻击。,弓兵、塔楼、堡垒和城市的攻击力增加 $NUMBER1。
+Data/resourcerules_strings.XML,ROOT/CAT[@hash=587613][1]/STRING[@hash=113325601][1],增加单位的成本减少 $NUMBER0%。,单位成本的递增幅度降低 $NUMBER0%。
+Data/rules_string_lookup.XML,ROOT/CAT[@hash=3630095][1]/STRING[@hash=154669543][1],寺庙增加 $NUMBER0% 城市战斗范围。,寺庙使城市的攻击射程增加 $NUMBER0。
+Data/rules_string_lookup.XML,ROOT/CAT[@hash=3630095][1]/STRING[@hash=399782665][1],将商人 (及全部渔夫) 在盟友领域的搜集率增加为 $NUMBER0% (等级 1)。,友好领土内的商人，以及所有渔夫的采集速率提高至 $NUMBER0%（等级 1）。
+Data/rules_string_lookup.XML,ROOT/CAT[@hash=3630095][1]/STRING[@hash=391150078][1],将商人 (及全部渔夫) 在盟友领域的搜集率增加为 $NUMBER0% (等级 2)。,友好领土内的商人，以及所有渔夫的采集速率提高至 $NUMBER0%（等级 2）。
+Data/rules_string_lookup.XML,ROOT/CAT[@hash=3630095][1]/STRING[@hash=391294959][1],将商人 (及全部渔夫) 在盟友领域的搜集率增加为 $NUMBER0% (等级 3)。,友好领土内的商人，以及所有渔夫的采集速率提高至 $NUMBER0%（等级 3）。
+Data/rules_string_lookup.XML,ROOT/CAT[@hash=3630095][1]/STRING[@hash=391449836][1],将商人 (及全部渔夫) 在盟友领域的搜集率增加为 $NUMBER0% (等级 4)。,友好领土内的商人，以及所有渔夫的采集速率提高至 $NUMBER0%（等级 4）。
+Data/rules_string_lookup.XML,ROOT/CAT[@hash=3630095][1]/STRING[@hash=504703001][1],将商人 (及所有渔夫的非食物资源) 在盟友领域的搜集率增加为 $NUMBER0% (等级 1)。,友好领土内的商人，以及所有渔夫采集非食物资源的采集速率提高至 $NUMBER0%（等级 1）。
+Data/rules_string_lookup.XML,ROOT/CAT[@hash=3630095][1]/STRING[@hash=494144704][1],将商人 (及所有渔夫的非食物资源) 在盟友领域的搜集率增加为 $NUMBER0% (等级 2)。,友好领土内的商人，以及所有渔夫采集非食物资源的采集速率提高至 $NUMBER0%（等级 2）。
+Data/rules_string_lookup.XML,ROOT/CAT[@hash=3630095][1]/STRING[@hash=494244761][1],将商人 (及所有渔夫的非食物资源) 在盟友领域的搜集率增加为 $NUMBER0% (等级 3)。,友好领土内的商人，以及所有渔夫采集非食物资源的采集速率提高至 $NUMBER0%（等级 3）。
+Data/rules_string_lookup.XML,ROOT/CAT[@hash=3630095][1]/STRING[@hash=494356956][1],将商人 (及所有渔夫的非食物资源) 在盟友领域的搜集率增加为 $NUMBER0% (等级 4)。,友好领土内的商人，以及所有渔夫采集非食物资源的采集速率提高至 $NUMBER0%（等级 4）。
+Data/rules_string_lookup.XML,ROOT/CAT[@hash=3630095][1]/STRING[@hash=183364647][1],军事研究及军营降价 $NUMBER0% 。,军事研究和军营单位的成本降低 $NUMBER0%。
+Data/rules_string_lookup.XML,ROOT/CAT[@hash=3630095][1]/STRING[@hash=626259554][1],商业限制增加 $NUMBER0; 获得议员 (可提供治疗、建筑物防御/建筑速度加分的将军)。,商业上限增加 $NUMBER0；获得议员（可提供治疗、贿赂和建筑防御加成的将军）。
+Data/rules_string_lookup.XML,ROOT/CAT[@hash=3630095][1]/STRING[@hash=624034876][1],商业限制增加 $NUMBER0; 获得议员 (可提供治疗、行贿、建筑物防御加分的将军)。,商业上限增加 $NUMBER0；获得议员（可提供治疗、贿赂和建筑防御加成的将军）。
+Data/string_lookup.XML,ROOT/CAT[@hash=1979549][1]/STRING[@hash=4986669][1],侵略,主动攻击
+Data/string_lookup.XML,ROOT/CAT[@hash=1979549][1]/STRING[@hash=7441301][1],坚守,原地坚守
+Data/string_lookup.XML,ROOT/CAT[@hash=1979549][1]/STRING[@hash=1633076][1],搜集,采集
+Data/string_lookup.XML,ROOT/CAT[@hash=1979549][1]/STRING[@hash=10032762][1],建造与搜集,建造与采集
+Data/string_lookup.XML,ROOT/CAT[@hash=1979549][1]/STRING[@hash=531728][1],闲散,空闲
+Data/string_lookup.XML,ROOT/CAT[@hash=1979549][1]/STRING[@hash=5396068][1],自动特殊功能,自动使用技能
+Data/string_lookup.XML,ROOT/CAT[@hash=1979549][1]/STRING[@hash=8254070][1],手动特殊功能,手动使用技能
+Data/string_lookup.XML,ROOT/CAT[@hash=1979549][1]/STRING[@hash=3962092][1],2 组团队,每队 2 人
+Data/string_lookup.XML,ROOT/CAT[@hash=1979549][1]/STRING[@hash=3978471][1],3 组团队,每队 3 人
+Data/string_lookup.XML,ROOT/CAT[@hash=1979549][1]/STRING[@hash=3995870][1],4 组团队,每队 4 人
+Data/string_lookup.XML,ROOT/CAT[@hash=1979549][1]/STRING[@hash=11453981][1],储存至设定档,保存到玩家档案
+Data/string_lookup.XML,ROOT/CAT[@hash=1979549][1]/STRING[@hash=11546773][1],按快速键,按快捷键
+Data/string_lookup.XML,ROOT/CAT[@hash=1979549][1]/STRING[@hash=7863506][1],滑鼠点选,鼠标点击
+Data/string_lookup.XML,ROOT/CAT[@hash=1979549][1]/STRING[@hash=10925217][1],放大倍数 %,放大视角的时间占比 %
+Data/string_lookup.XML,ROOT/CAT[@hash=1979549][1]/STRING[@hash=13218634][1],缩小倍数 %,缩小视角的时间占比 %
+Data/string_lookup.XML,ROOT/CAT[@hash=1979549][1]/STRING[@hash=12009942][1],原始酒类,原始软泥
+Data/string_lookup.XML,ROOT/CAT[@hash=1979549][1]/STRING[@hash=13668964][1],补拿特许状,私掠许可证
+Data/string_lookup.XML,ROOT/CAT[@hash=2001345][1]/STRING[@hash=4886119][1],侵略,主动攻击
+Data/string_lookup.XML,ROOT/CAT[@hash=2001345][1]/STRING[@hash=6966019][1],坚守,原地坚守
+Data/string_lookup.XML,ROOT/CAT[@hash=2001345][1]/STRING[@hash=1533492][1],搜集,采集
+Data/string_lookup.XML,ROOT/CAT[@hash=2001345][1]/STRING[@hash=8881582][1],建造与搜集,建造与采集
+Data/string_lookup.XML,ROOT/CAT[@hash=2001345][1]/STRING[@hash=560748][1],闲散,空闲
+Data/string_lookup.XML,ROOT/CAT[@hash=2001345][1]/STRING[@hash=4654856][1],自动特殊功能,自动使用技能
+Data/string_lookup.XML,ROOT/CAT[@hash=2001345][1]/STRING[@hash=6609992][1],手动特殊功能,手动使用技能
+Data/string_lookup.XML,ROOT/CAT[@hash=2001345][1]/STRING[@hash=559909775][1],不费吹灰之力就可以取得非首都的领域，但该领域必须是邻国的土地，且领域力量必须为 4 级或更低。,不费吹灰之力就可以取得非首都的领域，但目标领土必须与您的国家接壤，且领域力量必须为 4 级或更低。
+Data/string_lookup.XML,ROOT/CAT[@hash=2001345][1]/STRING[@hash=169235689][1],大不列颠的领域力量降为 2。,使大不列颠的领土力量降低两级。
+Data/string_lookup.XML,ROOT/CAT[@hash=2001345][1]/STRING[@hash=826830674][1],战役开始时拥有托勒密将军。范围内的射击单位射程比较远、攻城单位的攻击力比较强，而且所有单位的防御力也比较好。持有这张卡片时，埃及人就不会发动攻击。,战役开始时拥有托勒密将军。范围内的射击单位射程比较远、攻城单位的攻击力比较强，而且所有单位的防御力提高 1 点。持有这张卡片时，埃及人就不会发动攻击。
+Data/string_lookup.XML,ROOT/CAT[@hash=2001345][1]/STRING[@hash=817548040][1],战役开始时拥有安提培特将军。增加驻守单位的攻击力。可以在任何地点以 2 倍速度筑壕沟，还有额外防护。持有这张卡片时，不用发动攻击就可获得 2 倍的贡品。,战役开始时拥有安提培特将军。增加驻守单位的攻击力。可以在任何地点以 2 倍速度筑壕沟，并提供通常 150% 的防护效果。持有这张卡片时，不用发动攻击就可获得 2 倍的贡品。
+Data/string_lookup.XML,ROOT/CAT[@hash=2001345][1]/STRING[@hash=794282214][1],战役开始时拥有托勒密将军。范围内的射击单位射程比较远、攻城单位的攻击力比较强，而且所有单位的防御力也比较好。持有这张卡片时，埃及人就不会发动攻击。,战役开始时拥有托勒密将军。范围内的射击单位射程比较远、攻城单位的攻击力比较强，而且所有单位的防御力提高 1 点。持有这张卡片时，埃及人就不会发动攻击。
+Data/string_lookup.XML,ROOT/CAT[@hash=2001345][1]/STRING[@hash=790034629][1],战役开始时拥有安提培特将军。增加驻守单位的攻击力。可以在任何地点以 2 倍速度筑壕沟，还有额外防护。持有这张卡片时，不用发动攻击就可获得 2 倍的贡品。,战役开始时拥有安提培特将军。增加驻守单位的攻击力。可以在任何地点以 2 倍速度筑壕沟，并提供通常 150% 的防护效果。持有这张卡片时，不用发动攻击就可获得 2 倍的贡品。
+Data/string_lookup.XML,ROOT/CAT[@hash=2001345][1]/STRING[@hash=806331907][1],战役开始时拥有托勒密将军。范围内的射击单位射程比较远、攻城单位攻击力比较强，而且所有单位的防御力也比较好。持有这张卡片时，埃及人就不会发动攻击。,战役开始时拥有托勒密将军。范围内的射击单位射程比较远、攻城单位攻击力比较强，而且所有单位的防御力提高 1 点。持有这张卡片时，埃及人就不会发动攻击。
+Data/string_lookup.XML,ROOT/CAT[@hash=2001345][1]/STRING[@hash=507941220][1],如果玩战略地图，可以强迫两个民族参战。战役中，拥有 3 倍特殊功能的间谍才可探索地图。,在战略地图上使用，可迫使两个国家彼此开战。在战斗中使用，可获得一名拥有三倍技能值、能揭示地图的间谍。
+Data/string_lookup.XML,ROOT/CAT[@hash=2001345][1]/STRING[@hash=779106853][1],战役开始时拥有安提培特将军。增加驻守单位的攻击力。可以在任何地点以 2 倍速度筑壕沟，还有额外防护。持有这张卡片时，不用发动攻击就可获得 2 倍的贡品。,战役开始时拥有安提培特将军。增加驻守单位的攻击力。可以在任何地点以 2 倍速度筑壕沟，并提供通常 150% 的防护效果。持有这张卡片时，不用发动攻击就可获得 2 倍的贡品。
+Data/string_lookup.XML,ROOT/CAT[@hash=2001345][1]/STRING[@hash=935318233][1],战役开始时拥有安提培特将军。增加驻守单位的攻击力。可以在任何地点以 2 倍速度筑壕沟，还有多 150% 的防护。持有这张卡片时，不用发动攻击就可获得 2 倍的贡品。,战役开始时拥有安提培特将军。增加驻守单位的攻击力。可以在任何地点以 2 倍速度筑壕沟，并提供通常 150% 的防护效果。持有这张卡片时，不用发动攻击就可获得 2 倍的贡品。
+Data/string_lookup.XML,ROOT/CAT[@hash=2001345][1]/STRING[@hash=908986529][1],战役开始时拥有托勒密将军。范围内各单位的防御力 +1、射击单位射程比较远，而且攻城单位的攻击力也比较强。持有这张卡时，埃及人就不会发动攻击。,战役开始时拥有托勒密将军。范围内各单位的防御力 +1、射击单位射程比较远，而且攻城单位的攻击力提高 1 点。持有这张卡时，埃及人就不会发动攻击。
+Data/string_lookup.XML,ROOT/CAT[@hash=2001345][1]/STRING[@hash=855385148][1],战役开始时拥有托勒密将军。范围内各单位的防御力 +1、射击单位射程比较远，而且攻城单位的攻击力也比较强。持有这张卡时，埃及人就不会发动攻击。,战役开始时拥有托勒密将军。范围内各单位的防御力 +1、射击单位射程比较远，而且攻城单位的攻击力提高 1 点。持有这张卡时，埃及人就不会发动攻击。
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=3975033][1],主功能表,主菜单
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=9586178][1],教学游戏,游戏教程
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=16500687][1],选项与设定档,设置与玩家档案
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=11006481][1],工具与其他功能,工具与附加内容
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=658084][1],退出,撤出
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=8929486][1],教学功能表,教程菜单
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=10781766][1],重回默认值,恢复默认设置
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=13552917][1],难易度等级,游戏难度
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=19865577][1],说明消息细节,提示详细程度
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=14390415][1],消息时间,消息显示时长
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=531728][1],闲散,空闲
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=1633076][1],搜集,采集
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=13522108][1],建造与搜集,建造与采集
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=14885015][1],生产态势,新建单位姿态
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=4986669][1],侵略,主动攻击
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=7441301][1],坚守,原地坚守
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=25165512][1],显示进阶选项,显示高级选项
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=27264437][1],以群组使用能力,整组使用技能
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=43831685][1],显示研究进度列,显示研究进度条
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=42710657][1],闲散时部署攻城单位,攻城单位空闲时自动展开
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=13221428][1],地图卷动速度,地图滚动速度
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=21918359][1],变更解析度,更改分辨率
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=12471224][1],显示画面格速率,显示帧率
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=18279455][1],允许音效嘲讽,允许语音嘲讽
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=13721217][1],指令码编辑器开发环境,脚本编辑器开发环境
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=7311227][1],检视制作群,制作人员名单
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=2926079][1],ReGen +1,恢复 +1
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=8782237][1],指令码编辑器,脚本编辑器
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=14667037][1],从存档开启...,从文件打开...
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=668857][1],退出,撤出
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=13150489][1],技能测试功能表,技能训练菜单
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=15510563][1],返回主功能表,返回主菜单
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=9989659][1],单人游戏功能表,单人游戏菜单
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=15233528][1],退至主功能表,返回主菜单
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=24217264][1],多人游戏功能表,多人游戏菜单
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=9947770][1],建立设定档,创建玩家档案
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=575406][1],Ping,延迟
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=7004608][1],载入的存档,已加载文件
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=539954][1],存档,文件
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=7683728][1],嘲讽音量,语音嘲讽音量
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=11445591][1],图样呈现选项,画面元素
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=20711732][1],允许游戏音乐,播放游戏音乐
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=10611547][1],移除特色,移除地表装饰
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=12344607][1],移除特色,移除地表装饰
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=8858590][1],套用变更,应用更改
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=19323279][1],新 GameSpy 设定档,新 GameSpy 玩家档案
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=25332787][1],允许主功能表音乐,播放主菜单音乐
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=19665776][1],播放设定:,直播设置:
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=11157865][1],允许线上视讯,启用摄像头
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=24386608][1],停用Winodws音效,禁止自动降低音量
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=13191354][1],视讯游戏邀请,查看游戏邀请
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=964032][1],全屏泛光,泛光
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=2205840][1],Top Ten,前十名
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=312196][1],Mod,模组
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=9633702][1],上传存档,更新文件
+Data/string_lookup.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=3879439][1],存档类型,文件类型
+Data/string_lookup.XML,ROOT/CAT[@hash=18830057][1]/STRING[@hash=1140406848][1],您决定让您的部队先养精蓄锐，所以您接下来要靠佣兵来打这场战役。在这场战役中，您将不会有任何市民，但是佣兵可以帮助您在摧毁建筑物时掠夺到比一般部队多 5 倍的资源。,您决定让您的部队先养精蓄锐，所以您接下来要靠佣兵来打这场战役。在这场战役中，您将不会有任何市民，但是佣兵可以帮助您在摧毁建筑物时掠夺到一般部队 5 倍的资源。
+Data/string_lookup.XML,ROOT/CAT[@hash=18830057][1]/STRING[@hash=-1719550446][1],您决定让您的部队先养精蓄锐，所以您接下来要靠佣兵来打这场战役。在这场战役中，您将不会有任何市民，但是佣兵可以帮助您在摧毁建筑物时掠夺到比一般部队多 5 倍的资源。您可以在堡垒产生这些佣兵，利用他们搜集每种资源各 1000 单位，但知识部份除外。而这些资源可以帮助您的军队继续升级。,您决定让您的部队先养精蓄锐，所以您接下来要靠佣兵来打这场战役。在这场战役中，您将不会有任何市民，但是佣兵可以帮助您在摧毁建筑物时掠夺到一般部队 5 倍的资源。您可以在堡垒产生这些佣兵，利用他们搜集每种资源各 1000 单位，但知识部份除外。而这些资源可以帮助您的军队继续升级。
+Data/string_lookup.XML,ROOT/CAT[@hash=18830057][1]/STRING[@hash=-1126274670][1],您决定让您的部队先养精蓄锐，所以您接下来要靠佣兵来打这场战役。在这场战役中，您将不会有任何市民，但是佣兵可以帮助您在摧毁建筑物时掠夺到比一般部队多 5 倍的资源。您可以在堡垒产生这些佣兵，利用他们搜集每种资源各 1000 单位，但知识部份除外。而这些资源可以帮助您的军队继续升级。,您决定让您的部队先养精蓄锐，所以您接下来要靠佣兵来打这场战役。在这场战役中，您将不会有任何市民，但是佣兵可以帮助您在摧毁建筑物时掠夺到一般部队 5 倍的资源。您可以在堡垒产生这些佣兵，利用他们搜集每种资源各 1000 单位，但知识部份除外。而这些资源可以帮助您的军队继续升级。
+Data/string_lookup.XML,ROOT/CAT[@hash=18830057][1]/STRING[@hash=1326265476][1],您决定让您的部队先养精蓄锐，所以您要靠从堡垒生产的佣兵来打这场战役。佣兵在摧毁建筑物时，可掠夺到比一般部队多 5 倍的资源。要贮备您的战利品才能取得胜利。,您决定让您的部队先养精蓄锐，所以您要靠从堡垒生产的佣兵来打这场战役。佣兵在摧毁建筑物时，可掠夺到一般部队 5 倍的资源。要贮备您的战利品才能取得胜利。
+Data/string_lookup.XML,ROOT/CAT[@hash=18830057][1]/STRING[@hash=1731678441][1],您决定让您的部队先养精蓄锐，所以您要靠从堡垒生产的佣兵来打这场战役。佣兵在摧毁建筑物时，可掠夺到比一般部队多 5 倍的资源。您必须贮备足够的战利品来作为佣兵的酬庸，否则他们将会背弃您。,您决定让您的部队先养精蓄锐，所以您要靠从堡垒生产的佣兵来打这场战役。佣兵在摧毁建筑物时，可掠夺到一般部队 5 倍的资源。您必须贮备足够的战利品来作为佣兵的酬庸，否则他们将会背弃您。
+Data/string_lookup.XML,ROOT/CAT[@hash=18830057][1]/STRING[@hash=-2087560004][1],您决定让您的部队先养精蓄锐，所以您要靠从堡垒生产的佣兵来打这场战役。佣兵在摧毁建筑物时，可掠夺到比一般部队多 5 倍的资源。您必须贮备足够的战利品来作为佣兵的酬庸。只要时间一到或是摧毁了所有敌人城市，佣兵就会背弃您。,您决定让您的部队先养精蓄锐，所以您要靠从堡垒生产的佣兵来打这场战役。佣兵在摧毁建筑物时，可掠夺到一般部队 5 倍的资源。您必须贮备足够的战利品来作为佣兵的酬庸。只要时间一到或是摧毁了所有敌人城市，佣兵就会背弃您。
+Data/string_lookup.XML,ROOT/CAT[@hash=18830057][1]/STRING[@hash=-1312309315][1],谍情报告: 有支小规模的军队要去接管非洲内部动乱不安的一个区域。占领敌人的城市不仅会消灭敌人，还会激励附近的市民开始武装起来，并加入您这一方成为民兵。指挥这些军队和您原有的单位，去占领敌人首都并罢免目前的政权。报酬: 100 单位贡品和 1 张叛军加分卡。,谍情报告: 有支小规模的军队要去接管非洲内部动乱不安的一个区域。占领敌方城市会将该城市摧毁，还会激励附近的市民开始武装起来，并加入您这一方成为民兵。指挥这些军队和您原有的单位，去占领敌人首都并罢免目前的政权。报酬: 100 单位贡品和 1 张叛军加分卡。
+Data/string_lookup.XML,ROOT/CAT[@hash=18830057][1]/STRING[@hash=-1712870511][1],谍情报告: 有支小规模的军队要去接管非洲内部动乱不安的一个区域。渗入敌方议院可使您获得游击队，而渗入办公大楼则可使您获得悍马车。指挥这些军队去占领敌人首都，并罢免目前的政权。报酬: 100 单位贡品和 1 张叛军加分卡。,谍情报告: 有支小规模的军队要去接管非洲内部动乱不安的一个区域。潜入敌方住宅可使您获得游击队，而渗入办公大楼则可使您获得悍马车。指挥这些军队去占领敌人首都，并罢免目前的政权。报酬: 100 单位贡品和 1 张叛军加分卡。
+Data/string_lookup.XML,ROOT/CAT[@hash=18830057][1]/STRING[@hash=113669861][1],谍情报告: 几位想要反抗的苏联科学家，已经遭到逮捕。他们会被拘留在乌克兰偏僻的堡垒里面。只要摧毁苏联基础建设的要害，就可以分散苏联的注意力。然后找出遭到囚禁的科学家，营救他们，并派兵在您的堡垒中保护他们。为了完成这项任务，您的间谍会拥有导弹攻击的特殊能力。报酬: 半数的敌方核武器会被摧毁或您可得到 200 单位贡品。另外，您还可获得 1 张世界奇迹加分卡。,谍情报告: 几位试图叛逃的苏联科学家，已经遭到逮捕。他们会被拘留在乌克兰偏僻的堡垒里面。只要摧毁苏联基础建设的要害，就可以分散苏联的注意力。然后找出遭到囚禁的科学家，将他们救出并送入您的堡垒驻守。为了完成这项任务，您的间谍会拥有导弹攻击的特殊能力。报酬: 半数的敌方核武器会被摧毁或您可得到 200 单位贡品。另外，您还可获得 1 张世界奇迹加分卡。
+Data/string_lookup.XML,ROOT/CAT[@hash=18830057][1]/STRING[@hash=129020994][1],谍情报告: 几位想要反抗的苏联科学家，已经遭到逮捕。他们会被拘留在乌克兰偏僻的堡垒里面。只要摧毁苏联基础建设的要害，就可以分散苏联的注意力。然后找出遭到囚禁的科学家，营救他们，并派兵在您的堡垒中保护他们。为了完成这项任务，您的间谍会拥有导弹攻击的特殊能力。报酬: 半数的敌方核武器会被摧毁或您可得到 200 单位贡品。另外，您还可获得 1 张世界奇迹加分卡。,谍情报告: 几位试图叛逃的苏联科学家，已经遭到逮捕。他们会被拘留在乌克兰偏僻的堡垒里面。只要摧毁苏联基础建设的要害，就可以分散苏联的注意力。然后找出遭到囚禁的科学家，将他们救出并送入您的堡垒驻守。为了完成这项任务，您的间谍会拥有导弹攻击的特殊能力。报酬: 半数的敌方核武器会被摧毁或您可得到 200 单位贡品。另外，您还可获得 1 张世界奇迹加分卡。
+Data/string_lookup.XML,ROOT/CAT[@hash=11815213][1]/STRING[@hash=914487][1],音讯,音频
+Data/string_lookup.XML,ROOT/CAT[@hash=11815213][1]/STRING[@hash=19040878][1],滑鼠移过物件,鼠标移过物件
+Data/string_lookup.XML,ROOT/CAT[@hash=11815213][1]/STRING[@hash=8808325][1],滑鼠，事件,鼠标，事件
+Data/string_lookup.XML,ROOT/CAT[@hash=11815213][1]/STRING[@hash=575406][1],Ping,延迟
+Data/string_lookup.XML,ROOT/CAT[@hash=38438024][1]/STRING[@hash=450505024][1],您死在沙漠，您的骨头将会成为兀鹰的食物。,您葬身沙海；若不是连秃鹫也受不了这里的酷热，您的尸骨恐怕早已成了它们的食物。
+Data/string_lookup.XML,ROOT/CAT[@hash=38438024][1]/STRING[@hash=444407072][1],您死在沙漠，您的骨头将会成为兀鹰的食物。,您葬身沙海；若不是连秃鹫也受不了这里的酷热，您的尸骨恐怕早已成了它们的食物。
+Data/translated_strings.xml,ROOT/STRING[@hash=1133089085][1],$TRIBE1压倒性攻击$NODE0。您的部队已撤退以躲过压倒性攻击。攻击者的军队总数比防御者多 2 倍以上时，就会出现压倒性攻击。,$TRIBE1压倒性攻击$NODE0。您的部队已撤退以躲过压倒性攻击。参与进攻的军队总数比守军多两支时，就会出现压倒性攻击。
+Data/translated_strings.xml,ROOT/STRING[@hash=985793948][1],您的贡品不足以签订和平条约。只要攻占领域或在某个回合不进行攻击，就可以获得贡品。,您的贡品不足以签订和平条约。签订条约需要 $NUM0 单位贡品。只要攻占领域或在某个回合不进行攻击，就可以获得贡品。
+Data/translated_strings.xml,ROOT/STRING[@hash=54887233][1],游戏功能表,游戏菜单
+Data/translated_strings.xml,ROOT/STRING[@hash=2114296686][1],由于您的优势武力，对手已撤出领域，让您不战而胜。攻击者的军队总数比防御者多 2 倍时，就会出现压倒性攻击。这次压倒性攻击不算是您在此回合中的一次攻击。,由于您的优势武力，对手已撤出领域，让您不战而胜。参与进攻的军队总数比守军多两支时，就会出现压倒性攻击。这次压倒性攻击不算是您在此回合中的一次攻击。
+Data/translated_strings.xml,ROOT/STRING[@hash=290998012][1],在任何反白显示的领域上按一下滑鼠左键，作为核导弹的目标。,在任何反白显示的领域上按一下鼠标左键，作为核导弹的目标。
+Data/translated_strings.xml,ROOT/STRING[@hash=419255080][1],只有在您开启进阶选项后，按滑鼠右键才能达到在同一建筑物内驻守的功能。,只有在您开启进阶选项后，按鼠标右键才能达到在同一建筑物内驻守的功能。
+Data/translated_strings.xml,ROOT/STRING[@hash=13420994][1],退出,撤出
+Data/translated_strings.xml,ROOT/STRING[@hash=21763561][1],Coord,坐标
+Data/translated_strings.xml,ROOT/STRING[@hash=48916117][1],Invalid Use -,用法无效 -
+Data/translated_strings.xml,ROOT/STRING[@hash=193382271][1],"使用 ""wheel"" 设定滑鼠的灵敏度","使用 ""wheel"" 设定鼠标的灵敏度"
+Data/translated_strings.xml,ROOT/STRING[@hash=19264394][1],退出,撤出
+Data/translated_strings.xml,ROOT/STRING[@hash=197929100][1],含有该昵称的设定档已存在。,含有该昵称的玩家档案已存在。
+Data/translated_strings.xml,ROOT/STRING[@hash=125613162][1],The password is incorrect.,密码不正确。
+Data/translated_strings.xml,ROOT/STRING[@hash=58517464][1],Server Browser,服务器列表
+Data/translated_strings.xml,ROOT/STRING[@hash=549936505][1],如果您已经有 GameSpy 设定档，请在下面输入您的电子邮件地址、昵称及密码。然后按一下﹝登入﹞。,如果您已经有 GameSpy 玩家档案，请在下面输入您的电子邮件地址、昵称及密码。然后按一下﹝登入﹞。
+Data/translated_strings.xml,ROOT/STRING[@hash=670341298][1],若您有 GameSpy 设定档但是忘记密码，可以在 GameSpyID.com 取得您的 GameSpy 设定档密码。,若您有 GameSpy 玩家档案但是忘记密码，可以在 GameSpyID.com 取得您的 GameSpy 玩家档案密码。
+Data/translated_strings.xml,ROOT/STRING[@hash=450798590][1],若否，请输入电子邮件地址、昵称、密码。再按一下﹝建立设定档﹞。,若否，请输入电子邮件地址、昵称、密码。再按一下﹝建立玩家档案﹞。
+Data/translated_strings.xml,ROOT/STRING[@hash=216064853][1],如果您没有设定档，请按一下﹝建立设定档﹞。,如果您没有玩家档案，请按一下﹝建立玩家档案﹞。
+Data/translated_strings.xml,ROOT/STRING[@hash=425278956][1],请在下面输入您的电子邮件地址、昵称及密码。然后按一下﹝建立设定档﹞。,请在下面输入您的电子邮件地址、昵称及密码。然后按一下﹝建立玩家档案﹞。
+Data/translated_strings.xml,ROOT/STRING[@hash=43280468][1],Ping:,延迟:
+Data/translated_strings.xml,ROOT/STRING[@hash=253043837][1],"$OPTIONNAME0选项位于 (0-4,0-4) 格子范围外。","$OPTIONNAME0选项位于 (0-4,0-3) 格子范围外。"
+Data/translated_strings.xml,ROOT/STRING[@hash=35477885][1],滑鼠滚轮向上,鼠标滚轮向上
+Data/translated_strings.xml,ROOT/STRING[@hash=41930493][1],滑鼠滚轮向下,鼠标滚轮向下
+Data/translated_strings.xml,ROOT/STRING[@hash=29110561][1],滑鼠中键,鼠标中键
+Data/translated_strings.xml,ROOT/STRING[@hash=33586544][1],滑鼠额外键 1,鼠标额外键 1
+Data/translated_strings.xml,ROOT/STRING[@hash=32442237][1],滑鼠额外键 2,鼠标额外键 2
+Data/translated_strings.xml,ROOT/STRING[@hash=32462288][1],滑鼠额外键 3,鼠标额外键 3
+Data/translated_strings.xml,ROOT/STRING[@hash=32483665][1],滑鼠额外键 4,鼠标额外键 4
+Data/translated_strings.xml,ROOT/STRING[@hash=32501766][1],滑鼠额外键 5,鼠标额外键 5
+Data/translated_strings.xml,ROOT/STRING[@hash=32520959][1],滑鼠额外键 6,鼠标额外键 6
+Data/translated_strings.xml,ROOT/STRING[@hash=32558248][1],滑鼠额外键 7,鼠标额外键 7
+Data/translated_strings.xml,ROOT/STRING[@hash=32579391][1],滑鼠额外键 8,鼠标额外键 8
+Data/translated_strings.xml,ROOT/STRING[@hash=199944527][1],到﹝外交﹞(快速键:  $HOTKEY0) 回应提议。,到﹝外交﹞(快捷键:  $HOTKEY0) 回应提议。
+Data/translated_strings.xml,ROOT/STRING[@hash=54684362][1],(Parent Directory),（上一级目录）
+Data/translated_strings.xml,ROOT/STRING[@hash=26739317][1],游戏功能表,游戏菜单
+Data/translated_strings.xml,ROOT/STRING[@hash=71482319][1],退出至教学功能表,退出至教学菜单
+Data/translated_strings.xml,ROOT/STRING[@hash=171208594][1],游戏结束。按一下 $HOTKEY0 显示功能表。,游戏结束。按一下 $HOTKEY0 显示菜单。
+Data/translated_strings.xml,ROOT/STRING[@hash=100443493][1],(按 SHIFT 并按滑鼠左键，可以建立 5 个),(按 SHIFT 并按鼠标左键，可以建立 5 个)
+Data/translated_strings.xml,ROOT/STRING[@hash=149203745][1],: 按一下变更为$FORMATIONNAME1,: 按一下变更为$FORMATIONNAME0
+Data/translated_strings.xml,ROOT/STRING[@hash=133009143][1],- 按一下切换进阶功能表,- 按一下切换进阶菜单
+Data/translated_strings.xml,ROOT/STRING[@hash=107186090][1],按 CTRL 并按滑鼠左键，即可取消选择。,按 CTRL 并按鼠标左键，即可取消选择。
+Data/translated_strings.xml,ROOT/STRING[@hash=204751198][1],按 SHIFT 并按滑鼠左键，选择所有相同类型者。,按 SHIFT 并按鼠标左键，选择所有相同类型者。
+Data/translated_strings.xml,ROOT/STRING[@hash=234543676][1],按 CTRL + SHIFT 并按滑鼠左键，取消选择所有相同类型者。,按 CTRL + SHIFT 并按鼠标左键，取消选择所有相同类型者。
+Data/translated_strings.xml,ROOT/STRING[@hash=85124837][1],按一下撤守此一单位。,点击让该单位撤出。
+Data/translated_strings.xml,ROOT/STRING[@hash=13346514][1],退出,撤出
+Data/translated_strings.xml,ROOT/STRING[@hash=189659863][1],您想要返回教学功能表吗?,您想要返回教学菜单吗?
+Data/translated_strings.xml,ROOT/STRING[@hash=26717611][1],快速键,快捷键
+Data/translated_strings.xml,ROOT/STRING[@hash=21682718][1],滑鼠,鼠标
+Data/translated_strings.xml,ROOT/STRING[@hash=86667143][1],快速键对应,快捷键对应
+Data/translated_strings.xml,ROOT/STRING[@hash=53222155][1],快速键:,快捷键:
+Data/translated_strings.xml,ROOT/STRING[@hash=50725916][1],设定档,玩家档案
+Data/translated_strings.xml,ROOT/STRING[@hash=326966010][1],设定档 {$PROFILENAME0} 已经存在。您要复写它吗?,玩家档案 {$PROFILENAME0} 已经存在。您要复写它吗?
+Data/translated_strings.xml,ROOT/STRING[@hash=85654823][1],选择设定档...,选择玩家档案...
+Data/translated_strings.xml,ROOT/STRING[@hash=172443757][1],请输入新设定档名称:,请输入新玩家档案名称:
+Data/translated_strings.xml,ROOT/STRING[@hash=186650267][1],此设定档名称已存在。,此玩家档案名称已存在。
+Data/translated_strings.xml,ROOT/STRING[@hash=59325007][1],New Scenario,新剧情
+Data/translated_strings.xml,ROOT/STRING[@hash=296695423][1],输出目前滑鼠所在位置的城市为开始城市范本。,输出目前鼠标所在位置的城市为开始城市范本。
+Data/translated_strings.xml,ROOT/STRING[@hash=29621222][1],退出,撤出
+Data/translated_strings.xml,ROOT/STRING[@hash=48161280][1],(快速键: $HOTKEY0),(快捷键: $HOTKEY0)
+Data/translated_strings.xml,ROOT/STRING[@hash=21092253][1],(快速键:,(快捷键:
+Data/translated_strings.xml,ROOT/STRING[@hash=67002772][1],套用变更,应用更改
+Data/translated_strings.xml,ROOT/STRING[@hash=40139649][1],Game Avg ELO:,本局平均 ELO:
+Data/translated_strings.xml,ROOT/STRING[@hash=736623814][1],这个剧情设定 0 个人类玩家。如果这是正确的，会透过﹝单人游戏﹞功能表上的 ﹝载入剧情﹞选项载入剧情。,这个剧情设定 0 个人类玩家。如果这是正确的，会透过﹝单人游戏﹞菜单上的 ﹝载入剧情﹞选项载入剧情。
+Data/translated_strings.xml,ROOT/STRING[@hash=431311113][1],这个剧情只可支援 2 人以下的人类玩家，且无法使用于多人游戏。,此剧情支持的人类玩家少于 2 人，无法用于多人游戏。
+Data/translated_strings.xml,ROOT/STRING[@hash=1669226675][1],按左键是配置河流控制节点; 按右键是移除节点。在最终控制节点上再按一次左键，就可完成该河流。不要和山地重叠。将河流终止于海洋里，就可与海洋衔接。按一下﹝套用变更﹞可永久变更河流。,按左键是配置河流控制节点; 按右键是移除节点。在最终控制节点上再按一次左键，就可完成该河流。不要和山地重叠。将河流终止于海洋里，就可与海洋衔接。按一下﹝应用更改﹞可永久变更河流。
+Data/translated_strings.xml,ROOT/STRING[@hash=484924261][1],在山地、河流或峭壁按左键可移除它们。按一下﹝套用变更﹞可永久变更。,在山地、河流或峭壁按左键可移除它们。按一下﹝应用更改﹞可永久变更。
+Data/translated_strings.xml,ROOT/STRING[@hash=754886524][1],按左键可放置一座山地。使用下拉式方块或按右键可选择山地形状。按一下﹝套用变更﹞固定新山地。,按左键可放置一座山地。使用下拉式方块或按右键可选择山地形状。按一下﹝应用更改﹞固定新山地。
+Data/translated_strings.xml,ROOT/STRING[@hash=719461348][1],按左键可放置一个峭壁。按右键可变更峭壁的形状及大小。按一下﹝套用变更﹞固定新峭壁。,按左键可放置一个峭壁。按右键可变更峭壁的形状及大小。按一下﹝应用更改﹞固定新峭壁。
+Data/translated_strings.xml,ROOT/STRING[@hash=232163269][1],进入主功能表并探索其他游戏选项。,进入主菜单并探索其他游戏选项。
+Data/translated_strings.xml,ROOT/STRING[@hash=197600141][1],"End of file reached in unterminated ""/*"" comment",到达文件末尾时，仍有未结束的“/*”注释
+Data/translated_strings.xml,ROOT/STRING[@hash=62906230][1],串流媒体解析度:,串流媒体分辨率:
+Data/translated_strings.xml,ROOT/STRING[@hash=208265803][1],你想保留新的解析度吗?,你想保留新的分辨率吗?
+Data/translated_strings.xml,ROOT/STRING[@hash=26282383][1],<None>,<无>
+Data/translated_strings.xml,ROOT/STRING[@hash=67639999][1],%.02 bytes,%.02 字节
+Data/translated_strings.xml,ROOT/STRING[@hash=72207138][1],%.02d bytes,%.02d 字节
+Data/translated_strings.xml,ROOT/STRING[@hash=58539692][1],%d bytes,%d 字节
+Data/translated_strings.xml,ROOT/STRING[@hash=48661787][1],Drop Down Mod,模组下拉列表
+Data/translated_strings.xml,ROOT/STRING[@hash=24496316][1],退出,撤出
+Data/translated_strings.xml,ROOT/STRING[@hash=865148822][1],跨网路游玩已启用: 您现在可以和其他网路平台的玩家进行配对游戏。 您可以在游戏页面的「选项与设定档」中停用此功能。,跨网路游玩已启用: 您现在可以和其他网路平台的玩家进行配对游戏。 您可以在游戏页面的「选项与玩家档案」中停用此功能。
+Data/typenames.XML,ROOT/GOODS[1]/STRING[@hash=2616402][1],古代文献,纸莎草
+Data/typenames.XML,ROOT/GOODS[1]/STRING[@hash=2175628][1],爱斯基摩人,哈士奇雪橇犬
+Data/typenames.XML,ROOT/BUILDS[1]/STRING[@hash=969271][1],议院,住宅
+Data/typenames.XML,ROOT/UNITS[1]/STRING[@hash=10089468][1],无后座力枪,无后坐力炮
+Data/typenames.XML,ROOT/UNITS[1]/STRING[@hash=5341897][1],轻型装甲车,轻型坦克
+Data/typenames.XML,ROOT/UNITS[1]/STRING[@hash=4222311][1],米格-24 雌鹿武装直升机,米-24 雌鹿武装直升机
+Data/typenames.XML,ROOT/UNITS[1]/STRING[@hash=384593][1],英国空军特勤队,英国特种空勤团
+Data/typenames.XML,ROOT/SPELLS[1]/STRING[@hash=5373519][1],炸毁踏板,炸毁履带
+mods/Chinese/conquest/Alexander/scen_script_loc.XML,ROOT/FILE[@hash=2814761][@name=magadha][1]/STRING[@hash=1990068132][1],几名斥候带回绝佳的消息: 他们侦察到有毛绒绒的小动物在挖掘金子。您驱骑前往调查，发现这个区域的土拨鼠在沙底下钻洞，翻上来的土石里含有金沙! 您的财富 #ICON3 搜集速率和商业设限成长 3 倍。,几名斥候带回绝佳的消息: 他们侦察到有毛绒绒的小动物在挖掘金子。您驱骑前往调查，发现这个区域的土拨鼠在沙底下钻洞，翻上来的土石里含有金沙! 您的财富 #ICON3 采集速率和商业上限提高至原来的 3 倍。
+mods/Chinese/conquest/Alexander/scen_script_loc.XML,ROOT/FILE[@hash=2165042][@name=maurya][1]/STRING[@hash=1990068132][1],几名斥候带回绝佳的消息: 他们侦察到有毛绒绒的小动物在挖掘金子。您驱骑前往调查，发现这个区域的土拨鼠在沙底下钻洞，翻上来的土石里含有金沙! 您的财富 #ICON3 搜集速率和商业设限成长 3 倍。,几名斥候带回绝佳的消息: 他们侦察到有毛绒绒的小动物在挖掘金子。您驱骑前往调查，发现这个区域的土拨鼠在沙底下钻洞，翻上来的土石里含有金沙! 您的财富 #ICON3 采集速率和商业上限提高至原来的 3 倍。
+mods/Chinese/conquest/Alexander/scen_script_loc.XML,ROOT/FILE[@hash=10867951][@name=mauryamagadha][1]/STRING[@hash=1990068132][1],几名斥候带回绝佳的消息: 他们侦察到有毛绒绒的小动物在挖掘金子。您驱骑前往调查，发现这个区域的土拨鼠在沙底下钻洞，翻上来的土石里含有金沙! 您的财富 #ICON3 搜集速率和商业设限成长 3 倍。,几名斥候带回绝佳的消息: 他们侦察到有毛绒绒的小动物在挖掘金子。您驱骑前往调查，发现这个区域的土拨鼠在沙底下钻洞，翻上来的土石里含有金沙! 您的财富 #ICON3 采集速率和商业上限提高至原来的 3 倍。
+mods/Chinese/conquest/Alexander/scen_script_loc.XML,ROOT/FILE[@hash=895871][@name=yemen][1]/STRING[@hash=126752431][1],海德拉米斯向我们进贡了 252 个单位的知识。,海德拉米斯向我们进贡了 250 个单位的知识。
+mods/Chinese/conquest/Alexander/scen_script_loc.XML,ROOT/FILE[@hash=17760393][@name=alexander_battles][1]/STRING[@hash=872014270][1],一度在波斯领导之下，却为征服者所夺去。我们知道有场硬仗要打，却没想到是这么困难，就好像是我们要从波斯人手上征服它一样。,这里曾是波斯的统治中心，如今已被其他征服者占据。预计仍有一场硬仗，但远比直接从波斯人手中夺取这里容易。
+mods/Chinese/conquest/Alexander/scen_script_loc.XML,ROOT/FILE[@hash=22139611][@name=alexander_post_turn][1]/STRING[@hash=1390874353][1],一队希腊佣兵要求以 $NUM2 单位贡品的代价为您效命。他们是重装步兵的一种，却不像一般重装步兵强悍，不过训练的成本减少很多。如果您接受的话，可以马上在您的军营展开训练。,一队希腊佣兵要求以 $NUM0 单位贡品的代价为您效命。他们是重装步兵的一种，却不像一般重装步兵强悍，不过训练的成本减少很多。如果您接受的话，可以马上在您的军营展开训练。
+mods/Chinese/conquest/ColdWar/scen_script_loc.XML,ROOT/FILE[@hash=2562933][@name=militia][1]/STRING[@hash=521306082][1],我们的任务顺利完成，搜集到 $s0 单位贡品! 此外，我们还得到 1 张叛军加分卡。,我们的任务顺利完成，搜集到 $d0 单位贡品! 此外，我们还得到 1 张叛军加分卡。
+mods/Chinese/conquest/ColdWar/scen_script_loc.XML,ROOT/FILE[@hash=2562933][@name=militia][1]/STRING[@hash=523295148][1],我们的任务顺利完成，搜集到 $s0 单位贡品! 此外，我们还得到 1 张叛军加分卡。,我们的任务顺利完成，搜集到 $d0 单位贡品! 此外，我们还得到 1 张叛军加分卡。
+mods/Chinese/conquest/ColdWar/scen_script_loc.XML,ROOT/FILE[@hash=17790498][@name=coldwar_post_turn][1]/STRING[@hash=1091659878][1],我们国内选民对于那沈沦腐败的政府早已是满腹牢骚。请设法在下一回合之前，让所有领域  (包括您的附庸国) 的领域力量都达到第一级以上。,国内选民抱怨我们任由领土状况恶化。请设法在下一回合之前，让所有领域  (包括您的附庸国) 的领域力量都高于第 1 级。
+mods/Chinese/conquest/ColdWar/scen_script_loc.XML,ROOT/FILE[@hash=17790498][@name=coldwar_post_turn][1]/STRING[@hash=1033697351][1],您的顾问提出建议，想在南美洲或非洲资助游击队员。他们想藉此让当地的每个国家领域力量下降一级。,您的顾问提出建议，想在南美洲或非洲资助游击队员。只能选择其中一个地区，不能同时资助两处。他们想藉此让当地的每个国家领域力量下降一级。
+mods/Chinese/conquest/ColdWar/scen_script_loc.XML,ROOT/FILE[@hash=17790498][@name=coldwar_post_turn][1]/STRING[@hash=1462179611][1],您的顾问提出建议，想在南美洲以 40 单位贡品，或在非洲以 50 单位贡品资助游击队员 (我们有 $NUM0 单位贡品)。他们想藉此让当地的每个国家领域力量下降一级。,您的顾问提出建议，想在南美洲以 40 单位贡品，或在非洲以 50 单位贡品资助游击队员 (我们有 $NUM0 单位贡品)。只能选择其中一个地区，不能同时资助两处。他们想藉此让当地的每个国家领域力量下降一级。
+mods/Chinese/conquest/ColdWar/scen_script_loc.XML,ROOT/FILE[@hash=17790498][@name=coldwar_post_turn][1]/STRING[@hash=1771212850][1],我们国内选民对于那沈沦腐败的政府早已是满腹牢骚。我们应该设法在下一回合之前，让所有领域  (包括您的附庸国) 的领域力量都达到第一级以上。不过，我们还是可以选择维持现状。,国内选民抱怨我们任由领土状况恶化。我们应该设法在下一回合之前，让所有领域  (包括您的附庸国) 的领域力量都高于第 1 级。不过，我们还是可以选择维持现状。
+mods/Chinese/conquest/ColdWar/scen_script_loc.XML,ROOT/FILE[@hash=17790498][@name=coldwar_post_turn][1]/STRING[@hash=1063448959][1],我们国内选民对于那沈沦腐败的政府早已是满腹牢骚。我们应该设法在下一回合之前，让所有领域  (包括您的附庸国) 的领域力量都达到第一级以上。,国内选民抱怨我们任由领土状况恶化。我们应该设法让所有领域  (包括您的附庸国) 的领域力量都高于第 1 级。
+mods/Chinese/conquest/ColdWar/scen_script_loc.XML,ROOT/FILE[@hash=10739279][@name=vietnamruntime][1]/STRING[@hash=404217277][1],由于长期战争且领域力量遭破坏下降三级，太平洋洛几山脉的抗议群众暴动闹事!,长期战争引发太平洋落基山脉地区的抗议群众暴动，导致领土力量下降 3 级！
+mods/Chinese/conquest/CTW_Alexander_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=BATTLE OF THE HYDASPES][1]/STRING[1],亚历山大的军队在公元前 327 年进入了印度。因为军队加入了许多被征服国家的士兵，所以很像一支联军部队。公元前 326 年 6 月，亚历山大的军队获得塔克西拉国王的补给和增援后，抵达希达斯皮斯河岸，此时，亚历山大才发现波罗斯国王率领的波拉瓦军队早已严阵以待。据说波罗斯身高 7 呎、拥有一支训练有素的大军，还拥有马其顿人从未见过的武器－总共 200 头的战象。亚历山大的部队在狂风骤雨中渡河后，在激战中击败了波罗斯还有他的大象部队。波罗斯受伤被俘，不过马其顿军的伤亡却比波拉瓦军还要惨重。热爱战争胜于一切的亚历山大，不但没有被波罗斯的对战技巧所激怒，反而极为敬重这名手下败将。,亚历山大的军队在公元前 327 年进入了印度。因为军队加入了许多被征服国家的士兵，所以很像一支联军部队。公元前 326 年 6 月，亚历山大的军队获得塔克西拉国王的补给和增援后，抵达希达斯皮斯河岸，此时，亚历山大才发现波罗斯国王率领的波拉瓦军队早已严阵以待。据说波罗斯身高 7 呎、拥有一支训练有素的大军，还拥有马其顿人从未见过的武器－总共 200 头的战象。亚历山大的部队在狂风骤雨中渡河后，在激战中击败了波罗斯还有他的大象部队。波罗斯受伤被俘，此前还没有敌人给马其顿军造成过如此惨重的伤亡。热爱战争胜于一切的亚历山大，不但没有被波罗斯的对战技巧所激怒，反而极为敬重这名手下败将。
+mods/Chinese/conquest/CTW_Alexander_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=DESERT TREK][1]/STRING[1],公元前 325 年秋天，亚历山大从事了一项称的上是最危险的军事活动，危险的原因并非来自任何人类对手，而是对大自然的挑战。亚历山大连年征战后，他总算带着军队返回马其顿。可是典型的亚历山大作风是凭感觉行事，他无视于将军们的建议，选择带着部分军队穿越危机重重的基第罗森沙漠，而不随着其余的部队搭乘船只返回马其顿。亚历山大之所以会这么做，是因为从来没有人成功率领军队穿越这个沙漠。塞米拉米丝女王在理论上已达成了这项成就，可是全军只有 20 个人生还。波斯的居鲁士大帝也穿过了这座沙漠，但最后只剩下 7 个人，实在称不上是一支军队。,公元前 325 年秋天，亚历山大从事了一项称的上是最危险的军事活动，危险的原因并非来自任何人类对手，而是对大自然的挑战。亚历山大连年征战后，他总算带着军队返回马其顿。可是典型的亚历山大作风是追求轰轰烈烈的壮举，他无视于将军们的建议，选择带着部分军队穿越危机重重的基第罗森沙漠，而不随着其余的部队搭乘船只返回马其顿。亚历山大之所以会这么做，是因为从来没有人成功率领军队穿越这个沙漠。塞米拉米丝女王在理论上已达成了这项成就，可是全军只有 20 个人生还。波斯的居鲁士大帝也穿过了这座沙漠，但最后只剩下 7 个人，实在称不上是一支军队。
+mods/Chinese/conquest/CTW_Alexander_Map_01_strings.XML,ROOT/CAT[@hash=2131502][1]/STRING[@hash=-1720151383][1],亚历山大大帝可说是历史上相当杰出的一位将军。当亚历山大的父亲马其顿国王在公元前 366 年遭人谋杀后，年轻的亚历山大就被簇拥上了王位。在亚历山大大帝统治的十三年间，马其顿帝国的疆域从现今的希腊一路拓展到了印度。您可以选择追随亚历山大的脚步，或用自己的方式来征服世界!,亚历山大大帝可说是历史上相当杰出的一位将军。当亚历山大的父亲马其顿国王在公元前 336 年遭人谋杀后，年轻的亚历山大就被簇拥上了王位。在亚历山大大帝统治的十三年间，马其顿帝国的疆域从现今的希腊一路拓展到了印度。您可以选择追随亚历山大的脚步，或用自己的方式来征服世界!
+mods/Chinese/conquest/CTW_Alexander_Map_01_strings.XML,ROOT/CAT[@hash=2909936][1]/STRING[@hash=658084][1],退出,撤出
+mods/Chinese/conquest/CTW_Napoleon_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=AUSTERLITZ][1]/STRING[1]/SPACE[3]/@#tail,法兰西斯已经无力转圜局势，只能与拿破仑进行谈判。几天之后，神圣罗马帝国皇帝法兰西斯二世，成为奥匈帝国的法兰西斯一世皇帝。普勒斯堡 (现代的布拉提斯拉瓦) 条约中要求奥地利退出第三次反法同盟，并从奥地利占领大片领域。此条约强化先前承认奥地利在义大利和巴伐利亚割让土地的坎波福米尔奥与卢尼维尔条约。奥地利割让更多领土给巴伐利亚、玉登堡和巴登，并明确声明放弃这些小邦的所有权。奥地利还赔款四千万法郎。最后，神圣罗马帝国正式瓦解。随后，拿破仑建立莱茵邦联，其中包含奥地利所放弃的领域。,法兰西斯已经无力转圜局势，只能与拿破仑进行谈判。几天之后，神圣罗马帝国皇帝法兰西斯二世，成为奥地利皇帝法兰西斯一世。普勒斯堡 (现代的布拉提斯拉瓦) 条约中要求奥地利退出第三次反法同盟，并从奥地利占领大片领域。此条约强化先前承认奥地利在义大利和巴伐利亚割让土地的坎波福米尔奥与卢尼维尔条约。奥地利割让更多领土给巴伐利亚、玉登堡和巴登，并明确声明放弃这些小邦的所有权。奥地利还赔款四千万法郎。最后，神圣罗马帝国正式瓦解。随后，拿破仑建立莱茵邦联，其中包含奥地利所放弃的领域。
+mods/Chinese/conquest/CTW_Napoleon_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=AUSTERLITZ2][1]/STRING[1]/SPACE[3]/@#tail,法兰西斯已经无力转圜局势，只能与拿破仑进行谈判。几天之后，神圣罗马帝国皇帝法兰西斯二世，成为奥匈帝国的法兰西斯一世皇帝。普勒斯堡 (现代的布拉提斯拉瓦) 条约中要求奥地利退出第三次反法同盟，并从奥地利占领大片领域。此条约强化先前承认奥地利在义大利和巴伐利亚割让土地的坎波福米尔奥与卢尼维尔条约。奥地利割让更多领土给巴伐利亚、玉登堡和巴登，并明确声明放弃这些小邦的所有权。奥地利还赔款四千万法郎。最后，神圣罗马帝国正式瓦解。随后，拿破仑建立莱茵邦联，其中包含奥地利所放弃的领域。,法兰西斯已经无力转圜局势，只能与拿破仑进行谈判。几天之后，神圣罗马帝国皇帝法兰西斯二世，成为奥地利皇帝法兰西斯一世。普勒斯堡 (现代的布拉提斯拉瓦) 条约中要求奥地利退出第三次反法同盟，并从奥地利占领大片领域。此条约强化先前承认奥地利在义大利和巴伐利亚割让土地的坎波福米尔奥与卢尼维尔条约。奥地利割让更多领土给巴伐利亚、玉登堡和巴登，并明确声明放弃这些小邦的所有权。奥地利还赔款四千万法郎。最后，神圣罗马帝国正式瓦解。随后，拿破仑建立莱茵邦联，其中包含奥地利所放弃的领域。
+mods/Chinese/conquest/CTW_Napoleon_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=AUSTERLITZ3][1]/STRING[1]/SPACE[3]/@#tail,法兰西斯已经无力转圜局势，只能与拿破仑进行谈判。几天之后，神圣罗马帝国皇帝法兰西斯二世，成为奥匈帝国的法兰西斯一世皇帝。普勒斯堡 (现代的布拉提斯拉瓦) 条约中要求奥地利退出第三次反法同盟，并从奥地利占领大片领域。此条约强化先前承认奥地利在义大利和巴伐利亚割让土地的坎波福米尔奥与卢尼维尔条约。奥地利割让更多领土给巴伐利亚、玉登堡和巴登，并明确声明放弃这些小邦的所有权。奥地利还赔款四千万法郎。最后，神圣罗马帝国正式瓦解。随后，拿破仑建立莱茵邦联，其中包含奥地利所放弃的领域。,法兰西斯已经无力转圜局势，只能与拿破仑进行谈判。几天之后，神圣罗马帝国皇帝法兰西斯二世，成为奥地利皇帝法兰西斯一世。普勒斯堡 (现代的布拉提斯拉瓦) 条约中要求奥地利退出第三次反法同盟，并从奥地利占领大片领域。此条约强化先前承认奥地利在义大利和巴伐利亚割让土地的坎波福米尔奥与卢尼维尔条约。奥地利割让更多领土给巴伐利亚、玉登堡和巴登，并明确声明放弃这些小邦的所有权。奥地利还赔款四千万法郎。最后，神圣罗马帝国正式瓦解。随后，拿破仑建立莱茵邦联，其中包含奥地利所放弃的领域。
+mods/Chinese/conquest/CTW_Napoleon_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=EYLAU][1]/STRING[1],普鲁士于 1795 年 4 月退出第一次反法同盟，并根据巴塞尔条约，在第二次反法同盟和第三次反法同盟的反法战争中，保持中立。在乌尔姆战役中，普鲁士虽然领土被侵犯，却视而不见。普鲁士军队从 1794 年后，军力每下愈况，但却自以为自己的军队比法军强大。,普鲁士于 1795 年 4 月退出第一次反法同盟，并根据巴塞尔条约，在第二次反法同盟和第三次反法同盟的反法战争中，保持中立。在乌尔姆战役中，普鲁士虽然领土被侵犯，却视而不见。虽然普鲁士军队在 1794 年的表现不佳，但却自以为自己的军队比法军强大。
+mods/Chinese/conquest/CTW_Napoleon_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=EYLAU][1]/STRING[1]/SPACE[2]/@#tail,普鲁士尽管签订了这份条约，但并未投降。它的残兵往东撤退到波兰，还获得了俄罗斯军队的增援。到了该年 12 月，法国军队大举围攻哥尼斯堡，并深入普鲁士所占领的波兰地区。12 月 26 日，法国军队与俄罗斯在普特斯克和哥勒敏两处遭遇。虽然俄罗斯第二天就撤军，但是拿破仑还是决定要让军队驻扎下来过冬。然而，俄罗斯另有打算。1807 年 2 月 7 日、8 日，俄罗斯在艾劳展开战役。在两天的激烈战斗后，俄罗斯撤退，法国则返回它们的冬季军营，等候天气转暖。,尽管如此，普鲁士并未投降。它的残兵往东撤退到波兰，还获得了俄罗斯军队的增援。到了该年 12 月，法国军队大举围攻哥尼斯堡，并深入普鲁士所占领的波兰地区。12 月 26 日，法国军队与俄罗斯在普特斯克和哥勒敏两处遭遇。虽然俄罗斯第二天就撤军，但是拿破仑还是决定要让军队驻扎下来过冬。然而，俄罗斯另有打算。1807 年 2 月 7 日、8 日，俄罗斯在艾劳展开战役。在两天的激烈战斗后，俄罗斯撤退，法国则返回它们的冬季军营，等候天气转暖。
+mods/Chinese/conquest/CTW_Napoleon_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=EYLAU][1]/STRING[1]/SPACE[4]/@#tail,这项挫败的结果导致 1807 年 7 月 7-9 日，所签订的季尔锡特条约。法国、俄罗斯与普鲁士共同签署协议，终结第四次反法同盟。沙皇正式承认加入西伐利亚王国的莱茵邦联，其版图包括易北河西岸的前普鲁士领域，国王是杰罗姆。普鲁士波兰则组成华沙大公国，统治者是萨克逊的选帝侯，也就是日后的国王。俄罗斯则必须要遵守「柏林赦令」。,这项挫败的结果导致 1807 年 7 月 7-9 日，所签订的季尔锡特条约。法国、俄罗斯与普鲁士共同签署协议，终结第四次反法同盟。沙皇正式承认加入西伐利亚王国的莱茵邦联，其版图包括易北河西岸的前普鲁士领域，国王是杰罗姆。普鲁士波兰则组成华沙大公国，统治者是萨克逊的选帝侯，也就是日后的国王。俄罗斯则必须要遵守「柏林敕令」。
+mods/Chinese/conquest/CTW_Napoleon_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=MANTUA][1]/STRING[1]/SPACE[3]/@#tail,这个协商最后在拿破仑的义大利战役结束时，签订了坎波福米尔奥条约，并承认了先前所同意的莱奥本初步和约。在条约中，奥地利将它在低地国 (现今的比利时) 的属地割让给法国，并私下允诺将莱茵河左岸送给法国。威尼斯共和国解散分割; 所有阿弟及以东的威尼斯，还有伊斯特拉和达尔马提亚，都转让给奥地利; 现今的柏加摩和布雷沙则属于新兴国家－阿尔卑斯山南共和国的一部份; 而爱奥尼亚群岛则属于法国所有。该份条约也记录了第一次反法同盟的结束，并宣告所有革命战争的结束。普鲁士尽管签订了这份条约，但并未投降。它的残兵往东撤退到波兰，还获得了俄罗斯军队的增援。到了该年 12 月，法国军队大举围攻哥尼斯堡，并深入普鲁士所占领的波兰地区。12 月 26 日，法国军队与俄罗斯在普特斯克和哥勒敏两处遭遇。虽然俄罗斯第二天就撤军，但是拿破仑还是决定要让军队驻扎下来过冬。然而，俄罗斯另有打算。1807 年 2 月 7 日、8 日，俄罗斯在艾劳展开战役。在两天的激烈战斗后，俄罗斯撤退，法国则返回它们的冬季军营，等候天气转暖。1809 年的 7 月初，拿破仑准备好渡过多瑙河，攻击查尔斯大公在河对岸维也纳的阵地。拿破仑为了增加胜算，命令继子尤金，率领义大利军队前来助战。1809 年 7 月 4 日，法军渡过多瑙河，立即对奥地利阵地发动攻击，但由于夜晚和纷乱局面，法军仓皇撤军。那天晚上，拿破仑命令达武元帅，攻击奥军左翼，从路斯贝克后面的山丘击退他们。同时，查尔斯大公正计划攻击法国的左翼。结果发生拿破仑战争史中最为惨重的二日战役，奥军与法军各损失 4 万人。不过，最后查尔斯大公输掉这场战役，被迫撤退。奥地利在延长谈判后，签署了维也纳条约，内容包括退出第五次反法同盟，并将更多地区割让给巴伐利亚、萨克逊和义大利王国。此外奥地利还同意遵循大陆封锁政策，对英国实施贸易禁运、限制军队规模，并且赔偿法国战费 8 千 5 百万法郎。最后，奥王法兰西斯还同意女儿玛莉路易斯公主和拿破仑的婚姻，而成为拿破仑的岳父。,这个协商最后在拿破仑的义大利战役结束时，签订了坎波福米尔奥条约，并承认了先前所同意的莱奥本初步和约。在条约中，奥地利将它在低地国 (现今的比利时) 的属地割让给法国，并私下允诺将莱茵河左岸送给法国。威尼斯共和国解散分割; 所有阿弟及以东的威尼斯，还有伊斯特拉和达尔马提亚，都转让给奥地利; 现今的柏加摩和布雷沙则属于新兴国家－阿尔卑斯山南共和国的一部份; 而爱奥尼亚群岛则属于法国所有。该份条约也记录了第一次反法同盟的结束，并宣告所有革命战争的结束。尽管如此，普鲁士并未投降。它的残兵往东撤退到波兰，还获得了俄罗斯军队的增援。到了该年 12 月，法国军队大举围攻哥尼斯堡，并深入普鲁士所占领的波兰地区。12 月 26 日，法国军队与俄罗斯在普特斯克和哥勒敏两处遭遇。虽然俄罗斯第二天就撤军，但是拿破仑还是决定要让军队驻扎下来过冬。然而，俄罗斯另有打算。1807 年 2 月 7 日、8 日，俄罗斯在艾劳展开战役。在两天的激烈战斗后，俄罗斯撤退，法国则返回它们的冬季军营，等候天气转暖。1809 年的 7 月初，拿破仑准备好渡过多瑙河，攻击查尔斯大公在河对岸维也纳的阵地。拿破仑为了增加胜算，命令继子尤金，率领义大利军队前来助战。1809 年 7 月 4 日，法军渡过多瑙河，立即对奥地利阵地发动攻击，但由于夜晚和纷乱局面，法军仓皇撤军。那天晚上，拿破仑命令达武元帅，攻击奥军左翼，从路斯贝克后面的山丘击退他们。同时，查尔斯大公正计划攻击法国的左翼。结果发生拿破仑战争史中最为惨重的二日战役，奥军与法军各损失 4 万人。不过，最后查尔斯大公输掉这场战役，被迫撤退。奥地利在延长谈判后，签署了维也纳条约，内容包括退出第五次反法同盟，并将更多地区割让给巴伐利亚、萨克逊和义大利王国。此外奥地利还同意遵循大陆封锁政策，对英国实施贸易禁运、限制军队规模，并且赔偿法国战费 8 千 5 百万法郎。最后，奥王法兰西斯还同意女儿玛莉路易斯公主和拿破仑的婚姻，而成为拿破仑的岳父。
+mods/Chinese/conquest/CTW_Napoleon_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=MANTUA2][1]/STRING[1]/SPACE[3]/@#tail,这个协商最后在拿破仑的义大利战役结束时，签订了坎波福米尔奥条约，并承认了先前所同意的莱奥本初步和约。在条约中，奥地利将它在低地国 (现今的比利时) 的属地割让给法国，并私下允诺将莱茵河左岸送给法国。威尼斯共和国解散分割; 所有阿弟及以东的威尼斯，还有伊斯特拉和达尔马提亚，都转让给奥地利; 现今的柏加摩和布雷沙则属于新兴国家－阿尔卑斯山南共和国的一部份; 而爱奥尼亚群岛则属于法国所有。该份条约也记录了第一次反法同盟的结束，并宣告所有革命战争的结束。普鲁士尽管签订了这份条约，但并未投降。它的残兵往东撤退到波兰，还获得了俄罗斯军队的增援。到了该年 12 月，法国军队大举围攻哥尼斯堡，并深入普鲁士所占领的波兰地区。12 月 26 日，法国军队与俄罗斯在普特斯克和哥勒敏两处遭遇。虽然俄罗斯第二天就撤军，但是拿破仑还是决定要让军队驻扎下来过冬。然而，俄罗斯另有打算。1807 年 2 月 7 日、8 日，俄罗斯在艾劳展开战役。在两天的激烈战斗后，俄罗斯撤退，法国则返回它们的冬季军营，等候天气转暖。1809 年的 7 月初，拿破仑准备好渡过多瑙河，攻击查尔斯大公在河对岸维也纳的阵地。拿破仑为了增加胜算，命令继子尤金，率领义大利军队前来助战。1809 年 7 月 4 日，法军渡过多瑙河，立即对奥地利阵地发动攻击，但由于夜晚和纷乱局面，法军仓皇撤军。那天晚上，拿破仑命令达武元帅，攻击奥军左翼，从路斯贝克后面的山丘击退他们。同时，查尔斯大公正计划攻击法国的左翼。结果发生拿破仑战争史中最为惨重的二日战役，奥军与法军各损失 4 万人。不过，最后查尔斯大公输掉这场战役，被迫撤退。奥地利在延长谈判后，签署了维也纳条约，内容包括退出第五次反法同盟，并将更多地区割让给巴伐利亚、萨克逊和义大利王国。此外奥地利还同意遵循大陆封锁政策，对英国实施贸易禁运、限制军队规模，并且赔偿法国战费 8 千 5 百万法郎。最后，奥王法兰西斯还同意女儿玛莉路易斯公主和拿破仑的婚姻，而成为拿破仑的岳父。,这个协商最后在拿破仑的义大利战役结束时，签订了坎波福米尔奥条约，并承认了先前所同意的莱奥本初步和约。在条约中，奥地利将它在低地国 (现今的比利时) 的属地割让给法国，并私下允诺将莱茵河左岸送给法国。威尼斯共和国解散分割; 所有阿弟及以东的威尼斯，还有伊斯特拉和达尔马提亚，都转让给奥地利; 现今的柏加摩和布雷沙则属于新兴国家－阿尔卑斯山南共和国的一部份; 而爱奥尼亚群岛则属于法国所有。该份条约也记录了第一次反法同盟的结束，并宣告所有革命战争的结束。尽管如此，普鲁士并未投降。它的残兵往东撤退到波兰，还获得了俄罗斯军队的增援。到了该年 12 月，法国军队大举围攻哥尼斯堡，并深入普鲁士所占领的波兰地区。12 月 26 日，法国军队与俄罗斯在普特斯克和哥勒敏两处遭遇。虽然俄罗斯第二天就撤军，但是拿破仑还是决定要让军队驻扎下来过冬。然而，俄罗斯另有打算。1807 年 2 月 7 日、8 日，俄罗斯在艾劳展开战役。在两天的激烈战斗后，俄罗斯撤退，法国则返回它们的冬季军营，等候天气转暖。1809 年的 7 月初，拿破仑准备好渡过多瑙河，攻击查尔斯大公在河对岸维也纳的阵地。拿破仑为了增加胜算，命令继子尤金，率领义大利军队前来助战。1809 年 7 月 4 日，法军渡过多瑙河，立即对奥地利阵地发动攻击，但由于夜晚和纷乱局面，法军仓皇撤军。那天晚上，拿破仑命令达武元帅，攻击奥军左翼，从路斯贝克后面的山丘击退他们。同时，查尔斯大公正计划攻击法国的左翼。结果发生拿破仑战争史中最为惨重的二日战役，奥军与法军各损失 4 万人。不过，最后查尔斯大公输掉这场战役，被迫撤退。奥地利在延长谈判后，签署了维也纳条约，内容包括退出第五次反法同盟，并将更多地区割让给巴伐利亚、萨克逊和义大利王国。此外奥地利还同意遵循大陆封锁政策，对英国实施贸易禁运、限制军队规模，并且赔偿法国战费 8 千 5 百万法郎。最后，奥王法兰西斯还同意女儿玛莉路易斯公主和拿破仑的婚姻，而成为拿破仑的岳父。
+mods/Chinese/conquest/CTW_Napoleon_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=MANTUA3][1]/STRING[1]/SPACE[3]/@#tail,这个协商最后在拿破仑的义大利战役结束时，签订了坎波福米尔奥条约，并承认了先前所同意的莱奥本初步和约。在条约中，奥地利将它在低地国 (现今的比利时) 的属地割让给法国，并私下允诺将莱茵河左岸送给法国。威尼斯共和国解散分割; 所有阿弟及以东的威尼斯，还有伊斯特拉和达尔马提亚，都转让给奥地利; 现今的柏加摩和布雷沙则属于新兴国家－阿尔卑斯山南共和国的一部份; 而爱奥尼亚群岛则属于法国所有。该份条约也记录了第一次反法同盟的结束，并宣告所有革命战争的结束。普鲁士尽管签订了这份条约，但并未投降。它的残兵往东撤退到波兰，还获得了俄罗斯军队的增援。到了该年 12 月，法国军队大举围攻哥尼斯堡，并深入普鲁士所占领的波兰地区。12 月 26 日，法国军队与俄罗斯在普特斯克和哥勒敏两处遭遇。虽然俄罗斯第二天就撤军，但是拿破仑还是决定要让军队驻扎下来过冬。然而，俄罗斯另有打算。1807 年 2 月 7 日、8 日，俄罗斯在艾劳展开战役。在两天的激烈战斗后，俄罗斯撤退，法国则返回它们的冬季军营，等候天气转暖。1809 年的 7 月初，拿破仑准备好渡过多瑙河，攻击查尔斯大公在河对岸维也纳的阵地。拿破仑为了增加胜算，命令继子尤金，率领义大利军队前来助战。1809 年 7 月 4 日，法军渡过多瑙河，立即对奥地利阵地发动攻击，但由于夜晚和纷乱局面，法军仓皇撤军。那天晚上，拿破仑命令达武元帅，攻击奥军左翼，从路斯贝克后面的山丘击退他们。同时，查尔斯大公正计划攻击法国的左翼。结果发生拿破仑战争史中最为惨重的二日战役，奥军与法军各损失 4 万人。不过，最后查尔斯大公输掉这场战役，被迫撤退。奥地利在延长谈判后，签署了维也纳条约，内容包括退出第五次反法同盟，并将更多地区割让给巴伐利亚、萨克逊和义大利王国。此外奥地利还同意遵循大陆封锁政策，对英国实施贸易禁运、限制军队规模，并且赔偿法国战费 8 千 5 百万法郎。最后，奥王法兰西斯还同意女儿玛莉路易斯公主和拿破仑的婚姻，而成为拿破仑的岳父。,这个协商最后在拿破仑的义大利战役结束时，签订了坎波福米尔奥条约，并承认了先前所同意的莱奥本初步和约。在条约中，奥地利将它在低地国 (现今的比利时) 的属地割让给法国，并私下允诺将莱茵河左岸送给法国。威尼斯共和国解散分割; 所有阿弟及以东的威尼斯，还有伊斯特拉和达尔马提亚，都转让给奥地利; 现今的柏加摩和布雷沙则属于新兴国家－阿尔卑斯山南共和国的一部份; 而爱奥尼亚群岛则属于法国所有。该份条约也记录了第一次反法同盟的结束，并宣告所有革命战争的结束。尽管如此，普鲁士并未投降。它的残兵往东撤退到波兰，还获得了俄罗斯军队的增援。到了该年 12 月，法国军队大举围攻哥尼斯堡，并深入普鲁士所占领的波兰地区。12 月 26 日，法国军队与俄罗斯在普特斯克和哥勒敏两处遭遇。虽然俄罗斯第二天就撤军，但是拿破仑还是决定要让军队驻扎下来过冬。然而，俄罗斯另有打算。1807 年 2 月 7 日、8 日，俄罗斯在艾劳展开战役。在两天的激烈战斗后，俄罗斯撤退，法国则返回它们的冬季军营，等候天气转暖。1809 年的 7 月初，拿破仑准备好渡过多瑙河，攻击查尔斯大公在河对岸维也纳的阵地。拿破仑为了增加胜算，命令继子尤金，率领义大利军队前来助战。1809 年 7 月 4 日，法军渡过多瑙河，立即对奥地利阵地发动攻击，但由于夜晚和纷乱局面，法军仓皇撤军。那天晚上，拿破仑命令达武元帅，攻击奥军左翼，从路斯贝克后面的山丘击退他们。同时，查尔斯大公正计划攻击法国的左翼。结果发生拿破仑战争史中最为惨重的二日战役，奥军与法军各损失 4 万人。不过，最后查尔斯大公输掉这场战役，被迫撤退。奥地利在延长谈判后，签署了维也纳条约，内容包括退出第五次反法同盟，并将更多地区割让给巴伐利亚、萨克逊和义大利王国。此外奥地利还同意遵循大陆封锁政策，对英国实施贸易禁运、限制军队规模，并且赔偿法国战费 8 千 5 百万法郎。最后，奥王法兰西斯还同意女儿玛莉路易斯公主和拿破仑的婚姻，而成为拿破仑的岳父。
+mods/Chinese/conquest/CTW_Napoleon_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=LODI][1]/STRING[1]/SPACE[3]/@#tail,这个协商最后在拿破仑的义大利战役结束时，签订了坎波福米尔奥条约，并承认了先前所同意的莱奥本初步和约。在条约中，奥地利将它在低地国 (现今的比利时) 的属地割让给法国，并私下允诺将莱茵河左岸送给法国。威尼斯共和国解散分割; 所有阿弟及以东的威尼斯，还有伊斯特拉和达尔马提亚，都转让给奥地利; 现今的柏加摩和布雷沙则属于新兴国家－阿尔卑斯山南共和国的一部份; 而爱奥尼亚群岛则属于法国所有。该份条约也记录了第一次反法同盟的结束，并宣告所有革命战争的结束。普鲁士尽管签订了这份条约，但并未投降。它的残兵往东撤退到波兰，还获得了俄罗斯军队的增援。到了该年 12 月，法国军队大举围攻哥尼斯堡，并深入普鲁士所占领的波兰地区。12 月 26 日，法国军队与俄罗斯在普特斯克和哥勒敏两处遭遇。虽然俄罗斯第二天就撤军，但是拿破仑还是决定要让军队驻扎下来过冬。然而，俄罗斯另有打算。1807 年 2 月 7 日、8 日，俄罗斯在艾劳展开战役。在两天的激烈战斗后，俄罗斯撤退，法国则返回它们的冬季军营，等候天气转暖。1809 年的 7 月初，拿破仑准备好渡过多瑙河，攻击查尔斯大公在河对岸维也纳的阵地。拿破仑为了增加胜算，命令继子尤金，率领义大利军队前来助战。1809 年 7 月 4 日，法军渡过多瑙河，立即对奥地利阵地发动攻击，但由于夜晚和纷乱局面，法军仓皇撤军。那天晚上，拿破仑命令达武元帅，攻击奥军左翼，从路斯贝克后面的山丘击退他们。同时，查尔斯大公正计划攻击法国的左翼。结果发生拿破仑战争史中最为惨重的二日战役，奥军与法军各损失 4 万人。不过，最后查尔斯大公输掉这场战役，被迫撤退。奥地利在延长谈判后，签署了维也纳条约，内容包括退出第五次反法同盟，并将更多地区割让给巴伐利亚、萨克逊和义大利王国。此外奥地利还同意遵循大陆封锁政策，对英国实施贸易禁运、限制军队规模，并且赔偿法国战费 8 千 5 百万法郎。最后，奥王法兰西斯还同意女儿玛莉路易斯公主和拿破仑的婚姻，而成为拿破仑的岳父。,这个协商最后在拿破仑的义大利战役结束时，签订了坎波福米尔奥条约，并承认了先前所同意的莱奥本初步和约。在条约中，奥地利将它在低地国 (现今的比利时) 的属地割让给法国，并私下允诺将莱茵河左岸送给法国。威尼斯共和国解散分割; 所有阿弟及以东的威尼斯，还有伊斯特拉和达尔马提亚，都转让给奥地利; 现今的柏加摩和布雷沙则属于新兴国家－阿尔卑斯山南共和国的一部份; 而爱奥尼亚群岛则属于法国所有。该份条约也记录了第一次反法同盟的结束，并宣告所有革命战争的结束。尽管如此，普鲁士并未投降。它的残兵往东撤退到波兰，还获得了俄罗斯军队的增援。到了该年 12 月，法国军队大举围攻哥尼斯堡，并深入普鲁士所占领的波兰地区。12 月 26 日，法国军队与俄罗斯在普特斯克和哥勒敏两处遭遇。虽然俄罗斯第二天就撤军，但是拿破仑还是决定要让军队驻扎下来过冬。然而，俄罗斯另有打算。1807 年 2 月 7 日、8 日，俄罗斯在艾劳展开战役。在两天的激烈战斗后，俄罗斯撤退，法国则返回它们的冬季军营，等候天气转暖。1809 年的 7 月初，拿破仑准备好渡过多瑙河，攻击查尔斯大公在河对岸维也纳的阵地。拿破仑为了增加胜算，命令继子尤金，率领义大利军队前来助战。1809 年 7 月 4 日，法军渡过多瑙河，立即对奥地利阵地发动攻击，但由于夜晚和纷乱局面，法军仓皇撤军。那天晚上，拿破仑命令达武元帅，攻击奥军左翼，从路斯贝克后面的山丘击退他们。同时，查尔斯大公正计划攻击法国的左翼。结果发生拿破仑战争史中最为惨重的二日战役，奥军与法军各损失 4 万人。不过，最后查尔斯大公输掉这场战役，被迫撤退。奥地利在延长谈判后，签署了维也纳条约，内容包括退出第五次反法同盟，并将更多地区割让给巴伐利亚、萨克逊和义大利王国。此外奥地利还同意遵循大陆封锁政策，对英国实施贸易禁运、限制军队规模，并且赔偿法国战费 8 千 5 百万法郎。最后，奥王法兰西斯还同意女儿玛莉路易斯公主和拿破仑的婚姻，而成为拿破仑的岳父。
+mods/Chinese/conquest/CTW_Napoleon_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=FRIEDLAND][1]/STRING[1],根据历史记载，俄罗斯在弗里德兰的战败结果导致了在 1807 年 7 月 7-9 日，所签订的季尔锡特条约。法国、俄罗斯与普鲁士共同签署协议，终结第四次反法同盟。沙皇正式承认加入西伐利亚王国的莱茵邦联，其版图包括易北河西岸的前普鲁士领域，国王是杰罗姆。普鲁士波兰则组成华沙大公国，统治者是萨克逊的选帝侯，也就是日后的国王。俄罗斯则必须要遵守「柏林赦令」。,根据历史记载，俄罗斯在弗里德兰的战败结果导致了在 1807 年 7 月 7-9 日，所签订的季尔锡特条约。法国、俄罗斯与普鲁士共同签署协议，终结第四次反法同盟。沙皇正式承认加入西伐利亚王国的莱茵邦联，其版图包括易北河西岸的前普鲁士领域，国王是杰罗姆。普鲁士波兰则组成华沙大公国，统治者是萨克逊的选帝侯，也就是日后的国王。俄罗斯则必须要遵守「柏林敕令」。
+mods/Chinese/conquest/CTW_Napoleon_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=PORTUGAL][1]/STRING[1]/SPACE[6]/@#tail,5 月 16 日，贝瑞斯福将军指挥的英军，击退苏特元帅率领的法军，保住巴达霍斯要塞。后来围攻持续进行，但伤亡惨重，贝瑞斯福的决策引起争议。从此，贝瑞斯福不再独立指挥军队。,5 月 16 日，贝瑞斯福将军指挥的英军，击退苏特元帅率领的法军，阻止法军为巴达霍斯要塞解围。后来围攻持续进行，但伤亡惨重，贝瑞斯福的决策引起争议。从此，贝瑞斯福不再独立指挥军队。
+mods/Chinese/conquest/CTW_Napoleon_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=NEW MONTENOTTE][1]/STRING[1]/SPACE[3]/@#tail,这个协商最后在拿破仑的义大利战役结束时，签订了坎波福米尔奥条约，并承认了先前所同意的莱奥本初步和约。在条约中，奥地利将它在低地国 (现今的比利时) 的属地割让给法国，并私下允诺将莱茵河左岸送给法国。威尼斯共和国解散分割; 所有阿弟及以东的威尼斯，还有伊斯特拉和达尔马提亚，都转让给奥地利; 现今的柏加摩和布雷沙则属于新兴国家－阿尔卑斯山南共和国的一部份; 而爱奥尼亚群岛则属于法国所有。该份条约也记录了第一次反法同盟的结束，并宣告所有革命战争的结束。普鲁士尽管签订了这份条约，但并未投降。它的残兵往东撤退到波兰，还获得了俄罗斯军队的增援。到了该年 12 月，法国军队大举围攻哥尼斯堡，并深入普鲁士所占领的波兰地区。12 月 26 日，法国军队与俄罗斯在普特斯克和哥勒敏两处遭遇。虽然俄罗斯第二天就撤军，但是拿破仑还是决定要让军队驻扎下来过冬。然而，俄罗斯另有打算。1807 年 2 月 7 日、8 日，俄罗斯在艾劳展开战役。在两天的激烈战斗后，俄罗斯撤退，法国则返回它们的冬季军营，等候天气转暖。1809 年的 7 月初，拿破仑准备好渡过多瑙河，攻击查尔斯大公在河对岸维也纳的阵地。拿破仑为了增加胜算，命令继子尤金，率领义大利军队前来助战。1809 年 7 月 4 日，法军渡过多瑙河，立即对奥地利阵地发动攻击，但由于夜晚和纷乱局面，法军仓皇撤军。那天晚上，拿破仑命令达武元帅，攻击奥军左翼，从路斯贝克后面的山丘击退他们。同时，查尔斯大公正计划攻击法国的左翼。结果发生拿破仑战争史中最为惨重的二日战役，奥军与法军各损失 4 万人。不过，最后查尔斯大公输掉这场战役，被迫撤退。奥地利在延长谈判后，签署了维也纳条约，内容包括退出第五次反法同盟，并将更多地区割让给巴伐利亚、萨克逊和义大利王国。此外奥地利还同意遵循大陆封锁政策，对英国实施贸易禁运、限制军队规模，并且赔偿法国战费 8 千 5 百万法郎。最后，奥王法兰西斯还同意女儿玛莉路易斯公主和拿破仑的婚姻，而成为拿破仑的岳父。,这个协商最后在拿破仑的义大利战役结束时，签订了坎波福米尔奥条约，并承认了先前所同意的莱奥本初步和约。在条约中，奥地利将它在低地国 (现今的比利时) 的属地割让给法国，并私下允诺将莱茵河左岸送给法国。威尼斯共和国解散分割; 所有阿弟及以东的威尼斯，还有伊斯特拉和达尔马提亚，都转让给奥地利; 现今的柏加摩和布雷沙则属于新兴国家－阿尔卑斯山南共和国的一部份; 而爱奥尼亚群岛则属于法国所有。该份条约也记录了第一次反法同盟的结束，并宣告所有革命战争的结束。尽管如此，普鲁士并未投降。它的残兵往东撤退到波兰，还获得了俄罗斯军队的增援。到了该年 12 月，法国军队大举围攻哥尼斯堡，并深入普鲁士所占领的波兰地区。12 月 26 日，法国军队与俄罗斯在普特斯克和哥勒敏两处遭遇。虽然俄罗斯第二天就撤军，但是拿破仑还是决定要让军队驻扎下来过冬。然而，俄罗斯另有打算。1807 年 2 月 7 日、8 日，俄罗斯在艾劳展开战役。在两天的激烈战斗后，俄罗斯撤退，法国则返回它们的冬季军营，等候天气转暖。1809 年的 7 月初，拿破仑准备好渡过多瑙河，攻击查尔斯大公在河对岸维也纳的阵地。拿破仑为了增加胜算，命令继子尤金，率领义大利军队前来助战。1809 年 7 月 4 日，法军渡过多瑙河，立即对奥地利阵地发动攻击，但由于夜晚和纷乱局面，法军仓皇撤军。那天晚上，拿破仑命令达武元帅，攻击奥军左翼，从路斯贝克后面的山丘击退他们。同时，查尔斯大公正计划攻击法国的左翼。结果发生拿破仑战争史中最为惨重的二日战役，奥军与法军各损失 4 万人。不过，最后查尔斯大公输掉这场战役，被迫撤退。奥地利在延长谈判后，签署了维也纳条约，内容包括退出第五次反法同盟，并将更多地区割让给巴伐利亚、萨克逊和义大利王国。此外奥地利还同意遵循大陆封锁政策，对英国实施贸易禁运、限制军队规模，并且赔偿法国战费 8 千 5 百万法郎。最后，奥王法兰西斯还同意女儿玛莉路易斯公主和拿破仑的婚姻，而成为拿破仑的岳父。
+mods/Chinese/conquest/CTW_Napoleon_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=MONTENOTTE4][1]/STRING[1]/SPACE[3]/@#tail,这个协商最后在拿破仑的义大利战役结束时，签订了坎波福米尔奥条约，并承认了先前所同意的莱奥本初步和约。在条约中，奥地利将它在低地国 (现今的比利时) 的属地割让给法国，并私下允诺将莱茵河左岸送给法国。威尼斯共和国解散分割; 所有阿弟及以东的威尼斯，还有伊斯特拉和达尔马提亚，都转让给奥地利; 现今的柏加摩和布雷沙则属于新兴国家－阿尔卑斯山南共和国的一部份; 而爱奥尼亚群岛则属于法国所有。该份条约也记录了第一次反法同盟的结束，并宣告所有革命战争的结束。普鲁士尽管签订了这份条约，但并未投降。它的残兵往东撤退到波兰，还获得了俄罗斯军队的增援。到了该年 12 月，法国军队大举围攻哥尼斯堡，并深入普鲁士所占领的波兰地区。12 月 26 日，法国军队与俄罗斯在普特斯克和哥勒敏两处遭遇。虽然俄罗斯第二天就撤军，但是拿破仑还是决定要让军队驻扎下来过冬。然而，俄罗斯另有打算。1807 年 2 月 7 日、8 日，俄罗斯在艾劳展开战役。在两天的激烈战斗后，俄罗斯撤退，法国则返回它们的冬季军营，等候天气转暖。1809 年的 7 月初，拿破仑准备好渡过多瑙河，攻击查尔斯大公在河对岸维也纳的阵地。拿破仑为了增加胜算，命令继子尤金，率领义大利军队前来助战。1809 年 7 月 4 日，法军渡过多瑙河，立即对奥地利阵地发动攻击，但由于夜晚和纷乱局面，法军仓皇撤军。那天晚上，拿破仑命令达武元帅，攻击奥军左翼，从路斯贝克后面的山丘击退他们。同时，查尔斯大公正计划攻击法国的左翼。结果发生拿破仑战争史中最为惨重的二日战役，奥军与法军各损失 4 万人。不过，最后查尔斯大公输掉这场战役，被迫撤退。奥地利在延长谈判后，签署了维也纳条约，内容包括退出第五次反法同盟，并将更多地区割让给巴伐利亚、萨克逊和义大利王国。此外奥地利还同意遵循大陆封锁政策，对英国实施贸易禁运、限制军队规模，并且赔偿法国战费 8 千 5 百万法郎。最后，奥王法兰西斯还同意女儿玛莉路易斯公主和拿破仑的婚姻，而成为拿破仑的岳父。,这个协商最后在拿破仑的义大利战役结束时，签订了坎波福米尔奥条约，并承认了先前所同意的莱奥本初步和约。在条约中，奥地利将它在低地国 (现今的比利时) 的属地割让给法国，并私下允诺将莱茵河左岸送给法国。威尼斯共和国解散分割; 所有阿弟及以东的威尼斯，还有伊斯特拉和达尔马提亚，都转让给奥地利; 现今的柏加摩和布雷沙则属于新兴国家－阿尔卑斯山南共和国的一部份; 而爱奥尼亚群岛则属于法国所有。该份条约也记录了第一次反法同盟的结束，并宣告所有革命战争的结束。尽管如此，普鲁士并未投降。它的残兵往东撤退到波兰，还获得了俄罗斯军队的增援。到了该年 12 月，法国军队大举围攻哥尼斯堡，并深入普鲁士所占领的波兰地区。12 月 26 日，法国军队与俄罗斯在普特斯克和哥勒敏两处遭遇。虽然俄罗斯第二天就撤军，但是拿破仑还是决定要让军队驻扎下来过冬。然而，俄罗斯另有打算。1807 年 2 月 7 日、8 日，俄罗斯在艾劳展开战役。在两天的激烈战斗后，俄罗斯撤退，法国则返回它们的冬季军营，等候天气转暖。1809 年的 7 月初，拿破仑准备好渡过多瑙河，攻击查尔斯大公在河对岸维也纳的阵地。拿破仑为了增加胜算，命令继子尤金，率领义大利军队前来助战。1809 年 7 月 4 日，法军渡过多瑙河，立即对奥地利阵地发动攻击，但由于夜晚和纷乱局面，法军仓皇撤军。那天晚上，拿破仑命令达武元帅，攻击奥军左翼，从路斯贝克后面的山丘击退他们。同时，查尔斯大公正计划攻击法国的左翼。结果发生拿破仑战争史中最为惨重的二日战役，奥军与法军各损失 4 万人。不过，最后查尔斯大公输掉这场战役，被迫撤退。奥地利在延长谈判后，签署了维也纳条约，内容包括退出第五次反法同盟，并将更多地区割让给巴伐利亚、萨克逊和义大利王国。此外奥地利还同意遵循大陆封锁政策，对英国实施贸易禁运、限制军队规模，并且赔偿法国战费 8 千 5 百万法郎。最后，奥王法兰西斯还同意女儿玛莉路易斯公主和拿破仑的婚姻，而成为拿破仑的岳父。
+mods/Chinese/conquest/CTW_Napoleon_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=BATTLE FOR PORTUGAL][1]/STRING[1]/SPACE[1]/@#tail,英国于同年 8 月占领里斯本后，便召回代表签署辛特拉协定的布烈德将军，将指挥权移英国于同年 8 月占领里斯本后，便召回代表签署辛特拉协定的布烈德将军，将指挥权移交给约翰摩尔爵士。摩尔将一支小军队移师到塞拉曼加，一听说马德里的西班牙人正在反抗法军，便转而进军马德里。此时，人在伊比利半岛的拿破仑，从摩尔军队的侧翼攻击，使他无法撤回里斯本。结果让英军仓皇撤退到西班牙西北方的科鲁尼亚。虽然摩尔在防御战中阵亡，不过法军当初决定继续追击他，反而确保里斯本在英国援军登陆前不致遭到占领。,英国于同年 8 月占领里斯本后，便召回代表签署辛特拉协定的布烈德将军，将指挥权移交给约翰摩尔爵士。摩尔将一支小军队移师到塞拉曼加，一听说马德里的西班牙人正在反抗法军，便转而进军马德里。此时，人在伊比利半岛的拿破仑，从摩尔军队的侧翼攻击，使他无法撤回里斯本。结果让英军仓皇撤退到西班牙西北方的科鲁尼亚。虽然摩尔在防御战中阵亡，不过法军当初决定继续追击他，反而确保里斯本在英国援军登陆前不致遭到占领。
+mods/Chinese/conquest/CTW_Napoleon_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=BATTLE FOR PORTUGAL][1]/STRING[1]/SPACE[6]/@#tail,5 月 16 日，贝瑞斯福将军指挥的英军，击退苏特元帅率领的法军，保住巴达霍斯要塞。后来围攻持续进行，但伤亡惨重，贝瑞斯福的决策引起争议。从此，贝瑞斯福不再独立指挥军队。,5 月 16 日，贝瑞斯福将军指挥的英军，击退苏特元帅率领的法军，阻止法军为巴达霍斯要塞解围。后来围攻持续进行，但伤亡惨重，贝瑞斯福的决策引起争议。从此，贝瑞斯福不再独立指挥军队。
+mods/Chinese/conquest/CTW_Napoleon_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=LODIB][1]/STRING[1]/SPACE[3]/@#tail,这个协商最后在拿破仑的义大利战役结束时，签订了坎波福米尔奥条约，并承认了先前所同意的莱奥本初步和约。在条约中，奥地利将它在低地国 (现今的比利时) 的属地割让给法国，并私下允诺将莱茵河左岸送给法国。威尼斯共和国解散分割; 所有阿弟及以东的威尼斯，还有伊斯特拉和达尔马提亚，都转让给奥地利; 现今的柏加摩和布雷沙则属于新兴国家－阿尔卑斯山南共和国的一部份; 而爱奥尼亚群岛则属于法国所有。该份条约也记录了第一次反法同盟的结束，并宣告所有革命战争的结束。普鲁士尽管签订了这份条约，但并未投降。它的残兵往东撤退到波兰，还获得了俄罗斯军队的增援。到了该年 12 月，法国军队大举围攻哥尼斯堡，并深入普鲁士所占领的波兰地区。12 月 26 日，法国军队与俄罗斯在普特斯克和哥勒敏两处遭遇。虽然俄罗斯第二天就撤军，但是拿破仑还是决定要让军队驻扎下来过冬。然而，俄罗斯另有打算。1807 年 2 月 7 日、8 日，俄罗斯在艾劳展开战役。在两天的激烈战斗后，俄罗斯撤退，法国则返回它们的冬季军营，等候天气转暖。1809 年的 7 月初，拿破仑准备好渡过多瑙河，攻击查尔斯大公在河对岸维也纳的阵地。拿破仑为了增加胜算，命令继子尤金，率领义大利军队前来助战。1809 年 7 月 4 日，法军渡过多瑙河，立即对奥地利阵地发动攻击，但由于夜晚和纷乱局面，法军仓皇撤军。那天晚上，拿破仑命令达武元帅，攻击奥军左翼，从路斯贝克后面的山丘击退他们。同时，查尔斯大公正计划攻击法国的左翼。结果发生拿破仑战争史中最为惨重的二日战役，奥军与法军各损失 4 万人。不过，最后查尔斯大公输掉这场战役，被迫撤退。奥地利在延长谈判后，签署了维也纳条约，内容包括退出第五次反法同盟，并将更多地区割让给巴伐利亚、萨克逊和义大利王国。此外奥地利还同意遵循大陆封锁政策，对英国实施贸易禁运、限制军队规模，并且赔偿法国战费 8 千 5 百万法郎。最后，奥王法兰西斯还同意女儿玛莉路易斯公主和拿破仑的婚姻，而成为拿破仑的岳父。,这个协商最后在拿破仑的义大利战役结束时，签订了坎波福米尔奥条约，并承认了先前所同意的莱奥本初步和约。在条约中，奥地利将它在低地国 (现今的比利时) 的属地割让给法国，并私下允诺将莱茵河左岸送给法国。威尼斯共和国解散分割; 所有阿弟及以东的威尼斯，还有伊斯特拉和达尔马提亚，都转让给奥地利; 现今的柏加摩和布雷沙则属于新兴国家－阿尔卑斯山南共和国的一部份; 而爱奥尼亚群岛则属于法国所有。该份条约也记录了第一次反法同盟的结束，并宣告所有革命战争的结束。尽管如此，普鲁士并未投降。它的残兵往东撤退到波兰，还获得了俄罗斯军队的增援。到了该年 12 月，法国军队大举围攻哥尼斯堡，并深入普鲁士所占领的波兰地区。12 月 26 日，法国军队与俄罗斯在普特斯克和哥勒敏两处遭遇。虽然俄罗斯第二天就撤军，但是拿破仑还是决定要让军队驻扎下来过冬。然而，俄罗斯另有打算。1807 年 2 月 7 日、8 日，俄罗斯在艾劳展开战役。在两天的激烈战斗后，俄罗斯撤退，法国则返回它们的冬季军营，等候天气转暖。1809 年的 7 月初，拿破仑准备好渡过多瑙河，攻击查尔斯大公在河对岸维也纳的阵地。拿破仑为了增加胜算，命令继子尤金，率领义大利军队前来助战。1809 年 7 月 4 日，法军渡过多瑙河，立即对奥地利阵地发动攻击，但由于夜晚和纷乱局面，法军仓皇撤军。那天晚上，拿破仑命令达武元帅，攻击奥军左翼，从路斯贝克后面的山丘击退他们。同时，查尔斯大公正计划攻击法国的左翼。结果发生拿破仑战争史中最为惨重的二日战役，奥军与法军各损失 4 万人。不过，最后查尔斯大公输掉这场战役，被迫撤退。奥地利在延长谈判后，签署了维也纳条约，内容包括退出第五次反法同盟，并将更多地区割让给巴伐利亚、萨克逊和义大利王国。此外奥地利还同意遵循大陆封锁政策，对英国实施贸易禁运、限制军队规模，并且赔偿法国战费 8 千 5 百万法郎。最后，奥王法兰西斯还同意女儿玛莉路易斯公主和拿破仑的婚姻，而成为拿破仑的岳父。
+mods/Chinese/conquest/CTW_Napoleon_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=LODIC][1]/STRING[1]/SPACE[3]/@#tail,这个协商最后在拿破仑的义大利战役结束时，签订了坎波福米尔奥条约，并承认了先前所同意的莱奥本初步和约。在条约中，奥地利将它在低地国 (现今的比利时) 的属地割让给法国，并私下允诺将莱茵河左岸送给法国。威尼斯共和国解散分割; 所有阿弟及以东的威尼斯，还有伊斯特拉和达尔马提亚，都转让给奥地利; 现今的柏加摩和布雷沙则属于新兴国家－阿尔卑斯山南共和国的一部份; 而爱奥尼亚群岛则属于法国所有。该份条约也记录了第一次反法同盟的结束，并宣告所有革命战争的结束。普鲁士尽管签订了这份条约，但并未投降。它的残兵往东撤退到波兰，还获得了俄罗斯军队的增援。到了该年 12 月，法国军队大举围攻哥尼斯堡，并深入普鲁士所占领的波兰地区。12 月 26 日，法国军队与俄罗斯在普特斯克和哥勒敏两处遭遇。虽然俄罗斯第二天就撤军，但是拿破仑还是决定要让军队驻扎下来过冬。然而，俄罗斯另有打算。1807 年 2 月 7 日、8 日，俄罗斯在艾劳展开战役。在两天的激烈战斗后，俄罗斯撤退，法国则返回它们的冬季军营，等候天气转暖。1809 年的 7 月初，拿破仑准备好渡过多瑙河，攻击查尔斯大公在河对岸维也纳的阵地。拿破仑为了增加胜算，命令继子尤金，率领义大利军队前来助战。1809 年 7 月 4 日，法军渡过多瑙河，立即对奥地利阵地发动攻击，但由于夜晚和纷乱局面，法军仓皇撤军。那天晚上，拿破仑命令达武元帅，攻击奥军左翼，从路斯贝克后面的山丘击退他们。同时，查尔斯大公正计划攻击法国的左翼。结果发生拿破仑战争史中最为惨重的二日战役，奥军与法军各损失 4 万人。不过，最后查尔斯大公输掉这场战役，被迫撤退。奥地利在延长谈判后，签署了维也纳条约，内容包括退出第五次反法同盟，并将更多地区割让给巴伐利亚、萨克逊和义大利王国。此外奥地利还同意遵循大陆封锁政策，对英国实施贸易禁运、限制军队规模，并且赔偿法国战费 8 千 5 百万法郎。最后，奥王法兰西斯还同意女儿玛莉路易斯公主和拿破仑的婚姻，而成为拿破仑的岳父。,这个协商最后在拿破仑的义大利战役结束时，签订了坎波福米尔奥条约，并承认了先前所同意的莱奥本初步和约。在条约中，奥地利将它在低地国 (现今的比利时) 的属地割让给法国，并私下允诺将莱茵河左岸送给法国。威尼斯共和国解散分割; 所有阿弟及以东的威尼斯，还有伊斯特拉和达尔马提亚，都转让给奥地利; 现今的柏加摩和布雷沙则属于新兴国家－阿尔卑斯山南共和国的一部份; 而爱奥尼亚群岛则属于法国所有。该份条约也记录了第一次反法同盟的结束，并宣告所有革命战争的结束。尽管如此，普鲁士并未投降。它的残兵往东撤退到波兰，还获得了俄罗斯军队的增援。到了该年 12 月，法国军队大举围攻哥尼斯堡，并深入普鲁士所占领的波兰地区。12 月 26 日，法国军队与俄罗斯在普特斯克和哥勒敏两处遭遇。虽然俄罗斯第二天就撤军，但是拿破仑还是决定要让军队驻扎下来过冬。然而，俄罗斯另有打算。1807 年 2 月 7 日、8 日，俄罗斯在艾劳展开战役。在两天的激烈战斗后，俄罗斯撤退，法国则返回它们的冬季军营，等候天气转暖。1809 年的 7 月初，拿破仑准备好渡过多瑙河，攻击查尔斯大公在河对岸维也纳的阵地。拿破仑为了增加胜算，命令继子尤金，率领义大利军队前来助战。1809 年 7 月 4 日，法军渡过多瑙河，立即对奥地利阵地发动攻击，但由于夜晚和纷乱局面，法军仓皇撤军。那天晚上，拿破仑命令达武元帅，攻击奥军左翼，从路斯贝克后面的山丘击退他们。同时，查尔斯大公正计划攻击法国的左翼。结果发生拿破仑战争史中最为惨重的二日战役，奥军与法军各损失 4 万人。不过，最后查尔斯大公输掉这场战役，被迫撤退。奥地利在延长谈判后，签署了维也纳条约，内容包括退出第五次反法同盟，并将更多地区割让给巴伐利亚、萨克逊和义大利王国。此外奥地利还同意遵循大陆封锁政策，对英国实施贸易禁运、限制军队规模，并且赔偿法国战费 8 千 5 百万法郎。最后，奥王法兰西斯还同意女儿玛莉路易斯公主和拿破仑的婚姻，而成为拿破仑的岳父。
+mods/Chinese/conquest/CTW_Napoleon_Map_01_info_text.XML,ROOT/INTRO_TEXT[1]/ENTRY[@name=INTRO_TEXT][1]/BULLET[4]/@#tail,1793 年 7 月，普鲁士-奥地利联军大胜法军。然而，在 1794 年春的战争开始之前，普鲁士的波兰辖区内有位将军叛变。普鲁士被迫重整军队和资源，在 1794 年里无法再对法国采取任何攻击行动。1795 年 4 月，普鲁士与法国签订巴塞尔条约，法国同意不攻击普鲁士领土，而普鲁士则同意退出第一次反法同盟。西班牙在 1795 年 4 月 22 日跟进，同意与法国和平相处。法国很快就彻底击败荷兰共和国，并在原地建立巴达维亚共和国。法国在内忧外患环伺下，强人拿破仑崛起，成为传奇人物。,1793 年 7 月，普鲁士-奥地利联军大胜法军。然而，在 1794 年春的战争开始之前，普鲁士的波兰辖区内爆发了大规模起义。普鲁士被迫重整军队和资源，在 1794 年里无法再对法国采取任何攻击行动。1795 年 4 月，普鲁士与法国签订巴塞尔条约，法国同意不攻击普鲁士领土，而普鲁士则同意退出第一次反法同盟。西班牙在 1795 年 4 月 22 日跟进，同意与法国和平相处。法国很快就彻底击败荷兰共和国，并在原地建立巴达维亚共和国。法国在内忧外患环伺下，强人拿破仑崛起，成为传奇人物。
+mods/Chinese/conquest/CTW_Napoleon_Map_01_strings.XML,ROOT/CAT[@hash=2131502][1]/STRING[@hash=214639786][1],追随拿破仑的脚步，征服 1769 年的已知世界!,追随拿破仑的脚步，征服 1796 年的已知世界!
+mods/Chinese/conquest/CTW_New_World_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=THE PLAINS][1]/STRING[1],一望无际的大平原区，从美国中西部和加拿大开始，一直延伸到落几山脉，绵延超过 500 英哩，美国原住民在欧洲人抵达的几百年之前就已经定居在此。当地人民从获得马匹成为游牧猎人，近而成为世上最优秀的骑士之一。欧洲人殖民于此之后，野牛因过度猎捕而濒临绝种。殖民者发现大平原区也是数一数二的农作物产区。,一望无际的大平原区，从美国中西部和加拿大开始，一直延伸到落几山脉，绵延超过 500 英哩，美洲原住民在欧洲人抵达的几百年之前就已经定居在此。当地人民从获得马匹成为游牧猎人，近而成为世上最优秀的骑士之一。欧洲人殖民于此之后，野牛因过度猎捕而濒临绝种。殖民者发现大平原区也是数一数二的农作物产区。
+mods/Chinese/conquest/CTW_New_World_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=YUCATAN][1]/STRING[1],一般认为马雅人并没有组成一个统一的帝国，而是聚集了拥有相同文化与宗教背景的多个独立城邦。犹加敦半岛上和半岛附近就有多达 20 个马雅城邦。,与常见的看法相反，马雅人并未组成统一的帝国，而是聚集了拥有相同文化与宗教背景的多个独立城邦。犹加敦半岛上和半岛附近就有多达 20 个马雅城邦。
+mods/Chinese/conquest/CTW_New_World_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=PERU][1]/STRING[1],"印加帝国是美洲有史以来最庞大的美国原住民国家。在鼎盛时期，曾是地球上规模最大的民族，铺设有 14,000 英哩的道路，还有一千万以上的居民散布各地居住于这连绵 2,500 英哩的领域，也就是现在的智利到哥伦比亚。","印加帝国是美洲有史以来最庞大的美洲原住民国家。在鼎盛时期，曾是地球上规模最大的民族，铺设有 14,000 英哩的道路，还有一千万以上的居民散布各地居住于这连绵 2,500 英哩的领域，也就是现在的智利到哥伦比亚。"
+mods/Chinese/conquest/CTW_New_World_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=TECHNOTITLAN][1]/STRING[1]/SPACE[1]/@#tail,虽然阿兹特克人最后还是被科特所领导的西班牙军队所击溃，但他们还是有成功之处，特别是在 1520 年 7 月 1 日发生的「哀伤之夜」，在首都铁诺奇帝兰的居民起义反抗西班牙人，并将他们全部赶出市区，有三分之二的西班牙军队以及大约一千名的特拉克斯卡拉盟友，在暴乱中身亡。,虽然阿兹特克人最后还是被科特所领导的西班牙军队所击溃，但他们还是有成功之处，特别是在 1520 年 6 月 30 日发生的「哀伤之夜」，在首都铁诺奇帝兰的居民起义反抗西班牙人，并将他们全部赶出市区，有三分之二的西班牙军队以及大约一千名的特拉克斯卡拉盟友，在暴乱中身亡。
+mods/Chinese/conquest/CTW_New_World_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=THE LAKES][1]/STRING[1],易落魁人- 在与其他部族结合之前，最初是由 5 个部族所组成，分布于大湖区。易落魁人除了是非常杰出的猎人之外，也是一流的农夫。在第 17 和 18 世纪，易落魁人通常与英国人结盟共同对抗法国人和他们的美国原住民盟友，也就是休伦族和阿冈昆族。谁赢得胜利就可以赢得五大湖区的所有权，此地是进入北美内陆的重要路径，而且周围的河岸还有很多诸如河狸和熊的动物，牠们的兽皮在欧洲极有价值。,易落魁人- 在与其他部族结合之前，最初是由 5 个部族所组成，分布于大湖区。易落魁人除了是非常杰出的猎人之外，也是一流的农夫。在第 17 和 18 世纪，易落魁人通常与英国人结盟共同对抗法国人和他们的美洲原住民盟友，也就是休伦族和阿冈昆族。谁赢得胜利就可以赢得五大湖区的所有权，此地是进入北美内陆的重要路径，而且周围的河岸还有很多诸如河狸和熊的动物，牠们的兽皮在欧洲极有价值。
+mods/Chinese/conquest/CTW_New_World_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=PIRATE STORM][1]/STRING[1],海盗只要得知航行的船只载有贵重物品，就会想要洗劫他们。海盗是西班牙带给美洲的灾难，因为他们每半年便可将船只满载金银财宝，从墨西哥和加勒比海驶回欧洲。当时这些舰队既庞大又有钱，所以称 17 和 18 世纪为「海盗的黄金年代」实在不足为过。当然，海盗的受害者们可能会给予他们其他的称号。,海盗只要得知航行的船只载有贵重物品，就会想要洗劫他们。在美洲，海盗尤其令西班牙人头疼，因为西班牙每年两次派满载财宝的船队，从墨西哥和加勒比海驶回欧洲。当时这些舰队既庞大又有钱，所以称 17 和 18 世纪为「海盗的黄金年代」实在不足为过。当然，海盗的受害者们可能会给予他们其他的称号。
+mods/Chinese/conquest/CTW_New_World_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=ISLAND DIPLOMACY][1]/STRING[1],加勒比海之名得自加勒比印第安人。有位西班牙人华斯克埃斯皮诺沙曾说:「他们叫做『卡马胡亚斯』，意思是『天堂之光』，因为他们既勇敢又好战。」加勒比人与阿拉瓦克人虽然经常相互交战，不过事实上他们讲的根本是相同的语言，而且有某种程度上的关系。当西班牙人首次抵达时，他们是居住在加勒比海列岛的各个部族里，最为优秀的 2 个部族。,加勒比海之名得自加勒比印第安人。有位西班牙人华斯克埃斯皮诺沙曾说:「他们叫做『卡马胡亚斯』，意思是『天降闪电』，因为他们既勇敢又好战。」加勒比人与阿拉瓦克人虽然经常相互交战，不过事实上他们讲的根本是相同的语言，至少在语言上有亲缘关系。当西班牙人首次抵达时，他们是居住在加勒比海列岛的各个部族里，最主要的两个部族。
+mods/Chinese/conquest/CTW_New_World_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=FOOD FOR THE WINTER][1]/STRING[1],当首批欧洲殖民来到美洲时，虽然他们可能是为了要寻找黄金或其他贵重物品，不过他们很快就发现最为迫切需要的是食物。虽然美洲蕴藏大量丰富的食物，不过对殖民者而言大多数都是没有看过与吃过的。如果没有当地美国原住民帮助的话，有些殖民可能无法活下来。,当首批欧洲殖民来到美洲时，虽然他们可能是为了要寻找黄金或其他贵重物品，不过他们很快就发现最为迫切需要的是食物。虽然美洲蕴藏大量丰富的食物，不过对殖民者而言大多数都是没有看过与吃过的。如果没有当地美洲原住民帮助的话，有些殖民可能无法活下来。
+mods/Chinese/conquest/CTW_New_World_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=FOOD FOR THE WINTER][1]/STRING[1]/SPACE[1]/@#tail,以新麻萨诸塞州的清教徒为例，根据广为流传的传说，清教徒于 1620 年 11 月在普利茅斯石登陆，当时已赶不及进行播种或收获。他们的第一个冬天既寒冷又难熬，而且食物也十分短缺。即使有美国原住民伸出援手，生还的没有超过 50 人，不到原先来美洲总人数的一半。,以新麻萨诸塞州的清教徒为例，根据广为流传的传说，清教徒于 1620 年 11 月在普利茅斯石登陆，当时已赶不及进行播种或收获。他们的第一个冬天既寒冷又难熬，而且食物也十分短缺。即使有美洲原住民伸出援手，生还的没有超过 50 人，不到原先来美洲总人数的一半。
+mods/Chinese/conquest/CTW_New_World_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=FEDERATION][1]/STRING[1],美国原住民部族之间的相互争战，或是与西进的欧洲人相争斗，这些情形时有耳闻。这类情况的一个例子就是易落魁人，这不是一个部族，而是由 6 个强大美国原住民民族所组成的同盟: 塞内卡族、摩和克族、卡尤加族、奥奈达族、欧挪达加族和休伦族。据说美国邦联条例就是以他们的结盟作为范本而制定了美国宪法。易落魁民族后来还加入图斯卡洛拉族。易落魁的规模非常庞大，其边界约略是从加拿大南方到肯塔基州，以及从纽约和宾夕法尼亚州到俄亥俄州。,美洲原住民部族之间的相互争战，或是与西进的欧洲人相争斗，这些情形时有耳闻。这类情况的一个例子就是易落魁人，这不是一个部族，而是由 6 个强大美洲原住民民族所组成的同盟: 塞内卡族、摩和克族、卡尤加族、奥奈达族、欧挪达加族和休伦族。据说美国邦联条例就是以他们的结盟作为范本而制定了美国宪法。易落魁民族后来还加入图斯卡洛拉族。易落魁的规模非常庞大，其边界约略是从加拿大南方到肯塔基州，以及从纽约和宾夕法尼亚州到俄亥俄州。
+mods/Chinese/conquest/CTW_New_World_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=BRITISH YORKTOWN][1]/STRING[1],在 1781 年，英国军队在康华里公爵的领导之下前往南方，努力要恢复效忠派的期望，并击败 13 支想要脱离英国，另外成立新国家的美国殖民地反叛军。后来，康华里被误导而相信，若是能抵达约克河，皇家海军至少能够提供补给并增援他的部队，或甚至是把整支军队载往纽约或别处。康华里在那个夏季结束以前，却发现他受困在约克河的约克镇而且无法脱身。,在 1781 年，英国军队在康华里公爵的领导之下前往南方，努力要恢复效忠派的期望，并击败 想将十三个殖民地组成新国家的美洲反叛军。后来，康华里被误导而相信，若是能抵达约克河，皇家海军至少能够提供补给并增援他的部队，或甚至是把整支军队载往纽约或别处。康华里在那个夏季结束以前，却发现他受困在约克河的约克镇而且无法脱身。
+mods/Chinese/conquest/CTW_New_World_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=PLAINS2][1]/STRING[1],一望无际的大平原区，从美国中西部和加拿大开始，一直延伸到落几山脉，绵延超过 500 英哩，美国原住民在欧洲人抵达的几百年之前就已经定居在此。当地人民从获得马匹成为游牧猎人，近而成为世上最优秀的骑士之一。欧洲人殖民于此之后，野牛因过度猎捕而濒临绝种。殖民者发现大平原区也是数一数二的农作物产区。,一望无际的大平原区，从美国中西部和加拿大开始，一直延伸到落几山脉，绵延超过 500 英哩，美洲原住民在欧洲人抵达的几百年之前就已经定居在此。当地人民从获得马匹成为游牧猎人，近而成为世上最优秀的骑士之一。欧洲人殖民于此之后，野牛因过度猎捕而濒临绝种。殖民者发现大平原区也是数一数二的农作物产区。
+mods/Chinese/conquest/CTW_New_World_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=PLAINS3][1]/STRING[1],一望无际的大平原区，从美国中西部和加拿大开始，一直延伸到落几山脉，绵延超过 500 英哩，美国原住民在欧洲人抵达的几百年之前就已经定居在此。当地人民从获得马匹成为游牧猎人，近而成为世上最优秀的骑士之一。欧洲人殖民于此之后，野牛因过度猎捕而濒临绝种。殖民者发现大平原区也是数一数二的农作物产区。,一望无际的大平原区，从美国中西部和加拿大开始，一直延伸到落几山脉，绵延超过 500 英哩，美洲原住民在欧洲人抵达的几百年之前就已经定居在此。当地人民从获得马匹成为游牧猎人，近而成为世上最优秀的骑士之一。欧洲人殖民于此之后，野牛因过度猎捕而濒临绝种。殖民者发现大平原区也是数一数二的农作物产区。
+mods/Chinese/conquest/CTW_New_World_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=BATTLE OF QUEBEC][1]/STRING[1]/SPACE[2]/@#tail,基督教分离主义者在 16 世纪早期逃离英格兰，并在新大陆定居下来。当英国人开始失去原先所有的殖民地时，他们便以武力强行占领了北方的法国殖民地。从法国手中夺取了加拿大的几个地区后不久，英国面临了美国的独立革命，虽然最后他们在新大陆失去了一块领土，却又赢得另一块领土。,基督教分离主义者在 17 世纪早期逃离英格兰，并在新大陆定居下来。当英国人开始失去原先所有的殖民地时，他们便以武力强行占领了北方的法国殖民地。从法国手中夺取了加拿大的几个地区后不久，英国面临了美国的独立革命，虽然最后他们在新大陆失去了一块领土，却又赢得另一块领土。
+mods/Chinese/conquest/CTW_New_World_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=THE LAKES1][1]/STRING[1],易落魁人- 在与其他部族结合之前，最初是由 5 个部族所组成，分布于大湖区。易落魁人除了是非常杰出的猎人之外，也是一流的农夫。在第 17 和 18 世纪，易落魁人通常与英国人结盟共同对抗法国人和他们的美国原住民盟友，也就是休伦族和阿冈昆族。谁赢得胜利就可以赢得五大湖区的所有权，此地是进入北美内陆的重要路径，而且周围的河岸还有很多诸如河狸和熊的动物，牠们的兽皮在欧洲极有价值。,易落魁人- 在与其他部族结合之前，最初是由 5 个部族所组成，分布于大湖区。易落魁人除了是非常杰出的猎人之外，也是一流的农夫。在第 17 和 18 世纪，易落魁人通常与英国人结盟共同对抗法国人和他们的美洲原住民盟友，也就是休伦族和阿冈昆族。谁赢得胜利就可以赢得五大湖区的所有权，此地是进入北美内陆的重要路径，而且周围的河岸还有很多诸如河狸和熊的动物，牠们的兽皮在欧洲极有价值。
+mods/Chinese/conquest/CTW_New_World_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=THE LAKES2][1]/STRING[1],易落魁人- 在与其他部族结合之前，最初是由 5 个部族所组成，分布于大湖区。易落魁人除了是非常杰出的猎人之外，也是一流的农夫。在第 17 和 18 世纪，易落魁人通常与英国人结盟共同对抗法国人和他们的美国原住民盟友，也就是休伦族和阿冈昆族。谁赢得胜利就可以赢得五大湖区的所有权，此地是进入北美内陆的重要路径，而且周围的河岸还有很多诸如河狸和熊的动物，牠们的兽皮在欧洲极有价值。,易落魁人- 在与其他部族结合之前，最初是由 5 个部族所组成，分布于大湖区。易落魁人除了是非常杰出的猎人之外，也是一流的农夫。在第 17 和 18 世纪，易落魁人通常与英国人结盟共同对抗法国人和他们的美洲原住民盟友，也就是休伦族和阿冈昆族。谁赢得胜利就可以赢得五大湖区的所有权，此地是进入北美内陆的重要路径，而且周围的河岸还有很多诸如河狸和熊的动物，牠们的兽皮在欧洲极有价值。
+mods/Chinese/conquest/CTW_New_World_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=THE LAKES3][1]/STRING[1],易落魁人- 在与其他部族结合之前，最初是由 5 个部族所组成，分布于大湖区。易落魁人除了是非常杰出的猎人之外，也是一流的农夫。在第 17 和 18 世纪，易落魁人通常与英国人结盟共同对抗法国人和他们的美国原住民盟友，也就是休伦族和阿冈昆族。谁赢得胜利就可以赢得五大湖区的所有权，此地是进入北美内陆的重要路径，而且周围的河岸还有很多诸如河狸和熊的动物，牠们的兽皮在欧洲极有价值。,易落魁人- 在与其他部族结合之前，最初是由 5 个部族所组成，分布于大湖区。易落魁人除了是非常杰出的猎人之外，也是一流的农夫。在第 17 和 18 世纪，易落魁人通常与英国人结盟共同对抗法国人和他们的美洲原住民盟友，也就是休伦族和阿冈昆族。谁赢得胜利就可以赢得五大湖区的所有权，此地是进入北美内陆的重要路径，而且周围的河岸还有很多诸如河狸和熊的动物，牠们的兽皮在欧洲极有价值。
+mods/Chinese/conquest/CTW_New_World_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=THE LAKES4][1]/STRING[1],易落魁人- 在与其他部族结合之前，最初是由 5 个部族所组成，分布于大湖区。易落魁人除了是非常杰出的猎人之外，也是一流的农夫。在第 17 和 18 世纪，易落魁人通常与英国人结盟共同对抗法国人和他们的美国原住民盟友，也就是休伦族和阿冈昆族。谁赢得胜利就可以赢得五大湖区的所有权，此地是进入北美内陆的重要路径，而且周围的河岸还有很多诸如河狸和熊的动物，牠们的兽皮在欧洲极有价值。,易落魁人- 在与其他部族结合之前，最初是由 5 个部族所组成，分布于大湖区。易落魁人除了是非常杰出的猎人之外，也是一流的农夫。在第 17 和 18 世纪，易落魁人通常与英国人结盟共同对抗法国人和他们的美洲原住民盟友，也就是休伦族和阿冈昆族。谁赢得胜利就可以赢得五大湖区的所有权，此地是进入北美内陆的重要路径，而且周围的河岸还有很多诸如河狸和熊的动物，牠们的兽皮在欧洲极有价值。
+mods/Chinese/conquest/CTW_New_World_Map_01_info_text.XML,ROOT/CUSTOM[1]/ENTRY[@name=ISLAND DIPLOMACY2][1]/STRING[1],加勒比海之名得自加勒比印第安人。有位西班牙人华斯克埃斯皮诺沙曾说:「他们叫做『卡马胡亚斯』，意思是『天堂之光』，因为他们既勇敢又好战。」加勒比人与阿拉瓦克人虽然经常相互交战，不过事实上他们讲的根本是相同的语言，而且有某种程度上的关系。当西班牙人首次抵达时，他们是居住在加勒比海列岛的各个部族里，最为优秀的 2 个部族。,加勒比海之名得自加勒比印第安人。有位西班牙人华斯克埃斯皮诺沙曾说:「他们叫做『卡马胡亚斯』，意思是『天降闪电』，因为他们既勇敢又好战。」加勒比人与阿拉瓦克人虽然经常相互交战，不过事实上他们讲的根本是相同的语言，至少在语言上有亲缘关系。当西班牙人首次抵达时，他们是居住在加勒比海列岛的各个部族里，最主要的两个部族。
+mods/Chinese/conquest/CTW_New_World_Map_01_info_text.XML,ROOT/INSTRUCTIONS[@name=INSTRUCTIONS][1]/BULLET[2]/@#tail,美国原住民部族必须击败所有的欧洲民族和美国人。而且要征服比其他美国原住民还要多的领域。,美洲原住民部族必须击败所有的欧洲民族和美国人。而且要征服比其他美洲原住民还要多的领域。
+mods/Chinese/conquest/CTW_New_World_Map_01_info_text.XML,ROOT/INSTRUCTIONS[@name=INSTRUCTIONS][1]/BULLET[3]/@#tail,欧洲人必须搜集 1000 单位的贡品，并击败所有美国原住民，而且要控制比其他欧洲民族及美国人还要多的领域。,欧洲人必须搜集 1000 单位的贡品，并击败所有美洲原住民，而且要控制比其他欧洲民族及美国人还要多的领域。
+mods/Chinese/conquest/CTW_New_World_Map_01_info_text.XML,ROOT/INSTRUCTIONS[@name=INSTRUCTIONS][1]/BULLET[5]/@#tail,美国原住民部族在启蒙时代之后，才有能力生产火药或重骑兵。,美洲原住民部族在启蒙时代之后，才有能力生产火药或重骑兵。
+mods/Chinese/conquest/CTW_New_World_Map_01_info_text.XML,ROOT/INSTRUCTIONS[@name=Americans][1]/BULLET[2]/@#tail,美国原住民部族必须击败所有的欧洲民族和美国人。而且要征服比其他美国原住民还要多的领域。,美洲原住民部族必须击败所有的欧洲民族和美国人。而且要征服比其他美洲原住民还要多的领域。
+mods/Chinese/conquest/CTW_New_World_Map_01_info_text.XML,ROOT/INSTRUCTIONS[@name=Americans][1]/BULLET[3]/@#tail,欧洲人必须搜集 1000 单位的贡品，并击败所有美国原住民，而且要征服比其他欧洲民族及美国人还要多的领域。,欧洲人必须搜集 1000 单位的贡品，并击败所有美洲原住民，而且要征服比其他欧洲民族及美国人还要多的领域。
+mods/Chinese/conquest/CTW_New_World_Map_01_info_text.XML,ROOT/INSTRUCTIONS[@name=Americans][1]/BULLET[5]/@#tail,美国原住民部族在启蒙时代之后，才能获得火药单位或重骑兵。,美洲原住民部族在启蒙时代之后，才能获得火药单位或重骑兵。
+mods/Chinese/conquest/CTW_New_World_Map_01_strings.XML,ROOT/CAT[@hash=2131502][1]/STRING[@hash=466831782][1],美国原住民、欧洲人和美国人有其特定的胜利条件。按一下民族名称来检视。,美洲原住民、欧洲人和美国人有其特定的胜利条件。按一下民族名称来检视。
+mods/Chinese/conquest/CTW_New_World_Map_01_strings.XML,ROOT/CAT[@hash=2131502][1]/STRING[@hash=523084463][1],阿兹特克人必须击败所有的欧洲民族，而且要控制比其他美国原住民还要多的领域。,阿兹特克人必须击败所有的欧洲民族，而且要控制比其他美洲原住民还要多的领域。
+mods/Chinese/conquest/CTW_New_World_Map_01_strings.XML,ROOT/CAT[@hash=2131502][1]/STRING[@hash=524112849][1],马雅人必须击败所有欧洲民族，而且要控制比其他美国原住民还要多的领域。,马雅人必须击败所有欧洲民族，而且要控制比其他美洲原住民还要多的领域。
+mods/Chinese/conquest/CTW_New_World_Map_01_strings.XML,ROOT/CAT[@hash=2131502][1]/STRING[@hash=509230295][1],印加人必须击败所有欧洲民族，而且要控制比其他美国原住民还要多的领域。,印加人必须击败所有欧洲民族，而且要控制比其他美洲原住民还要多的领域。
+mods/Chinese/conquest/CTW_New_World_Map_01_strings.XML,ROOT/CAT[@hash=2131502][1]/STRING[@hash=545395308][1],拉科塔人必须击败所有欧洲民族，而且要控制比其他美国原住民还要多的领域。,拉科塔人必须击败所有欧洲民族，而且要控制比其他美洲原住民还要多的领域。
+mods/Chinese/conquest/CTW_New_World_Map_01_strings.XML,ROOT/CAT[@hash=2131502][1]/STRING[@hash=509262808][1],马雅人必须击败所有欧洲民族，而且要控制比其他美国原住民还要多的领域。,马雅人必须击败所有欧洲民族，而且要控制比其他美洲原住民还要多的领域。
+mods/Chinese/conquest/CTW_New_World_Map_01_strings.XML,ROOT/CAT[@hash=2131502][1]/STRING[@hash=523352471][1],拉科塔人必须击败所有欧洲民族，而且要控制比其他美国原住民还要多的领域。,拉科塔人必须击败所有欧洲民族，而且要控制比其他美洲原住民还要多的领域。
+mods/Chinese/conquest/CTW_New_World_Map_01_strings.XML,ROOT/CAT[@hash=2131502][1]/STRING[@hash=809674484][1],葡萄牙人必须搜集 1000 单位的贡品，击败所有美国原住民，并比其他欧洲民族及美国人征服更多领域。,葡萄牙人必须搜集 1000 单位的贡品，击败所有美洲原住民，并比其他欧洲民族及美国人征服更多领域。
+mods/Chinese/conquest/CTW_New_World_Map_01_strings.XML,ROOT/CAT[@hash=2131502][1]/STRING[@hash=783444782][1],西班牙人必须搜集 1000 单位的贡品，击败所有美国原住民，并比其他欧洲民族及美国人征服更多领域。,西班牙人必须搜集 1000 单位的贡品，击败所有美洲原住民，并比其他欧洲民族及美国人征服更多领域。
+mods/Chinese/conquest/CTW_New_World_Map_01_strings.XML,ROOT/CAT[@hash=2131502][1]/STRING[@hash=782191535][1],法国人必须搜集 1000 单位的贡品，击败所有美国原住民，并比其他欧洲民族及美国人征服更多领域。,法国人必须搜集 1000 单位的贡品，击败所有美洲原住民，并比其他欧洲民族及美国人征服更多领域。
+mods/Chinese/conquest/CTW_New_World_Map_01_strings.XML,ROOT/CAT[@hash=2131502][1]/STRING[@hash=782905939][1],英国人必须搜集 1000 单位的贡品，击败所有美国原住民，并比其他欧洲民族及美国人征服更多领域。,英国人必须搜集 1000 单位的贡品，击败所有美洲原住民，并比其他欧洲民族及美国人征服更多领域。
+mods/Chinese/conquest/CTW_New_World_Map_01_strings.XML,ROOT/CAT[@hash=2131502][1]/STRING[@hash=528797847][1],易落魁人必须击败所有欧洲民族，而且要控制比其他美国原住民还要多的领域。,易落魁人必须击败所有欧洲民族，而且要控制比其他美洲原住民还要多的领域。
+mods/Chinese/conquest/CTW_New_World_Map_01_strings.XML,ROOT/CAT[@hash=2131502][1]/STRING[@hash=780254687][1],荷兰人必须搜集 1000 单位的贡品，击败所有美国原住民，并比其他欧洲民族及美国人征服更多领域。,荷兰人必须搜集 1000 单位的贡品，击败所有美洲原住民，并比其他欧洲民族及美国人征服更多领域。
+mods/Chinese/conquest/CTW_New_World_Map_01_strings.XML,ROOT/CAT[@hash=14987765][1]/STRING[@hash=466831782][1],美国原住民、欧洲人和美国人有其特定的胜利条件。按一下民族名称来检视。,美洲原住民、欧洲人和美国人有其特定的胜利条件。按一下民族名称来检视。
+mods/Chinese/conquest/CTW_New_World_Map_01_strings.XML,ROOT/CAT[@hash=14987765][1]/STRING[@hash=523084463][1],阿兹特克人必须击败所有的欧洲民族，而且要控制比其他美国原住民还要多的领域。,阿兹特克人必须击败所有的欧洲民族，而且要控制比其他美洲原住民还要多的领域。
+mods/Chinese/conquest/CTW_New_World_Map_01_strings.XML,ROOT/CAT[@hash=14987765][1]/STRING[@hash=509230295][1],印加人必须击败所有欧洲民族，而且要控制比其他美国原住民还要多的领域。,印加人必须击败所有欧洲民族，而且要控制比其他美洲原住民还要多的领域。
+mods/Chinese/conquest/CTW_New_World_Map_01_strings.XML,ROOT/CAT[@hash=14987765][1]/STRING[@hash=528797847][1],易落魁人必须击败所有欧洲民族，而且要控制比其他美国原住民还要多的领域。,易落魁人必须击败所有欧洲民族，而且要控制比其他美洲原住民还要多的领域。
+mods/Chinese/conquest/CTW_New_World_Map_01_strings.XML,ROOT/CAT[@hash=14987765][1]/STRING[@hash=523352471][1],拉科塔人必须击败所有欧洲民族，而且要控制比其他美国原住民还要多的领域。,拉科塔人必须击败所有欧洲民族，而且要控制比其他美洲原住民还要多的领域。
+mods/Chinese/conquest/CTW_New_World_Map_01_strings.XML,ROOT/CAT[@hash=14987765][1]/STRING[@hash=509262808][1],马雅人必须击败所有欧洲民族，而且要控制比其他美国原住民还要多的领域。,马雅人必须击败所有欧洲民族，而且要控制比其他美洲原住民还要多的领域。
+mods/Chinese/conquest/CTW_New_World_Map_01_strings.XML,ROOT/CAT[@hash=14987765][1]/STRING[@hash=780254687][1],荷兰人必须搜集 1000 单位的贡品，击败所有美国原住民，并比其他欧洲民族及美国人征服更多领域。,荷兰人必须搜集 1000 单位的贡品，击败所有美洲原住民，并比其他欧洲民族及美国人征服更多领域。
+mods/Chinese/conquest/CTW_New_World_Map_01_strings.XML,ROOT/CAT[@hash=14987765][1]/STRING[@hash=809674484][1],葡萄牙人必须搜集 1000 单位的贡品，击败所有美国原住民，并比其他欧洲民族及美国人征服更多领域。,葡萄牙人必须搜集 1000 单位的贡品，击败所有美洲原住民，并比其他欧洲民族及美国人征服更多领域。
+mods/Chinese/conquest/CTW_New_World_Map_01_strings.XML,ROOT/CAT[@hash=14987765][1]/STRING[@hash=782905939][1],英国人必须搜集 1000 单位的贡品，并击败所有美国原住民，而且要征服比其他欧洲民族及美国人还要多的领域。,英国人必须搜集 1000 单位的贡品，并击败所有美洲原住民，而且要征服比其他欧洲民族及美国人还要多的领域。
+mods/Chinese/conquest/CTW_New_World_Map_01_strings.XML,ROOT/CAT[@hash=14987765][1]/STRING[@hash=782191535][1],法国人必须搜集 1000 单位的贡品，击败所有美国原住民，并比其他欧洲民族及美国人征服更多领域。,法国人必须搜集 1000 单位的贡品，击败所有美洲原住民，并比其他欧洲民族及美国人征服更多领域。
+mods/Chinese/conquest/CTW_New_World_Map_01_strings.XML,ROOT/CAT[@hash=14987765][1]/STRING[@hash=783444782][1],西班牙人必须搜集 1000 单位的贡品，击败所有美国原住民，并比其他欧洲民族及美国人征服更多领域。,西班牙人必须搜集 1000 单位的贡品，击败所有美洲原住民，并比其他欧洲民族及美国人征服更多领域。
+mods/Chinese/conquest/CTW_World_Map_01_strings.xml,ROOT/CAT[@hash=7347124][1]/STRING[@hash=6241129][1],西伯利亚,欧亚大草原
+mods/Chinese/conquest/NewWorld/scen_script_loc.XML,ROOT/FILE[@hash=15479370][@name=newworld_battles][1]/STRING[@hash=429571112][1],击败所有欧洲民族，而且还要征服比其他美国原住民还要多的领域。,击败所有欧洲民族，而且还要征服比其他美洲原住民还要多的领域。
+mods/Chinese/conquest/NewWorld/scen_script_loc.XML,ROOT/FILE[@hash=15479370][@name=newworld_battles][1]/STRING[@hash=722783695][1],要搜集 1000 单位的贡品，击败所有美国原住民，而且要征服比其他欧洲民族及美国人还要多的领域。,要搜集 1000 单位的贡品，击败所有美洲原住民，而且要征服比其他欧洲民族及美国人还要多的领域。
+mods/Chinese/conquest/NewWorld/scen_script_loc.XML,ROOT/FILE[@hash=9245240][@name=newworld_init][1]/STRING[@hash=429571112][1],击败所有欧洲民族，而且还要征服比其他美国原住民还要多的领域。,击败所有欧洲民族，而且还要征服比其他美洲原住民还要多的领域。
+mods/Chinese/conquest/NewWorld/scen_script_loc.XML,ROOT/FILE[@hash=9245240][@name=newworld_init][1]/STRING[@hash=722783695][1],要搜集 1000 单位的贡品，击败所有美国原住民，而且要征服比其他欧洲民族及美国人还要多的领域。,要搜集 1000 单位的贡品，击败所有美洲原住民，而且要征服比其他欧洲民族及美国人还要多的领域。
+mods/Chinese/conquest/NewWorld/scen_script_loc.XML,ROOT/FILE[@hash=19513138][@name=newworld_post_turn][1]/STRING[@hash=429571112][1],击败所有欧洲民族，而且还要征服比其他美国原住民还要多的领域。,击败所有欧洲民族，而且还要征服比其他美洲原住民还要多的领域。
+mods/Chinese/conquest/NewWorld/scen_script_loc.XML,ROOT/FILE[@hash=19513138][@name=newworld_post_turn][1]/STRING[@hash=728160946][1],至少要搜集 1000 单位的贡品，并击败所有美国原住民，而且要征服比其他欧洲民族及美国人还要多的领域。,至少要搜集 1000 单位的贡品，并击败所有美洲原住民，而且要征服比其他欧洲民族及美国人还要多的领域。
+mods/Chinese/conquest/scripts/scen_script_loc.XML,ROOT/FILE[@hash=10488957][@name=pillageruntime][1]/STRING[@hash=289242122][1],提示: 将敌军的健康值减半以占领敌军的生产建筑物。,提示：将敌方军事生产建筑的生命值削减一半，即可占领它们。
+mods/Chinese/scenario/Chess Exercise/ceaging1.xml,ROOT/STRING[@hash=8432464][1],New Scenario,新剧情
+mods/Chinese/scenario/Chess Exercise/ceaging2.xml,ROOT/STRING[@hash=8432464][1],New Scenario,新剧情
+mods/Chinese/scenario/Chess Exercise/ceaging3.xml,ROOT/STRING[@hash=8432464][1],New Scenario,新剧情
+mods/Chinese/scenario/Chess Exercise/cegeneral3.XML,ROOT/STRING[@hash=752868289][1],选取加亮强调的将军。有 3 种难易度，每个模式长度有 10 个点击机会。必须在 30 个点击机会中点击 25 ，下才能获胜。,选中高亮显示的将军。共有三个难度，每个难度有 10 次点击机会。30 次中成功选中 25 次即可获胜。
+mods/Chinese/scenario/Chess Exercise/cegeneral3.XML,ROOT/STRING[@hash=8432464][1],New Scenario,新剧情
+mods/Chinese/scenario/Chess Exercise/cehotkey1.XML,ROOT/STRING[@hash=333946186][1],按下正确快速键或快速键组合，通过 30 个回合中的 25 个即可获胜。,按下正确快捷键或快捷键组合，通过 30 个回合中的 25 个即可获胜。
+mods/Chinese/scenario/Chess Exercise/cehotkey1.XML,ROOT/STRING[@hash=8432464][1],New Scenario,新剧情
+mods/Chinese/scenario/Chess Exercise/cemicrowars.XML,ROOT/STRING[@hash=8432464][1],New Scenario,新剧情
+mods/Chinese/scenario/Chess Exercise/ceraiding1.XML,ROOT/STRING[@hash=8432464][1],New Scenario,新剧情
+mods/Chinese/scenario/Chess Exercise/cewonder.xml,ROOT/STRING[@hash=8432464][1],New Scenario,新剧情
+mods/Chinese/scenario/scriptlibrary/scen_script_loc.XML,ROOT/FILE[@hash=11332504][@name=general_powers][1]/STRING[@hash=9321886][1],特殊功能加三倍!,技能值变为三倍！
+mods/Chinese/scenario/skilltest.xml,ROOT/SCENARIO[@id=test4][@index=4][1]/DESCRIPTION[1],您知道快速键吗? 这是一个可了解快速键的测试。,您知道快捷键吗? 这是一个可了解快捷键的测试。
+mods/Chinese/scenario/skilltest.xml,ROOT/SCENARIO[@id=test4][@index=4][1]/INTRO[1],您知道快速键吗? 按下正确快速键或快速键组合，通过 30 个回合中的 25 个即可获胜。,您知道快捷键吗? 按下正确快捷键或快捷键组合，通过 30 个回合中的 25 个即可获胜。
+mods/Chinese/scenario/skilltest.xml,ROOT/SCENARIO[@id=test1][@index=5][1]/INTRO[1],您的民族拥有伟大的奇迹，却招惹邻国忌妒并策划要将其摧毁。此剧情中，将会有五波的敌军攻击，其建构时间也是即刻的。在每一波攻击的开始，您的市民会进贡大量的资源，之后，您会有 30 秒的时间来准备对付下一波的攻击。为了保有奇迹，您要击溃这五波攻击以赢得胜利。,您的国家拥有一座宏伟的奇迹，邻国心生嫉妒，企图将其摧毁。本关共有五波敌军进攻，建造可瞬间完成。每波开始时，市民都会进贡大量资源，随后您有 30 秒时间准备迎击。保护奇迹并击退全部五波进攻即可获胜。
+mods/Chinese/scenario/skilltest.xml,ROOT/SCENARIO[@id=test3][@index=7][1]/DESCRIPTION[1],您按滑鼠的速度能有多快? 这是个点击能力的测试。,您按鼠标的速度能有多快? 这是个点击能力的测试。
+mods/Chinese/scenario/skilltest.xml,ROOT/SCENARIO[@id=test3][@index=7][1]/INTRO[1],选取加亮强调的将军。有 3 种难易度，每个模式长度有 10 个点击机会。必须在 30 个点击机会中点击 25 ，下才能获胜。,选中高亮显示的将军。共有三个难度，每个难度有 10 次点击机会。30 次中成功选中 25 次即可获胜。
+mods/Chinese/scenario/Tutorial1/tut1.XML,ROOT/STRING[@hash=33695760][1],在﹝波狄西亚女王﹞上按一下滑鼠左键。,在﹝波狄西亚女王﹞上按一下鼠标左键。
+mods/Chinese/scenario/Tutorial1/tut1.XML,ROOT/STRING[@hash=182535711][1],在旗帜上按一下滑鼠左键，让波狄西亚女王移到该处。,在旗帜上按一下鼠标左键，让波狄西亚女王移到该处。
+mods/Chinese/scenario/Tutorial1/tut1.XML,ROOT/STRING[@hash=205299482][1],把滑鼠移到画面的最上方边缘，就可以开始向上卷动。,把鼠标移到画面的最上方边缘，就可以开始向上卷动。
+mods/Chinese/scenario/Tutorial1/tut1.XML,ROOT/STRING[@hash=191226827][1],用滑鼠左键按一下位于未探索区域另一边的旗帜。,用鼠标左键按一下位于未探索区域另一边的旗帜。
+mods/Chinese/scenario/Tutorial1/tut1.XML,ROOT/STRING[@hash=189451135][1],向后滚动滑鼠滚轮，或按  PageUp 两次，就可以缩小显示比例。,向后滚动鼠标滚轮，或按  PageUp 两次，就可以缩小显示比例。
+mods/Chinese/scenario/Tutorial1/tut1.XML,ROOT/STRING[@hash=218583227][1],在罗马营地附近按一下滑鼠右键来将部队移到营地中。,在罗马营地附近按一下鼠标右键来将部队移到营地中。
+mods/Chinese/scenario/Tutorial1/tut1.XML,ROOT/STRING[@hash=234094142][1],不列颠人受到攻击! 按一下滑鼠右键来移动部队防御城市!,不列颠人受到攻击! 按一下鼠标右键来移动部队防御城市!
+mods/Chinese/scenario/Tutorial1/tut1.XML,ROOT/STRING[@hash=8951648][1],罗马帝国,罗马皇帝
+mods/Chinese/scenario/Tutorial2/tut2.xml,ROOT/STRING[@hash=126711540][1],在这个市民身上按一下滑鼠左键，即可选取他。,在这个市民身上按一下鼠标左键，即可选取他。
+mods/Chinese/scenario/Tutorial2/tut2.xml,ROOT/STRING[@hash=58835582][1],在目标标记上按一下滑鼠左键,在目标标记上按一下鼠标左键
+mods/Chinese/scenario/Tutorial2/tut2.xml,ROOT/STRING[@hash=194837914][1],在迷你地图上的﹝艾丹顿﹞附近按一下滑鼠左键，可瞄准该城市。,在迷你地图上的﹝艾丹顿﹞附近按一下鼠标左键，可瞄准该城市。
+mods/Chinese/scenario/Tutorial2/tut2.xml,ROOT/STRING[@hash=183438995][1],在迷你地图上的﹝喀来耳﹞附近按一下滑鼠左键，可检视该城市。,在迷你地图上的﹝喀来耳﹞附近按一下鼠标左键，可检视该城市。
+mods/Chinese/scenario/Tutorial2/tut2.xml,ROOT/STRING[@hash=176812868][1],按一下滑鼠右键，让您的单位击败维京人军队!,按一下鼠标右键，让您的单位击败维京人军队!
+mods/Chinese/scenario/Tutorial2/tut2.xml,ROOT/STRING[@hash=207114881][1],选取您的单位并以滑鼠右键按一下﹝艾丹顿﹞，重新夺回城市。,选取您的单位并以鼠标右键按一下﹝艾丹顿﹞，重新夺回城市。
+mods/Chinese/scenario/Tutorial3/tut3.xml,ROOT/STRING[@hash=231449549][1],将滑鼠滚轮向后滚动或按 Page Up 键，就可以缩小显示比例。,将鼠标滚轮向后滚动或按 Page Up 键，就可以缩小显示比例。
+mods/Chinese/scenario/Tutorial3/tut3.xml,ROOT/STRING[@hash=202763918][1],连按两下滑鼠左键，即可选取所有骑士。,连按两下鼠标左键，即可选取所有骑士。
+mods/Chinese/scenario/Tutorial3/tut3.xml,ROOT/STRING[@hash=8432464][1],New Scenario,新剧情
+mods/Chinese/scenario/Tutorial4/tut4.xml,ROOT/STRING[@hash=173417987][1],将滑鼠游标移到香料上并读取说明文字。,将鼠标游标移到香料上并读取说明文字。
+mods/Chinese/scenario/Tutorial4/tut4.xml,ROOT/STRING[@hash=261889782][1],选取您的商人并以滑鼠右键按一下香料，让商人开始搜集香料。,选取您的商人并以鼠标右键按一下香料，让商人开始搜集香料。
+mods/Chinese/scenario/Tutorial4/tut4.xml,ROOT/STRING[@hash=227325008][1],将您的军事单位移到第一个城市上来准备攻击。,将军队移到第一座城市的上方，准备迎战。
+mods/Chinese/scenario/Tutorial4/tut4.xml,ROOT/STRING[@hash=8432464][1],New Scenario,新剧情
+mods/Chinese/scenario/Tutorial4/tut4.xml,ROOT/STRING[@hash=8740559][1],英王詹姆士四世,詹姆士四世国王
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=8432464][1],[原文件编码损坏],新剧情
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=182938614][1],[原文件编码损坏],您要启动本剧情的提示系统吗?
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=2823545][1],[原文件编码损坏],启动提示
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=3548820][1],[原文件编码损坏],关闭提示
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=110923864][1],[原文件编码损坏],产生市民来搜集更多资源。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=138669830][1],[原文件编码损坏],放置 5 个市民到伐木营中。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=15621512][1],[原文件编码损坏],建造 5 座农场。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=109070304][1],[原文件编码损坏],将您的民族演进到古典时代
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=66626178][1],[原文件编码损坏],在图书馆研究「以物易物」。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=12615489][1],[原文件编码损坏],建造一处市场。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=17096057][1],[原文件编码损坏],建立一个商队
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=67298644][1],[原文件编码损坏],在图书馆从事研究。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=24260884][1],[原文件编码损坏],建造一座新图书馆。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=98933863][1],[原文件编码损坏],在图书馆研究「书写文字」。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=11801512][1],[原文件编码损坏],建造一座寺庙。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=90329029][1],[原文件编码损坏],在图书馆研究「城邦」。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=16523751][1],[原文件编码损坏],建造一座新的城市。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=60902060][1],[原文件编码损坏],在图书馆研究帝国。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=60337174][1],[原文件编码损坏],在您的边界附近建造一座城市。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=31566612][1],[原文件编码损坏],重建您的军营。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=69475268][1],[原文件编码损坏],在军营训练 8 支部队。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=24000427][1],[原文件编码损坏],重建您的马厩。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=61481283][1],[原文件编码损坏],在马厩训练 4 支部队。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=44989549][1],[原文件编码损坏],重建您的攻城工厂。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=131146556][1],[原文件编码损坏],在您的攻城工厂建造 3 个攻城武器。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=27406316][1],[原文件编码损坏],攻占一个敌方城市!
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=103599006][1],[原文件编码损坏],派遣您的斥候去探索新的领域。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=109418831][1],[原文件编码损坏],在您的图书馆研究兵法。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=18751371][1],[原文件编码损坏],建造一座军营。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=107791819][1],[原文件编码损坏],在图书馆研究佣兵。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=13426006][1],[原文件编码损坏],建造一间马厩。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=26362045][1],[原文件编码损坏],建造一座攻城工厂
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=155367280][1],[原文件编码损坏],在图书馆研究商业 (绿色系列)。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=140304801][1],[原文件编码损坏],在图书馆研究军事 (红色系列)。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=275344919][1],[原文件编码损坏],别忘了，您可以在城市发布警报来保护您的市民。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=67936877][1],[原文件编码损坏],很好。你的市民现在安全了。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=8739393][1],[原文件编码损坏],建造一座矿坑。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=18409778][1],[原文件编码损坏],建造一所大学。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=18799122][1],[原文件编码损坏],产生 4 名学者。
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=25032389][1],[原文件编码损坏],狮心王理查
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=5882984][1],[原文件编码损坏],沙卡王
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=1497489][1],[原文件编码损坏],伦敦
+mods/Chinese/scenario/Tutorial5_Trial/tut5.xml,ROOT/STRING[@hash=12603507][1],[原文件编码损坏],大津巴布韦
+mods/Chinese/scenario/Tutorial6/tut6.xml,ROOT/STRING[@hash=331491280][1],用滑鼠右键按一下靠近装甲车的旗帜，移动你的单位，横越英吉利海峡。,用鼠标右键按一下靠近装甲车的旗帜，移动你的单位，横越英吉利海峡。
+mods/Chinese/scenario/Tutorial6/tut6.xml,ROOT/STRING[@hash=164517939][1],在旗帜上按一下滑鼠左键以设定巡逻点。,在旗帜上按一下鼠标左键以设定巡逻点。
+mods/Chinese/scenario/Tutorial6/tut6.xml,ROOT/STRING[@hash=126117343][1],在每个空军机地建造十架战斗机。,在每座空军基地训练 10 架战斗机。
+mods/Chinese/scenario/Tutorial6/tut6.xml,ROOT/STRING[@hash=8432464][1],New Scenario,新剧情
+mods/Chinese/launcher_res/en/locale.ini,launcher/170025,RoN 网站,游戏官网
+mods/Chinese/launcher_res/en/locale.ini,launcher/170032,你进入的 Steam 工作室不由微软公司拥有或经营。,您即将进入 Steam 创意工坊。创意工坊包含用户创作的内容，微软工作室和 Valve 不提供官方支持。创意工坊不提供任何保证，使用风险由您自行承担。
+mods/Chinese/launcher_res/en/locale.ini,launcher/170033,Steam 工作室的游戏模组有可能改变 Rise of Nations: Extended Edition 的功能，这些模组不是由微软创建或负责支援。? 从 Steam 工作室下载文件，代表你同意微软公司和相关附属机构的风险和发布，?并同意承担使用 Steam 工作室的任何法律责任。你对 Steam工作室的使用，将受到 Steam 使用条款的约束，而不是微软的终端用户许可协议。,这些模组可能改变 Rise of Nations: Extended Edition 的运行方式，也可能包含有缺陷或恶意的用户编写代码。从创意工坊下载文件，即表示您知悉相关风险，并免除 Skybox Labs、微软工作室、Valve 及其关联实体对于您使用创意工坊所产生的相关责任。
+mods/Chinese/launcher_res/en/locale.ini,launcher/170034,我同意 Steam 工作室的订阅条款及条件: http://store.steampowered.com/subscriber_agreement/,我同意 Steam 创意工坊订户协议的条款和条件：http://store.steampowered.com/subscriber_agreement/

@@ -368,7 +368,7 @@
 	<STRING hash="433375627" needed="1">塔列朗顾问可以强迫$TRIBE0作战一个回合。您希望他怎么做?</STRING>
 	<STRING hash="788067309" needed="1">富歇顾问巧妙地操纵着$TRIBE0和$TRIBE1之间的关系。虽然双方已经开战，却没人怀疑到他的阴谋。</STRING>
 	<STRING hash="762134427" needed="1">如果发动攻击却无法对领域增援，你就可能会遭到敌人的压倒性攻击。你确定要攻击吗?</STRING>
-	<STRING hash="1133089085" needed="1">$TRIBE1压倒性攻击$NODE0。您的部队已撤退以躲过压倒性攻击。攻击者的军队总数比防御者多 2 倍以上时，就会出现压倒性攻击。</STRING>
+	<STRING hash="1133089085" needed="1">$TRIBE1压倒性攻击$NODE0。您的部队已撤退以躲过压倒性攻击。参与进攻的军队总数比守军多两支时，就会出现压倒性攻击。</STRING>
 	<STRING hash="177810703" needed="1">您已经消灭了$TRIBENAME0!</STRING>
 	<STRING hash="612238957" needed="1">你已经和世界上的所有民族结盟成功。你要宣告胜利并结束战役吗?</STRING>
 	<STRING hash="1218288964" needed="1">您持续不懈的努力已使您的民族演进到信息时代，但您的战役现在结束了。不过，您可能还想继续玩信息时代的其他部份。您要继续吗?</STRING>
@@ -480,7 +480,7 @@
 	<STRING hash="343296457" needed="1">$TRIBE0提议结盟并提供 $NUM0 单位的贡品。您愿意接受吗?</STRING>
 	<STRING hash="189070371" needed="1">与$TRIBE0签订和平条约。</STRING>
 	<STRING hash="1066419531" needed="1">您已与$TRIBE0!签署结盟!  如果您的盟友就在附近的话，他们将在战场中加入您这方。额外的结盟会花费更多的贡品，所以请谨慎选择盟友。</STRING>
-	<STRING hash="985793948" needed="1">您的贡品不足以签订和平条约。只要攻占领域或在某个回合不进行攻击，就可以获得贡品。</STRING>
+	<STRING hash="985793948" needed="1">您的贡品不足以签订和平条约。签订条约需要 $NUM0 单位贡品。只要攻占领域或在某个回合不进行攻击，就可以获得贡品。</STRING>
 	<STRING hash="29808007" needed="1">是</STRING>
 	<STRING hash="26959711" needed="1">否</STRING>
 	<STRING hash="1442918358" needed="1">$TRIBE0要求以 $NUM1 单位贡品的代价，承诺在 $NUM0 回合内不会攻击您 。如果您愿意支付的话，你们双方在 $NUM0 回合内都无法攻击对方 ，也不会造成任何损失。您愿意纳贡吗? (您目前有 $NUM2 单位)</STRING>
@@ -501,7 +501,7 @@
 	<STRING hash="46895330" needed="1">作弊</STRING>
 	<STRING hash="213873284" needed="1">您确定要退出这场战役吗?</STRING>
 	<STRING hash="625055432" needed="1">您是否确定要退出这场战役? 请在﹝征服世界战役﹞画面上按一下﹝继续﹞即可继续游戏。</STRING>
-	<STRING hash="54887233" needed="1">游戏功能表</STRING>
+	<STRING hash="54887233" needed="1">游戏菜单</STRING>
 	<STRING hash="63967638" needed="1">检查地图</STRING>
 	<STRING hash="77522255" needed="1">返回游戏</STRING>
 	<STRING hash="55091067" needed="1">储存游戏</STRING>
@@ -594,7 +594,7 @@
 	<STRING hash="986482158" needed="1">由于您和对方曾有纳贡的协议，你在 $NUM0 回合内都不能攻击$TRIBE0。只要付出 $NUM1 单位的贡品就可解除这项协议，但是你并没有足够的贡品。</STRING>
 	<STRING hash="311641458" needed="1">可能无法进攻在这回合遭核导弹击中的领域。</STRING>
 	<STRING hash="1185895160" needed="1">您的情报网已发现一些高层的懦弱领袖。经过某些高段的威胁利诱、陷害与收买之后，这些叛国者奉上整个领域，不费一兵一卒。</STRING>
-	<STRING hash="2114296686" needed="1">由于您的优势武力，对手已撤出领域，让您不战而胜。攻击者的军队总数比防御者多 2 倍时，就会出现压倒性攻击。这次压倒性攻击不算是您在此回合中的一次攻击。</STRING>
+	<STRING hash="2114296686" needed="1">由于您的优势武力，对手已撤出领域，让您不战而胜。参与进攻的军队总数比守军多两支时，就会出现压倒性攻击。这次压倒性攻击不算是您在此回合中的一次攻击。</STRING>
 	<STRING hash="111049491" needed="1">攻占大陆!</STRING>
 	<STRING hash="73200201" needed="1">歼灭行动!</STRING>
 	<STRING hash="77366207" needed="1">建造奇迹!</STRING>
@@ -671,7 +671,7 @@
 	<STRING hash="387900451" needed="1">在任何加亮强调的领域按左键，升级该领域的力量。</STRING>
 	<STRING hash="280622560" needed="1">在任何反白显示的首都上按一下左键来提出外交提议。</STRING>
 	<STRING hash="301058449" needed="1">在任何反白显示的领域上按一下左键，在那里建造核导弹。</STRING>
-	<STRING hash="290998012" needed="1">在任何反白显示的领域上按一下滑鼠左键，作为核导弹的目标。</STRING>
+	<STRING hash="290998012" needed="1">在任何反白显示的领域上按一下鼠标左键，作为核导弹的目标。</STRING>
 	<STRING hash="47224997" needed="1">{优先顺序}</STRING>
 	<STRING hash="78385866" needed="1">窃取 $NUM0 项贡品</STRING>
 	<STRING hash="115964746" needed="1">发射前的回合数: $NUM0 个回合</STRING>
@@ -691,7 +691,7 @@
 	<STRING hash="429672374" needed="1">攻击之前，您必须对中立国家宣战。使用外交来宣战。</STRING>
 	<STRING hash="196566073" needed="1">您的射程无法击中此目标。</STRING>
 	<STRING hash="492894999" needed="1">若要取得知识，您必须在大学中产生学者。无法使用一般市民来达成此目标。</STRING>
-	<STRING hash="419255080" needed="1">只有在您开启进阶选项后，按滑鼠右键才能达到在同一建筑物内驻守的功能。</STRING>
+	<STRING hash="419255080" needed="1">只有在您开启进阶选项后，按鼠标右键才能达到在同一建筑物内驻守的功能。</STRING>
 	<STRING hash="200243691" needed="1">$BUILDINGNAME0已满。此处不可以再有工人。</STRING>
 	<STRING hash="484970322" needed="1">一般市民无法在大学研读。若要取得知识，您必须在大学中产生学者。</STRING>
 	<STRING hash="187383435" needed="1">无法修复敌军领域的建筑</STRING>
@@ -711,7 +711,7 @@
 	<STRING hash="223481314" needed="1">您需要码头与$TECHNAME0来运输单位渡海。</STRING>
 	<STRING hash="190055855" needed="1">您需要码头来运输单位渡海。</STRING>
 	<STRING hash="72145838" needed="1">已储存镜头位置。</STRING>
-	<STRING hash="13420994" needed="1">退出</STRING>
+	<STRING hash="13420994" needed="1">撤出</STRING>
 	<STRING hash="119636427" needed="1">您要退出 Windows 吗?</STRING>
 	<STRING hash="64714979" needed="1">切换视点</STRING>
 	<STRING hash="19347578" needed="1">记录中</STRING>
@@ -769,7 +769,7 @@
 	<STRING hash="102055930" needed="1">所有 (W 座标/T 座标/座标)</STRING>
 	<STRING hash="24170466" needed="1">W 座标</STRING>
 	<STRING hash="24164637" needed="1">T 座标</STRING>
-	<STRING hash="21763561" needed="1">Coord</STRING>
+	<STRING hash="21763561" needed="1">坐标</STRING>
 	<STRING hash="169911977" needed="1">(模式: 所有、W 座标、T 座标、座标)</STRING>
 	<STRING hash="49215725" needed="1">人员显示 = </STRING>
 	<STRING hash="19517066" needed="1">名称</STRING>
@@ -801,7 +801,7 @@
 	<STRING hash="19457429" needed="1">, Y=</STRING>
 	<STRING hash="32359443" needed="1">态势 = </STRING>
 	<STRING hash="77442507" needed="1">未选取物件。</STRING>
-	<STRING hash="48916117" needed="1">Invalid Use - </STRING>
+	<STRING hash="48916117" needed="1">用法无效 - </STRING>
 	<STRING hash="13253483" needed="1">?</STRING>
 	<STRING hash="214988136" needed="1">使用 &quot;relaymode&quot; 变更套件转送的 MP 模式</STRING>
 	<STRING hash="202365020" needed="1">(relaymode [burst | cycle | clientserver]</STRING>
@@ -1000,7 +1000,7 @@
 	<STRING hash="32488291" needed="1"> 森林、 </STRING>
 	<STRING hash="26910784" needed="1"> 岩石、 </STRING>
 	<STRING hash="19439391" needed="1"> 石油</STRING>
-	<STRING hash="193382271" needed="1">使用 &quot;wheel&quot; 设定滑鼠的灵敏度</STRING>
+	<STRING hash="193382271" needed="1">使用 &quot;wheel&quot; 设定鼠标的灵敏度</STRING>
 	<STRING hash="82550579" needed="1">(wheel [敏感性])</STRING>
 	<STRING hash="26716529" needed="1">轮 1</STRING>
 	<STRING hash="26099882" needed="1">轮 2</STRING>
@@ -1115,7 +1115,7 @@
 	<STRING hash="215446965" needed="1">使用 &apos;?&apos; 列出命令，&apos;exit&apos; 回到游戏中。</STRING>
 	<STRING hash="146591452" needed="1"> 转换成电脑控制玩家</STRING>
 	<STRING hash="103393424" needed="1">继续到战略地图</STRING>
-	<STRING hash="19264394" needed="1">退出</STRING>
+	<STRING hash="19264394" needed="1">撤出</STRING>
 	<STRING hash="108767482" needed="1">您的团队因为征服而胜利了!</STRING>
 	<STRING hash="214577571" needed="1">您的团队赢得世界政府 (首都) 胜利!</STRING>
 	<STRING hash="152644545" needed="1">您的团队赢得了首都战胜利!</STRING>
@@ -1417,7 +1417,7 @@
 	<STRING hash="123104478" needed="1">无法将自己新增为好友。</STRING>
 	<STRING hash="200919793" needed="1">要求加入的好友已在您的好友清单中。</STRING>
 	<STRING hash="97364906" needed="1">已传送您的要求。</STRING>
-	<STRING hash="197929100" needed="1">含有该昵称的设定档已存在。</STRING>
+	<STRING hash="197929100" needed="1">含有该昵称的玩家档案已存在。</STRING>
 	<STRING hash="87067028" needed="1">这个昵称无效。</STRING>
 	<STRING hash="228506251" needed="1">电子邮件地址无效。此帐号可能不存在。</STRING>
 	<STRING hash="94769735" needed="1">密码不正确。</STRING>
@@ -1500,19 +1500,19 @@
 	<STRING hash="123291296" needed="1">您已经在游戏中。</STRING>
 	<STRING hash="145996421" needed="1">游戏已经开始。</STRING>
 	<STRING hash="71431317" needed="1">游戏人数已满。</STRING>
-	<STRING hash="125613162" needed="1">The password is incorrect.</STRING>
+	<STRING hash="125613162" needed="1">密码不正确。</STRING>
 	<STRING hash="244099757" needed="1">您输入的密码不正确。请重试。</STRING>
 	<STRING hash="135162216" needed="1">无法加入主控室。</STRING>
-	<STRING hash="58517464" needed="1">Server Browser</STRING>
+	<STRING hash="58517464" needed="1">服务器列表</STRING>
 	<STRING hash="93371735" needed="1">大厅 : $NUM0 名玩家</STRING>
 	<STRING hash="77538344" needed="1">大厅 : 没有玩家</STRING>
 	<STRING hash="77066789" needed="1">选择游戏室类型</STRING>
-	<STRING hash="549936505" needed="1">如果您已经有 GameSpy 设定档，请在下面输入您的电子邮件地址、昵称及密码。然后按一下﹝登入﹞。</STRING>
-	<STRING hash="670341298" needed="1">若您有 GameSpy 设定档但是忘记密码，可以在 GameSpyID.com 取得您的 GameSpy 设定档密码。</STRING>
-	<STRING hash="450798590" needed="1">若否，请输入电子邮件地址、昵称、密码。再按一下﹝建立设定档﹞。</STRING>
-	<STRING hash="216064853" needed="1">如果您没有设定档，请按一下﹝建立设定档﹞。</STRING>
+	<STRING hash="549936505" needed="1">如果您已经有 GameSpy 玩家档案，请在下面输入您的电子邮件地址、昵称及密码。然后按一下﹝登入﹞。</STRING>
+	<STRING hash="670341298" needed="1">若您有 GameSpy 玩家档案但是忘记密码，可以在 GameSpyID.com 取得您的 GameSpy 玩家档案密码。</STRING>
+	<STRING hash="450798590" needed="1">若否，请输入电子邮件地址、昵称、密码。再按一下﹝建立玩家档案﹞。</STRING>
+	<STRING hash="216064853" needed="1">如果您没有玩家档案，请按一下﹝建立玩家档案﹞。</STRING>
 	<STRING hash="202544228" needed="1">附注: GameSpy 密码为区分大小写。</STRING>
-	<STRING hash="425278956" needed="1">请在下面输入您的电子邮件地址、昵称及密码。然后按一下﹝建立设定档﹞。</STRING>
+	<STRING hash="425278956" needed="1">请在下面输入您的电子邮件地址、昵称及密码。然后按一下﹝建立玩家档案﹞。</STRING>
 	<STRING hash="50762650" needed="1">等级: </STRING>
 	<STRING hash="47525314" needed="1">未分级</STRING>
 	<STRING hash="112682525" needed="1">(分)</STRING>
@@ -1532,7 +1532,7 @@
 	<STRING hash="37098797" needed="1">离开</STRING>
 	<STRING hash="43553565" needed="1">线上</STRING>
 	<STRING hash="40473115" needed="1">准备</STRING>
-	<STRING hash="43280468" needed="1">Ping: </STRING>
+	<STRING hash="43280468" needed="1">延迟: </STRING>
 	<STRING hash="47533863" needed="1">未知</STRING>
 	<STRING hash="74491075" needed="1">设定为线上</STRING>
 	<STRING hash="66105117" needed="1">设定为离开</STRING>
@@ -2052,7 +2052,7 @@
 	<STRING hash="24924803" needed="1">出售:</STRING>
 	<STRING hash="22598953" needed="1">购买:</STRING>
 	<STRING hash="40759931" needed="1">无态势</STRING>
-	<STRING hash="253043837" needed="1">$OPTIONNAME0选项位于 (0-4,0-4) 格子范围外。</STRING>
+	<STRING hash="253043837" needed="1">$OPTIONNAME0选项位于 (0-4,0-3) 格子范围外。</STRING>
 	<STRING hash="27363345" needed="1">单位</STRING>
 	<STRING hash="55182803" needed="1">单位升级</STRING>
 	<STRING hash="47232086" needed="1">中立化</STRING>
@@ -2153,17 +2153,17 @@
 	<STRING hash="59807555" needed="1">派遣商人</STRING>
 	<STRING hash="151889064" needed="1">探索此处取得加分</STRING>
 	<STRING hash="86783652" needed="1">国家的崛起: 提示</STRING>
-	<STRING hash="35477885" needed="1">滑鼠滚轮向上</STRING>
-	<STRING hash="41930493" needed="1">滑鼠滚轮向下</STRING>
-	<STRING hash="29110561" needed="1">滑鼠中键</STRING>
-	<STRING hash="33586544" needed="1">滑鼠额外键 1</STRING>
-	<STRING hash="32442237" needed="1">滑鼠额外键 2</STRING>
-	<STRING hash="32462288" needed="1">滑鼠额外键 3</STRING>
-	<STRING hash="32483665" needed="1">滑鼠额外键 4</STRING>
-	<STRING hash="32501766" needed="1">滑鼠额外键 5</STRING>
-	<STRING hash="32520959" needed="1">滑鼠额外键 6</STRING>
-	<STRING hash="32558248" needed="1">滑鼠额外键 7</STRING>
-	<STRING hash="32579391" needed="1">滑鼠额外键 8</STRING>
+	<STRING hash="35477885" needed="1">鼠标滚轮向上</STRING>
+	<STRING hash="41930493" needed="1">鼠标滚轮向下</STRING>
+	<STRING hash="29110561" needed="1">鼠标中键</STRING>
+	<STRING hash="33586544" needed="1">鼠标额外键 1</STRING>
+	<STRING hash="32442237" needed="1">鼠标额外键 2</STRING>
+	<STRING hash="32462288" needed="1">鼠标额外键 3</STRING>
+	<STRING hash="32483665" needed="1">鼠标额外键 4</STRING>
+	<STRING hash="32501766" needed="1">鼠标额外键 5</STRING>
+	<STRING hash="32520959" needed="1">鼠标额外键 6</STRING>
+	<STRING hash="32558248" needed="1">鼠标额外键 7</STRING>
+	<STRING hash="32579391" needed="1">鼠标额外键 8</STRING>
 	<STRING hash="30019504" needed="1">游戏控制</STRING>
 	<STRING hash="76991708" needed="1">消息与喜好设定</STRING>
 	<STRING hash="36506008" needed="1">镜头控制</STRING>
@@ -2535,7 +2535,7 @@
 	<STRING hash="380736976" needed="1">屈服于我们优越的知识: 现在就与我们和谈，否则后果自行负责!</STRING>
 	<STRING hash="454562223" needed="1">那很有趣吧? 现在到了和谈的时间，我相信以后可以随时毁灭你。</STRING>
 	<STRING hash="451135382" needed="1">你已经输了。与其让你变更糟，我情愿同意你的和平条款。</STRING>
-	<STRING hash="199944527" needed="1">到﹝外交﹞(快速键:  $HOTKEY0) 回应提议。</STRING>
+	<STRING hash="199944527" needed="1">到﹝外交﹞(快捷键:  $HOTKEY0) 回应提议。</STRING>
 	<STRING hash="153453181" needed="1">到﹝外交﹞回应提议。</STRING>
 	<STRING hash="185784728" needed="1">欢迎您。让我们在一起和平相处。</STRING>
 	<STRING hash="260916963" needed="1">和一个较不开化民族的统治者会面，总是令人愉悦的。</STRING>
@@ -2590,7 +2590,7 @@
 	<STRING hash="50016687" needed="1">资料片随机新民族!</STRING>
 	<STRING hash="26286620" needed="1">随机!</STRING>
 	<STRING hash="65109393" needed="1">规则与地图信息</STRING>
-	<STRING hash="54684362" needed="1">(Parent Directory)</STRING>
+	<STRING hash="54684362" needed="1">（上一级目录）</STRING>
 	<STRING hash="178987867" needed="1">您确定要删除$FILENAME0吗?</STRING>
 	<STRING hash="11725009" needed="1">是</STRING>
 	<STRING hash="10104501" needed="1">否</STRING>
@@ -2602,7 +2602,7 @@
 	<STRING hash="6038903" needed="1">确定</STRING>
 	<STRING hash="45129148" needed="1">CREATE_TEXT_INDICES</STRING>
 	<STRING hash="229424980" needed="1">无法将已储存的多人游戏载入当作单人游戏。</STRING>
-	<STRING hash="26739317" needed="1">游戏功能表</STRING>
+	<STRING hash="26739317" needed="1">游戏菜单</STRING>
 	<STRING hash="42157865" needed="1">返回游戏</STRING>
 	<STRING hash="21899585" needed="1">选项</STRING>
 	<STRING hash="26943151" needed="1">储存游戏</STRING>
@@ -2612,7 +2612,7 @@
 	<STRING hash="47025999" needed="1">放弃剧情</STRING>
 	<STRING hash="32549593" needed="1">放弃游戏</STRING>
 	<STRING hash="71247319" needed="1">关于国家的崛起</STRING>
-	<STRING hash="71482319" needed="1">退出至教学功能表</STRING>
+	<STRING hash="71482319" needed="1">退出至教学菜单</STRING>
 	<STRING hash="73046836" needed="1">退出至战略地图</STRING>
 	<STRING hash="26864105" needed="1">退出游戏</STRING>
 	<STRING hash="39691407" needed="1">退出战役</STRING>
@@ -2629,7 +2629,7 @@
 	<STRING hash="25643410" needed="1">地图资源</STRING>
 	<STRING hash="56468416" needed="1">调整及寻找区域</STRING>
 	<STRING hash="22913507" needed="1">地图分析</STRING>
-	<STRING hash="171208594" needed="1">游戏结束。按一下 $HOTKEY0 显示功能表。</STRING>
+	<STRING hash="171208594" needed="1">游戏结束。按一下 $HOTKEY0 显示菜单。</STRING>
 	<STRING hash="13372146" needed="1"> </STRING>
 	<STRING hash="57563141" needed="1">{民族边界}</STRING>
 	<STRING hash="13187388" needed="1">: </STRING>
@@ -2729,7 +2729,7 @@
 	<STRING hash="81899851" needed="1"> [(需要: $TECHNAME0)]</STRING>
 	<STRING hash="8539033" needed="1"/>
 	<STRING hash="13376066" needed="1">城市</STRING>
-	<STRING hash="100443493" needed="1"> (按 SHIFT 并按滑鼠左键，可以建立 5 个)</STRING>
+	<STRING hash="100443493" needed="1"> (按 SHIFT 并按鼠标左键，可以建立 5 个)</STRING>
 	<STRING hash="41952540" needed="1"> (升级全部 </STRING>
 	<STRING hash="9977354" needed="1">, </STRING>
 	<STRING hash="8556922" needed="1">)</STRING>
@@ -2802,7 +2802,7 @@
 	<STRING hash="157891769" needed="1"> - 按一下关闭﹝自动运输﹞。</STRING>
 	<STRING hash="132849600" needed="1"> [(已经在进行干扰!)]</STRING>
 	<STRING hash="85547564" needed="1">$FORMATIONNAME0阵式</STRING>
-	<STRING hash="149203745" needed="1">: 按一下变更为$FORMATIONNAME1</STRING>
+	<STRING hash="149203745" needed="1">: 按一下变更为$FORMATIONNAME0</STRING>
 	<STRING hash="21603901" needed="1">态势: </STRING>
 	<STRING hash="224425235" needed="1"> - 按一下将此处生产单位的态势设为$STANCENAME0</STRING>
 	<STRING hash="175962249" needed="1"> - 按一下将态势变更为$STANCENAME0</STRING>
@@ -2811,7 +2811,7 @@
 	<STRING hash="17089449" needed="1">一般</STRING>
 	<STRING hash="13256133" needed="1">详细</STRING>
 	<STRING hash="146911935" needed="1"> - 按一下变更说明文字细节</STRING>
-	<STRING hash="133009143" needed="1"> - 按一下切换进阶功能表</STRING>
+	<STRING hash="133009143" needed="1"> - 按一下切换进阶菜单</STRING>
 	<STRING hash="23523968" needed="1">政治</STRING>
 	<STRING hash="21799932" needed="1">军事</STRING>
 	<STRING hash="19514000" needed="1">经济</STRING>
@@ -2859,15 +2859,15 @@
 	<STRING hash="8540178" needed="1">}</STRING>
 	<STRING hash="124631754" needed="1">按一下仅选择此单位。 </STRING>
 	<STRING hash="118608373" needed="1">按一下选择此建筑。 </STRING>
-	<STRING hash="107186090" needed="1">按 CTRL 并按滑鼠左键，即可取消选择。 </STRING>
-	<STRING hash="204751198" needed="1">按 SHIFT 并按滑鼠左键，选择所有相同类型者。 </STRING>
-	<STRING hash="234543676" needed="1">按 CTRL + SHIFT 并按滑鼠左键，取消选择所有相同类型者。 </STRING>
+	<STRING hash="107186090" needed="1">按 CTRL 并按鼠标左键，即可取消选择。 </STRING>
+	<STRING hash="204751198" needed="1">按 SHIFT 并按鼠标左键，选择所有相同类型者。 </STRING>
+	<STRING hash="234543676" needed="1">按 CTRL + SHIFT 并按鼠标左键，取消选择所有相同类型者。 </STRING>
 	<STRING hash="111144557" needed="1">按一下将此单位置中。 </STRING>
 	<STRING hash="137911317" needed="1">按一下将此建筑置中。 </STRING>
 	<STRING hash="26115165" needed="1"> (加油中)</STRING>
 	<STRING hash="21975261" needed="1"> (准备)</STRING>
 	<STRING hash="69811101" needed="1"> {(驻守在内)}</STRING>
-	<STRING hash="85124837" needed="1">按一下撤守此一单位。</STRING>
+	<STRING hash="85124837" needed="1">点击让该单位撤出。</STRING>
 	<STRING hash="171533220" needed="1">按一下从此群组中撤守一个单位。</STRING>
 	<STRING hash="73238314" needed="1"> ($NUMBER0 个单位在内)</STRING>
 	<STRING hash="78263610" needed="1"> ($NUMBER0 个单位在内)</STRING>
@@ -2996,8 +2996,8 @@
 	<STRING hash="17010630" needed="1">放弃</STRING>
 	<STRING hash="124078027" needed="1">您想要放弃这个游戏?</STRING>
 	<STRING hash="17408390" needed="1">取消</STRING>
-	<STRING hash="13346514" needed="1">退出</STRING>
-	<STRING hash="189659863" needed="1">您想要返回教学功能表吗?</STRING>
+	<STRING hash="13346514" needed="1">撤出</STRING>
+	<STRING hash="189659863" needed="1">您想要返回教学菜单吗?</STRING>
 	<STRING hash="142890929" needed="1">您想要退出这场战役吗?</STRING>
 	<STRING hash="629466841" needed="1">您是否确定要退出这场战役? 请在﹝征服世界战役﹞画面上按一下﹝继续﹞即可继续游戏。</STRING>
 	<STRING hash="219879531" needed="1">您是否要放弃并继续进入战略地图?</STRING>
@@ -3020,8 +3020,8 @@
 	<STRING hash="46468738" needed="1">重新命名此城市</STRING>
 	<STRING hash="13375704" needed="1">名称</STRING>
 	<STRING hash="19420364" needed="1">游戏</STRING>
-	<STRING hash="26717611" needed="1">快速键</STRING>
-	<STRING hash="21682718" needed="1">滑鼠</STRING>
+	<STRING hash="26717611" needed="1">快捷键</STRING>
+	<STRING hash="21682718" needed="1">鼠标</STRING>
 	<STRING hash="30002955" needed="1">画面</STRING>
 	<STRING hash="21660204" needed="1">音效</STRING>
 	<STRING hash="24275744" needed="1">玩家</STRING>
@@ -3052,9 +3052,9 @@
 	<STRING hash="53137063" needed="1">筛选: </STRING>
 	<STRING hash="35593495" needed="1">全部</STRING>
 	<STRING hash="53929247" needed="1">命令</STRING>
-	<STRING hash="86667143" needed="1">快速键对应</STRING>
-	<STRING hash="53222155" needed="1">快速键: </STRING>
-	<STRING hash="50725916" needed="1">设定档</STRING>
+	<STRING hash="86667143" needed="1">快捷键对应</STRING>
+	<STRING hash="53222155" needed="1">快捷键: </STRING>
+	<STRING hash="50725916" needed="1">玩家档案</STRING>
 	<STRING hash="68506519" needed="1">玩家名称</STRING>
 	<STRING hash="23983489" needed="1">-</STRING>
 	<STRING hash="23977533" needed="1">+</STRING>
@@ -3069,13 +3069,13 @@
 	<STRING hash="32231725" needed="1">建立</STRING>
 	<STRING hash="38477919" needed="1">欢迎!</STRING>
 	<STRING hash="38345123" needed="1">警告!</STRING>
-	<STRING hash="326966010" needed="1">设定档 {$PROFILENAME0} 已经存在。您要复写它吗?</STRING>
+	<STRING hash="326966010" needed="1">玩家档案 {$PROFILENAME0} 已经存在。您要复写它吗?</STRING>
 	<STRING hash="21307449" needed="1">确定</STRING>
-	<STRING hash="85654823" needed="1">选择设定档...</STRING>
+	<STRING hash="85654823" needed="1">选择玩家档案...</STRING>
 	<STRING hash="50036872" needed="1">Player_Name</STRING>
 	<STRING hash="134126756" needed="1">请输入玩家名称:</STRING>
-	<STRING hash="172443757" needed="1">请输入新设定档名称:</STRING>
-	<STRING hash="186650267" needed="1">此设定档名称已存在。</STRING>
+	<STRING hash="172443757" needed="1">请输入新玩家档案名称:</STRING>
+	<STRING hash="186650267" needed="1">此玩家档案名称已存在。</STRING>
 	<STRING hash="70843480" needed="1">\Rise of Nations</STRING>
 	<STRING hash="70920801" needed="1">.\PlayerProfiles</STRING>
 	<STRING hash="46151780" needed="1">\Scenarios</STRING>
@@ -3104,9 +3104,9 @@
 	<STRING hash="260111978" needed="1">您无法从教学游戏或剧情中载入征服世界游戏。</STRING>
 	<STRING hash="230109114" needed="1">无法将已储存的多人游戏载入当作单人游戏。</STRING>
 	<STRING hash="10019368" needed="1">:</STRING>
-	<STRING hash="59325007" needed="1">New Scenario</STRING>
+	<STRING hash="59325007" needed="1">新剧情</STRING>
 	<STRING hash="59023764" needed="1">城市范本</STRING>
-	<STRING hash="296695423" needed="1">输出目前滑鼠所在位置的城市为开始城市范本。</STRING>
+	<STRING hash="296695423" needed="1">输出目前鼠标所在位置的城市为开始城市范本。</STRING>
 	<STRING hash="186334351" needed="1">无法打开城市范本存档。</STRING>
 	<STRING hash="35854489" needed="1">失败</STRING>
 	<STRING hash="153571676" needed="1">citytemplate [small | large]</STRING>
@@ -3119,7 +3119,7 @@
 	<STRING hash="36265628" needed="1">取消</STRING>
 	<STRING hash="249218677" needed="1">这将清除全部森林，山地以及岩石。要继续吗?</STRING>
 	<STRING hash="85979813" needed="1">输入新的地图识别值种子</STRING>
-	<STRING hash="29621222" needed="1">退出</STRING>
+	<STRING hash="29621222" needed="1">撤出</STRING>
 	<STRING hash="196255546" needed="1">您要退出﹝剧情编辑器﹞吗?</STRING>
 	<STRING hash="97752676" needed="1">无法载入剧情</STRING>
 	<STRING hash="98054411" needed="1">无法储存剧情</STRING>
@@ -3161,7 +3161,7 @@
 	<STRING hash="40587228" needed="1">)</STRING>
 	<STRING hash="60308029" needed="1">预备!</STRING>
 	<STRING hash="47907449" needed="1"> - </STRING>
-	<STRING hash="48161280" needed="1"> (快速键: $HOTKEY0)</STRING>
+	<STRING hash="48161280" needed="1"> (快捷键: $HOTKEY0)</STRING>
 	<STRING hash="5906452" needed="1"> </STRING>
 	<STRING hash="151045161" needed="1">提供 +$NUMBER0 #ICON5 的收入。</STRING>
 	<STRING hash="23765159" needed="1">对付: </STRING>
@@ -3187,7 +3187,7 @@
 	<STRING hash="5937590" needed="1">^</STRING>
 	<STRING hash="5926192" needed="1">*</STRING>
 	<STRING hash="17383497" needed="1"> 追踪: </STRING>
-	<STRING hash="21092253" needed="1"> (快速键: </STRING>
+	<STRING hash="21092253" needed="1"> (快捷键: </STRING>
 	<STRING hash="5905087" needed="1">{</STRING>
 	<STRING hash="86133662" needed="1"> - 可取得研究时</STRING>
 	<STRING hash="43234479" needed="1"> 军事单位</STRING>
@@ -3245,7 +3245,7 @@
 	<STRING hash="133553607" needed="1">指令码存档: 储存 $FILE0</STRING>
 	<STRING hash="289134455" needed="1">指令码存档: 无法储存 $FILE0。请确定存档并非只读。</STRING>
 	<STRING hash="229468356" needed="1">指令码 $FILE0 在报错时发生变更</STRING>
-	<STRING hash="67002772" needed="1">套用变更</STRING>
+	<STRING hash="67002772" needed="1">应用更改</STRING>
 	<STRING hash="62329411" needed="1">不变更</STRING>
 	<STRING hash="251409194" needed="1">已变更指令码 $FILE0。要马上储存吗?</STRING>
 	<STRING hash="29416241" needed="1">是</STRING>
@@ -3320,7 +3320,7 @@
 	<STRING hash="20108237" needed="1">资料片新民族</STRING>
 	<STRING hash="26635865" needed="1">剧情:</STRING>
 	<STRING hash="21671499" needed="1">指令码:</STRING>
-	<STRING hash="40139649" needed="1">Game Avg ELO: </STRING>
+	<STRING hash="40139649" needed="1">本局平均 ELO: </STRING>
 	<STRING hash="213411685" needed="1"> 不是在已储存游戏中的玩家。已取消游戏载入。</STRING>
 	<STRING hash="183622048" needed="1">并非所有玩家都出现。$NAME0不在。</STRING>
 	<STRING hash="201470704" needed="1">无法载入已储存的游戏。有太多人类玩家在游戏室。</STRING>
@@ -3355,8 +3355,8 @@
 	<STRING hash="198078400" needed="1">您确定要离开游戏大厅吗?</STRING>
 	<STRING hash="178894536" needed="1">灌水保护功能。五秒钟内您不可以聊天。</STRING>
 	<STRING hash="267320637" needed="1">找不到剧情存档 $NAME0，或它不是有效的剧情。</STRING>
-	<STRING hash="736623814" needed="1">这个剧情设定 0 个人类玩家。如果这是正确的，会透过﹝单人游戏﹞功能表上的 ﹝载入剧情﹞选项载入剧情。</STRING>
-	<STRING hash="431311113" needed="1">这个剧情只可支援 2 人以下的人类玩家，且无法使用于多人游戏。</STRING>
+	<STRING hash="736623814" needed="1">这个剧情设定 0 个人类玩家。如果这是正确的，会透过﹝单人游戏﹞菜单上的 ﹝载入剧情﹞选项载入剧情。</STRING>
+	<STRING hash="431311113" needed="1">此剧情支持的人类玩家少于 2 人，无法用于多人游戏。</STRING>
 	<STRING hash="320178901" needed="1">这个剧情最多可有 $NUM0 名人类玩家，目前已有 $NUM1 名加入。</STRING>
 	<STRING hash="250360876" needed="1">找不到关联的剧情指令码 $NAME0 或无法编译。</STRING>
 	<STRING hash="222068986" needed="1">正在同步化已修改的存档。游戏马上开始...</STRING>
@@ -3543,10 +3543,10 @@
 	<STRING hash="80916676" needed="1">世界排名- </STRING>
 	<STRING hash="108336164" needed="1">大陆排名- </STRING>
 	<STRING hash="92476370" needed="1">玩家排名- </STRING>
-	<STRING hash="1669226675" needed="1">按左键是配置河流控制节点; 按右键是移除节点。在最终控制节点上再按一次左键，就可完成该河流。不要和山地重叠。将河流终止于海洋里，就可与海洋衔接。按一下﹝套用变更﹞可永久变更河流。</STRING>
-	<STRING hash="484924261" needed="1">在山地、河流或峭壁按左键可移除它们。按一下﹝套用变更﹞可永久变更。</STRING>
-	<STRING hash="754886524" needed="1">按左键可放置一座山地。使用下拉式方块或按右键可选择山地形状。按一下﹝套用变更﹞固定新山地。</STRING>
-	<STRING hash="719461348" needed="1">按左键可放置一个峭壁。按右键可变更峭壁的形状及大小。按一下﹝套用变更﹞固定新峭壁。</STRING>
+	<STRING hash="1669226675" needed="1">按左键是配置河流控制节点; 按右键是移除节点。在最终控制节点上再按一次左键，就可完成该河流。不要和山地重叠。将河流终止于海洋里，就可与海洋衔接。按一下﹝应用更改﹞可永久变更河流。</STRING>
+	<STRING hash="484924261" needed="1">在山地、河流或峭壁按左键可移除它们。按一下﹝应用更改﹞可永久变更。</STRING>
+	<STRING hash="754886524" needed="1">按左键可放置一座山地。使用下拉式方块或按右键可选择山地形状。按一下﹝应用更改﹞固定新山地。</STRING>
+	<STRING hash="719461348" needed="1">按左键可放置一个峭壁。按右键可变更峭壁的形状及大小。按一下﹝应用更改﹞固定新峭壁。</STRING>
 	<STRING hash="600665223" needed="1">从下方介面的按钮中选取地形类型。按一下地形编辑地图，将该地形加入世界。</STRING>
 	<STRING hash="21800769" needed="1">识别值种子:</STRING>
 	<STRING hash="39355369" needed="1">陆地比例:</STRING>
@@ -3632,7 +3632,7 @@
 	<STRING hash="422839588" needed="1">您决定在游戏结束之前就退出。下一步您想要做什么?</STRING>
 	<STRING hash="258403171" needed="1">学习更多基本信息，进行教学游戏。</STRING>
 	<STRING hash="228678639" needed="1">准备就绪，开始进行﹝快速上手战斗﹞。</STRING>
-	<STRING hash="232163269" needed="1">进入主功能表并探索其他游戏选项。</STRING>
+	<STRING hash="232163269" needed="1">进入主菜单并探索其他游戏选项。</STRING>
 	<STRING hash="110728243" needed="1">返回游戏。</STRING>
 	<STRING hash="22283578" needed="1">年份</STRING>
 	<STRING hash="15572251" needed="1"> </STRING>
@@ -3890,7 +3890,7 @@
 	<STRING hash="8575211" needed="1">_</STRING>
 	<STRING hash="19613865" needed="1">_</STRING>
 	<STRING hash="11571107" needed="1">名称</STRING>
-	<STRING hash="197600141" needed="1">End of file reached in unterminated &quot;/*&quot; comment</STRING>
+	<STRING hash="197600141" needed="1">到达文件末尾时，仍有未结束的“/*”注释</STRING>
 	<STRING hash="61510056" needed="1">语法错误(s):</STRING>
 	<STRING hash="101144746" needed="1">语法错误: $CONTENTS0</STRING>
 	<STRING hash="27013915" needed="1">关闭</STRING>
@@ -3914,7 +3914,7 @@
 	<STRING hash="23758606" needed="1">&lt;Twitch&gt; </STRING>
 	<STRING hash="30042915" needed="1">用户名称:</STRING>
 	<STRING hash="29990796" needed="1">密码:</STRING>
-	<STRING hash="62906230" needed="1">串流媒体解析度:</STRING>
+	<STRING hash="62906230" needed="1">串流媒体分辨率:</STRING>
 	<STRING hash="30598592" needed="1">Twitch直播</STRING>
 	<STRING hash="40738233" needed="1">开始串流媒体</STRING>
 	<STRING hash="40586571" needed="1">暂停串流媒体</STRING>
@@ -3961,7 +3961,7 @@
 	<STRING hash="59729339" needed="1">初始化错误</STRING>
 	<STRING hash="52616630" needed="1">材质记忆体总量:</STRING>
 	<STRING hash="31574539" needed="1">调皮鬼</STRING>
-	<STRING hash="208265803" needed="1">你想保留新的解析度吗?</STRING>
+	<STRING hash="208265803" needed="1">你想保留新的分辨率吗?</STRING>
 	<STRING hash="46047792" needed="1">剩余时间: </STRING>
 	<STRING hash="43676697" needed="1">取消</STRING>
 	<STRING hash="30238061" needed="1">确定</STRING>
@@ -4022,7 +4022,7 @@
 	<STRING hash="21712770" needed="1">单位</STRING>
 	<STRING hash="21756497" needed="1">城市</STRING>
 	<STRING hash="21594630" needed="1">    </STRING>
-	<STRING hash="26282383" needed="1">&lt;None&gt;</STRING>
+	<STRING hash="26282383" needed="1">&lt;无&gt;</STRING>
 	<STRING hash="31854972" needed="1">筛选器: </STRING>
 	<STRING hash="19291072" needed="1">全选</STRING>
 	<STRING hash="32647156" needed="1">指令</STRING>
@@ -4037,7 +4037,7 @@
 	<STRING hash="29781257" needed="1">停用</STRING>
 	<STRING hash="49885183" needed="1">%.02MB</STRING>
 	<STRING hash="49865925" needed="1">%.02KB</STRING>
-	<STRING hash="67639999" needed="1">%.02 bytes</STRING>
+	<STRING hash="67639999" needed="1">%.02 字节</STRING>
 	<STRING hash="66662670" needed="1">(%d 存档)</STRING>
 	<STRING hash="58037800" needed="1">(1 存档)</STRING>
 	<STRING hash="49688091" needed="1">标题:</STRING>
@@ -4045,10 +4045,10 @@
 	<STRING hash="81257253" needed="1">详细资料:</STRING>
 	<STRING hash="53761284" needed="1">%.02dMB</STRING>
 	<STRING hash="53735254" needed="1">%.02dKB</STRING>
-	<STRING hash="72207138" needed="1">%.02d bytes</STRING>
+	<STRING hash="72207138" needed="1">%.02d 字节</STRING>
 	<STRING hash="49752781" needed="1">%.2fMB</STRING>
 	<STRING hash="49733523" needed="1">%.2fKB</STRING>
-	<STRING hash="58539692" needed="1">%d bytes</STRING>
+	<STRING hash="58539692" needed="1">%d 字节</STRING>
 	<STRING hash="50606134" needed="1">公开</STRING>
 	<STRING hash="76516385" needed="1">限好友</STRING>
 	<STRING hash="54326621" needed="1">私人</STRING>
@@ -4078,7 +4078,7 @@
 	<STRING hash="491423005" needed="1">发布成功，但您必须同意Steam创意工坊协议方可使其生效。</STRING>
 	<STRING hash="121765941" needed="1">未处理的错误</STRING>
 	<STRING hash="-695668279" needed="1">创意工坊的游戏模组有可能改变神话世纪的功能，这些模组不是由微软创建或负责支援。从 Steam创意工坊下载文件，代表你同意微软公司和相关附属机构的风险和发布，并同意承担使用 Steam创意工坊的任何法律责任。你对 Steam创意工坊的使用，将受到 Steam使用条款的约束，而不是微软的终端用户许可协议。</STRING>
-	<STRING hash="48661787" needed="1">Drop Down Mod</STRING>
+	<STRING hash="48661787" needed="1">模组下拉列表</STRING>
 	<STRING hash="-711473132" needed="1">Steam创意工坊的游戏模组有可能改变国家的崛起: 拓展版的功能，这些模组不是由微软创建或负责支援。从 Steam创意工坊下载文件，代表你同意微软公司和相关附属机构的风险和发布，并同意承担使用 Steam创意工坊的任何法律责任。你对 Steam创意工坊的使用，将受到 Steam使用条款的约束，而不是微软的终端用户许可协议。</STRING>
 	<STRING hash="204819161" needed="1">验证Steam创意工坊物品...</STRING>
 	<STRING hash="134376562" needed="1">取得详细资料中</STRING>
@@ -4139,7 +4139,7 @@
 	<STRING hash="29481361" needed="1">topmenu.xml</STRING>
 	<STRING hash="9905862" needed="1">确定</STRING>
 	<STRING hash="263852515" needed="1">你有一个来自好友的游戏邀请! 前往游戏浏览器查看</STRING>
-	<STRING hash="24496316" needed="1">退出</STRING>
+	<STRING hash="24496316" needed="1">撤出</STRING>
 	<STRING hash="63317240" needed="1">退出到桌面</STRING>
 	<STRING hash="150844077" needed="1">您确定要退出?</STRING>
 	<STRING hash="30232851" needed="1">取消</STRING>
@@ -4155,7 +4155,7 @@
 	<STRING hash="223424970" needed="1">您没有权限加入多人游戏服务</STRING>
 	<STRING hash="126163751" needed="1">登入线上服务...</STRING>
 	<STRING hash="230371868" needed="1">无法连联系线上服务，请稍后再试</STRING>
-	<STRING hash="865148822" needed="1">跨网路游玩已启用: 您现在可以和其他网路平台的玩家进行配对游戏。 您可以在游戏页面的「选项与设定档」中停用此功能。</STRING>
+	<STRING hash="865148822" needed="1">跨网路游玩已启用: 您现在可以和其他网路平台的玩家进行配对游戏。 您可以在游戏页面的「选项与玩家档案」中停用此功能。</STRING>
 	<STRING hash="100264223" needed="1">无法建立与 $STRING0 的连线。</STRING>
 	<STRING hash="302668605" needed="1">由于目前跨网路游玩的设定，无法加入主控室</STRING>
 	<STRING hash="350231303" needed="1">请登入 Xbox Live 以继续并/或与云端空间进行同步</STRING>

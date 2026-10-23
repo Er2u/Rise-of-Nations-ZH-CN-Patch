@@ -100,7 +100,7 @@
 		<STRING hash="111310636">敌人发动了反击!</STRING>
 	</FILE>
 	<FILE hash="10488957" name="pillageruntime">
-		<STRING hash="289242122">提示: 将敌军的健康值减半以占领敌军的生产建筑物。</STRING>
+		<STRING hash="289242122">提示：将敌方军事生产建筑的生命值削减一半，即可占领它们。</STRING>
 		<STRING hash="203159043">提示: 破坏敌人的建筑物或寻找废墟，以取得资源。</STRING>
 	</FILE>
 	<FILE hash="12876998" name="liberationsetup">

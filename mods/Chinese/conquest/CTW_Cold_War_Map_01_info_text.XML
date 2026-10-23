@@ -201,7 +201,8 @@
     <ENTRY name="SKIRMISH2">
       <STRING/>
     </ENTRY>
-  </CUSTOM>
+  <ENTRY name="BATTLE OF PUSON2"><STRING/></ENTRY>
+</CUSTOM>
   <ESPIONAGEUSA>
     <ENTRY name="MISSILE STRIKE">
       <STRING/>
