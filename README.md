@@ -43,3 +43,7 @@ python tools/audit_text.py --game-dir "D:/clean-reference" --output bilingual-re
 ```
 
 英文对照目录必须是未安装汉化的本地资源，不能与已打补丁的文件自身比较。对照导出覆盖 XML 正文、内嵌标记后的文字、可翻译属性及启动器 INI。数字和未译英文标记仅是待审候选，不会自动改写译文。内部英文名称、命令和路径需要保留。英文对照表供本地审校，不应提交到仓库。
+
+## Steam Workshop
+
+Workshop 版在 Steam 1.20 上需要订阅后运行一次本地引导，解决早期字体/UI 未加载；后续资源由 Steam 更新。详见 [安装、卸载与限制](WORKSHOP.zh-CN.md)。

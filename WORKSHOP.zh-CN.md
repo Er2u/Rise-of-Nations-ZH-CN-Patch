@@ -1,25 +1,52 @@
-# Workshop 本地候选版
+# Steam Workshop 版：订阅后需一次安装
 
-这是待实机验证的准备材料，尚未发布 Workshop 项目。
+条目：[Rise of Nations EE 简体中文修复版](https://steamcommunity.com/sharedfiles/filedetails/?id=3824946614)。适用于实测的 Windows Steam 1.20；不是订阅即用。发布记录与范围见 [TESTING.md](TESTING.md)。
 
-依据官方开发团队的 [1.09 Workshop 说明](https://steamcommunity.com/app/287450/discussions/0/616189106702224078/?ctp=2&l=greek)，全局模组放在 `mods/<模组名>/`，下级目录对应游戏根目录。`info.xml` 用于旧式对局下拉模组；本汉化候选版采用全局覆盖结构，不添加它。发布入口是游戏内模组管理器。
+## 安装
 
-构建：`python tools/build_workshop.py workshop-local-candidate.zip`。ZIP 内包含 `RON_zhCN_Compatibility/`，解压到游戏 mods 目录即可作为本地候选；当前阶段仅生成 ZIP，不自动安装、不启动游戏、不上传。
+1. 在 Steam 订阅并等下载完成，退出游戏及启动器。先还原其他直接覆盖汉化；不要让旧根目录文件掩盖模组。保留个人配置、存档和其他模组。
+2. 从本分支下载 [Install-Workshop.ps1](tools/Install-Workshop.ps1)。在 PowerShell 中运行，替换为 Steam“管理 → 浏览本地文件”显示的真实游戏目录：
 
-Workshop 包不包含 launcher_res：启动器先于游戏内模组加载，不能承诺订阅即可汉化启动器。启动器汉化仍属于独立覆盖包。包内无 rise2.ini、存档、可执行文件及绝对机器路径。
+```powershell
+& .\Install-Workshop.ps1 -GamePath 'D:\SteamLibrary\steamapps\common\Rise of Nations'
+```
 
-## 发布前必须落实
+3. 通过 Steam 启动。在“工具与附加内容 → Steam 创意工坊”保留 `RON_zhCN_Compatibility <LOCAL>` 启用。如果订阅条目同时显示，两个条目指向同一份文件，不能把 LOCAL 当成多余的旧副本删除。修改启用状态后完整退出再启动。
 
-1. 本分支已移除原包的微软字体，改用未修改的 Noto Sans CJK SC Regular / Bold（官方 Sans2.004 标签）。字体按 SIL Open Font License 1.1 分发，许可证与来源/哈希位于 Data/Fonts/OFL.txt 和 SOURCES.txt；独立包及 Workshop 包均附带这些文件。字体许可证独立于汉化文本许可证。玩家无需复制系统字体。
-2. 按原仓库说明保留 xsgteamx、宽宽汉化 / 3DM 旧版补档的来源及 CC BY-NC-SA 4.0 标注，核对新增资源的来源和许可。
-3. 用户方便时退出游戏，备份资源和窗口化设置，恢复先前直接覆盖的资源后测试 Workshop 候选；否则根目录汉化可能掩盖模组未加载的问题。不要直接覆盖或删除用户的新存档。
-4. 验证主菜单、设置、教程、单人对局和四大战役；检查长文本、字体、动态外交通知、保存/载入。然后检查禁用、重新启用、重启，以及无本地重复副本的订阅下载。完整通关和多人兼容另行记录，不以冒烟测试代替。
-5. 直接覆盖版已完成 TESTING.md 所列实机冒烟测试，可提交上游 PR；Workshop 仍须单独验证。Workshop 先以私密条目验证订阅路径，验证后再公开；保留条目 ID，后续更新同一条目。
+脚本只建立 `mods/RON_zhCN_Compatibility` 到 Steam 实际下载目录的 Windows 目录联接；不复制资源、不修改游戏 EXE、存档或 rise2.ini，也不安装系统字体。Steam 更新会写入联接指向的同一目录，无需重复复制。脚本检查两款字体的 SHA-256，遇到已有真实本地文件夹会拒绝覆盖。支持 `-WhatIf` 预览。
 
-## 页面文案草稿
+要求正常 `steamapps/common/Rise of Nations` 布局，订阅下载位于同一个 Steam 库的 `steamapps/workshop/content/287450/3824946614`。移动游戏库后，应先卸载旧联接，再针对新路径安装。其他库布局、Linux/Proton 和多人联机尚未验证。若 PowerShell 被组织策略禁止运行脚本，请不要修改安全策略，可使用独立覆盖包。
 
-标题：Rise of Nations EE 简体中文修复版
+## 停用与卸载
 
-基于 xsgteamx/Rise-of-Nations-ZH-CN-Patch 的非官方简体中文修复：改善菜单、设置、教程和战役/外交译文，修复当前 Steam 版本的资源引用及动态文本格式。保留原有窗口化设置，不修改存档。启动器汉化不包含在 Workshop 版中。请勿与其他覆盖同名文本/字体资源的模组同时启用。
+临时停用：在游戏内同时停用 LOCAL 和订阅条目，再完整重启；不要仅“重新加载资源”，部分早期 UI 有缓存。
 
-发布时补充实际通过的版本、测试范围、字体来源及 PR 链接，不使用“全版本兼容”或“全战役测试通过”等未经验证的表述。
+卸载：退出游戏及启动器，运行下列命令移除联接，然后在 Steam 取消订阅或在游戏内禁用订阅条目。脚本仅删除联接本身，保留 Steam 下载目录、原版游戏文件和存档。
+
+```powershell
+& .\Install-Workshop.ps1 -GamePath 'D:\SteamLibrary\steamapps\common\Rise of Nations' -Remove
+```
+
+## 为什么需要引导
+
+实测纯订阅虽然加载中文正文，却漏载启动阶段的字体和部分 UI；刷新资源也无法修复。保持下载文件不变，仅增加本地目录联接后，冷启动正常。这个做法让游戏按本地模组顺序加载同一份订阅资源。它不是对原版加载器的修改。
+
+发布器还会忽略 `Data/Fonts` 子目录，因此 Workshop 打包将两款 OTF 放在 `Data/`，将 `OFL.txt`、`SOURCES.txt`、`ATTRIBUTION.txt` 放在模组根目录。字体引用是相对 Steam 库路径，不含作者机器的盘符或用户目录。
+
+## 来源与许可
+
+文本基于 xsgteamx/Rise-of-Nations-ZH-CN-Patch，保留繁体零售文本、宽宽汉化 / 3DM 补档来源说明，按上游声明的 CC BY-NC-SA 4.0 标注。改动见 [PR #1](https://github.com/xsgteamx/Rise-of-Nations-ZH-CN-Patch/pull/1)。
+
+字体为未修改的 Noto Sans CJK SC Regular / Bold，官方 Sans2.004 标签，SIL OFL 1.1。字体许可证与文本许可证独立，下载包内附许可证和来源哈希。无需使用或分发微软字体。
+
+启动器先于模组加载，Workshop 不包含 launcher_res；启动器保持英文。请勿叠加覆盖相同文本/字体资源的其他汉化。
+
+## 维护与构建
+
+```text
+python tools/build_workshop.py workshop.zip --workshop-id 3824946614
+```
+
+ZIP 内 `RON_zhCN_Compatibility/` 是上传资源，安装脚本及准备说明位于目录外。不带 `--workshop-id` 可构建本地字体路径候选供新作者首次私密上传；取得新 ID 后必须修改安装脚本中的条目 ID，并按新 ID 重建，再进行订阅隔离测试。本项目更新同一条目，不能反复新建。
+
+发布文件必须来自工作副本，避免通过运行中的联接编辑订阅下载或让 Steam 更新与发布同时发生。游戏发布器通常额外写入 `_publishinfo.txt`，不计入 144 个资源文件。
